@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PKM Case Studies/Case Study Writer.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "PKM Case Studies/Case Study Writer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "PKM Case Studies/Case Study Writer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "PKM Case Studies/Case Study Writer.md"
               }
             }
           },
@@ -173,12 +173,17 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "546acc9d6af28120",
+  "active": "cc77d184f6663e14",
   "lastOpenFiles": [
+    "PKM Case Studies/Case Study Academic Researcher.md",
+    "PKM Case Studies/Case Study Project Manager.md",
+    "PKM Case Studies/Case Study Writer.md",
+    "PKM Case Studies/Case Study Software Developer.md",
+    "PKM Case Studies/Case Study Student.md",
+    "README.md",
     "images",
     "images/download-repo.png",
     "PKM Examples/PKM in Project Management.md",
-    "README.md",
     "PKM Examples/PKM in Research.md",
     "PKM Workflows/Capturing Information.md",
     "Connections/Integrating Tools and Techniques.md",
@@ -194,14 +199,10 @@
     "PKM Books and Resources/PKM Blogs and Websites.md",
     "PKM Techniques/Information Organization.md",
     "PKM Workflows/Creating Output.md",
-    "PKM Case Studies/Case Study Writer.md",
-    "PKM Case Studies/Case Study Software Developer.md",
     "Introduction to PKM/What is Personal Knowledge Management.md",
     "Connections/Evolution of PKM Practices.md",
     "Connections/Connecting PKM Strategies.md",
     "PKM Workflows/Processing and Organizing.md",
-    "PKM Case Studies/Case Study Project Manager.md",
-    "Connections/Interdisciplinary Applications of PKM.md",
     "Connections",
     "PKM Case Studies",
     "PKM Books and Resources",
@@ -210,7 +211,6 @@
     "PKM Workflows",
     "PKM Techniques",
     "PKM Strategies",
-    "Introduction to PKM",
-    "smart-chats"
+    "Introduction to PKM"
   ]
 }

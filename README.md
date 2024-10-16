@@ -1,4 +1,4 @@
-# Personal Knowledge Management (PKM) Vault
+# Smart Connections PKM Vault
 
 Welcome to the **PKM Vault**, a comprehensive and structured resource dedicated to mastering **Personal Knowledge Management (PKM)**. This repository is designed to be used with [Obsidian](https://obsidian.md/), a powerful note-taking and knowledge management tool that excels in linking and connecting notes using markdown files.
 
