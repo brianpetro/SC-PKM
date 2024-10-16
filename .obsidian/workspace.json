@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PKM Examples/PKM in Project Management.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PKM Examples/PKM in Project Management.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PKM Examples/PKM in Project Management.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PKM Examples/PKM in Project Management.md"
+                "file": "README.md"
               }
             }
           },
@@ -154,7 +154,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -168,12 +168,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "cc77d184f6663e14",
   "lastOpenFiles": [
+    "PKM Examples/PKM in Project Management.md",
+    "README.md",
     "PKM Examples/PKM in Research.md",
     "PKM Workflows/Capturing Information.md",
     "Connections/Integrating Tools and Techniques.md",
@@ -195,11 +198,9 @@
     "Connections/Evolution of PKM Practices.md",
     "Connections/Connecting PKM Strategies.md",
     "PKM Workflows/Processing and Organizing.md",
-    "PKM Examples/PKM in Project Management.md",
     "PKM Case Studies/Case Study Project Manager.md",
     "Connections/Interdisciplinary Applications of PKM.md",
     "Introduction to PKM/Importance of PKM.md",
-    "PKM Best Practices/Privacy and Security in PKM.md",
     "Connections",
     "PKM Case Studies",
     "PKM Books and Resources",
