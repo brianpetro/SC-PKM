@@ -1,0 +1,3 @@
+- Organizes study notes, reading lists, and assignments using PKM.
+- Links related concepts between different subjects.
+- Uses spaced repetition to review key material.

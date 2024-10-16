@@ -1,0 +1,3 @@
+- Uses PKM to capture ideas, outline drafts, and organize research for writing projects.
+- Links relevant notes together to build complex narratives.
+- Organizes by project, idea, and stage of writing.

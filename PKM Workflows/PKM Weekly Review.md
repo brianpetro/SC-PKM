@@ -1,0 +1,3 @@
+- Review progress on current projects.
+- Organize any new notes.
+- Reflect on the past week and set goals for the next.

@@ -1,0 +1,2 @@
+- Use encryption or password protection for sensitive information.
+- Regularly back up your PKM system to prevent data loss.

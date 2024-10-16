@@ -1,0 +1,2 @@
+- Linking notes creates relationships that allow for cross-disciplinary connections and deeper understanding.
+- Tags help unify ideas across different subjects and contexts.

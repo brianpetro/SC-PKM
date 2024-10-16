@@ -1,0 +1,2 @@
+- PKM is useful across various fields such as research, writing, education, and project management.
+- Applying PKM across disciplines allows for creative connections and innovation.

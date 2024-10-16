@@ -1,0 +1,2 @@
+- PKM practices have evolved from simple note-taking to complex systems for managing and synthesizing knowledge.
+- The rise of digital tools has transformed PKM by enabling more dynamic and interconnected systems.

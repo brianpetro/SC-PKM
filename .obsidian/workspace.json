@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "88c3b6252592da75",
+    "type": "split",
+    "children": [
+      {
+        "id": "9453a43e420624f8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc77d184f6663e14",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PKM Examples/PKM in Project Management.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "76c9184a79cca1e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a8f3b86de8d0f9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "546acc9d6af28120",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc3ae0bd542e9a8e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dc15eab37a357c90",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 391.5
+  },
+  "right": {
+    "id": "8569fc66864b3fa7",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2a6acfbaa1ffae1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e789919859536728",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "PKM Examples/PKM in Project Management.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "657aabaa51e88623",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "PKM Examples/PKM in Project Management.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "49587dfc450ec3de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b76d8309e2e36189",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "PKM Examples/PKM in Project Management.md"
+              }
+            }
+          },
+          {
+            "id": "196cc023632359ff",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "5d3cce46343d418b",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "80400472912ce374",
+            "type": "leaf",
+            "state": {
+              "type": "smart_chatgpt",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 610.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
+    }
+  },
+  "active": "cc77d184f6663e14",
+  "lastOpenFiles": [
+    "PKM Examples/PKM in Research.md",
+    "PKM Workflows/Capturing Information.md",
+    "Connections/Integrating Tools and Techniques.md",
+    "PKM Books and Resources/How to Take Smart Notes by Sönke Ahrens.md",
+    "PKM Books and Resources/Getting Things Done by David Allen.md",
+    "PKM Books and Resources/The Organized Mind by Daniel J Levitin.md",
+    "PKM Techniques/Note Taking Techniques.md",
+    "PKM Books and Resources/Building a Second Brain by Tiago Forte.md",
+    "Introduction to PKM/Key Concepts in PKM.md",
+    "PKM Workflows/Reviewing and Reflecting.md",
+    "PKM Examples/Personal PKM Setups.md",
+    "PKM Examples/Academic PKM Use Cases.md",
+    "PKM Books and Resources/PKM Blogs and Websites.md",
+    "PKM Techniques/Information Organization.md",
+    "PKM Workflows/Creating Output.md",
+    "PKM Case Studies/Case Study Writer.md",
+    "PKM Case Studies/Case Study Software Developer.md",
+    "Introduction to PKM/What is Personal Knowledge Management.md",
+    "Connections/Evolution of PKM Practices.md",
+    "Connections/Connecting PKM Strategies.md",
+    "PKM Workflows/Processing and Organizing.md",
+    "PKM Examples/PKM in Project Management.md",
+    "PKM Case Studies/Case Study Project Manager.md",
+    "Connections/Interdisciplinary Applications of PKM.md",
+    "Introduction to PKM/Importance of PKM.md",
+    "PKM Best Practices/Privacy and Security in PKM.md",
+    "Connections",
+    "PKM Case Studies",
+    "PKM Books and Resources",
+    "PKM Best Practices",
+    "PKM Examples",
+    "PKM Workflows",
+    "PKM Techniques",
+    "PKM Strategies",
+    "Introduction to PKM",
+    "smart-chats"
+  ]
+}

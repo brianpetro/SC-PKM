@@ -1,0 +1,3 @@
+- Uses PKM to manage research literature, notes, and citations.
+- Focuses on connecting ideas across different papers.
+- Organizes projects by research topic and outcome.

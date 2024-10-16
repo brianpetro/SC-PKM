@@ -1,0 +1,3 @@
+- Zettelkasten and Atomic Notes both emphasize creating atomic, interlinked notes.
+- PARA can be integrated with GTD to manage tasks and resources more effectively.
+- Linking Your Thinking brings bidirectional linking from Zettelkasten into a map-oriented system.

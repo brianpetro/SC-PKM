@@ -1,0 +1,2 @@
+- Schedule daily, weekly, and monthly reviews to keep track of notes and tasks.
+- Regular reviews help refine your PKM system and ensure it remains effective.

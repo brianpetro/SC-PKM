@@ -1,0 +1,3 @@
+- Tracks projects, tasks, and deadlines using a PKM system.
+- Uses PKM for collaboration and task delegation.
+- Links related projects and resources to streamline management.

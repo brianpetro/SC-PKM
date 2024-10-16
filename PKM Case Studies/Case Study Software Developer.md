@@ -1,0 +1,3 @@
+- Uses PKM to manage project documentation and code snippets.
+- Links design documents, bugs, and features for quick reference.
+- Organizes by project, language, and tool.

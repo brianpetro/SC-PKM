@@ -1,0 +1,2 @@
+- Set limits on how much information to capture.
+- Focus on the most relevant and actionable content.

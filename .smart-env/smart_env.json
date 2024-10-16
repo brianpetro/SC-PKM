@@ -1,0 +1,29 @@
+{
+  "is_obsidian_vault": true,
+  "smart_blocks": {
+    "embed_blocks": true
+  },
+  "smart_sources": {
+    "embed_model": {
+      "model_key": "TaylorAI/bge-micro-v2",
+      "legacy_transformers": false,
+      "TaylorAI/bge-micro-v2": {
+        "min_chars": 10
+      }
+    },
+    "smart_change": {
+      "active": true
+    }
+  },
+  "file_exclusions": "Untitled",
+  "folder_exclusions": "smart-chats",
+  "smart_chats_folder": "smart-chats",
+  "excluded_headings": "",
+  "expanded_view": true,
+  "smart_view_filter": {
+    "results_limit": "20",
+    "exclude_inlinks": false,
+    "exclude_outlinks": false
+  },
+  "show_full_path": false
+}
