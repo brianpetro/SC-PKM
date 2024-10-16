@@ -10,7 +10,7 @@ The **PKM Vault** is organized using the *Atomic Notes* strategy, meaning each n
 
 ### 1. Clone the Repository
 Download the repository as a ZIP file and extract it to your preferred location.
-
+![[Pasted image 20241016113317.png]]
 ### 2. Open in Obsidian
 Once you have the repository on your local machine:
 1. Open **Obsidian**.
