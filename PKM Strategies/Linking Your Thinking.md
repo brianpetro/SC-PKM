@@ -14,3 +14,6 @@ LYT offers pre-made templates and systems for organizing notes and ideas in a di
 ## Benefits of LYT Approach
 - Helps create a knowledge system that reflects personal thinking patterns.
 - Encourages creativity by visualizing connections between ideas.
+
+```dataview
+```

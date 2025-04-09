@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PKM Case Studies/Case Study Writer.md",
+                "file": "PKM Books and Resources/The Organized Mind by Daniel J Levitin.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "The Organized Mind by Daniel J Levitin"
             }
           }
         ]
@@ -38,8 +40,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +59,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +69,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "PKM Case Studies/Case Study Writer.md",
+                "file": "PKM Case Studies/Case Study Software Developer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +102,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Case Study Software Developer"
             }
           },
           {
@@ -102,10 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "PKM Case Studies/Case Study Writer.md",
+                "file": "PKM Case Studies/Case Study Software Developer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Case Study Software Developer"
             }
           },
           {
@@ -116,7 +129,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +140,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "PKM Case Studies/Case Study Writer.md"
-              }
+                "file": "PKM Case Studies/Case Study Software Developer.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Case Study Software Developer"
             }
           },
           {
@@ -134,15 +151,9 @@
             "type": "leaf",
             "state": {
               "type": "smart-connections-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "5d3cce46343d418b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
+              "state": {},
+              "icon": "smart-connections",
+              "title": "Smart Connections"
             }
           },
           {
@@ -150,11 +161,33 @@
             "type": "leaf",
             "state": {
               "type": "smart_chatgpt",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "ad77c3c45a5508fc",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "24af5a557c93d2b5",
+            "type": "leaf",
+            "state": {
+              "type": "smart-directories-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -168,41 +201,40 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
       "smart-connections:Open: View Smart Connections": false,
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
   "active": "cc77d184f6663e14",
   "lastOpenFiles": [
-    "PKM Case Studies/Case Study Academic Researcher.md",
+    "PKM Books and Resources/How to Take Smart Notes by Sönke Ahrens.md",
+    "PKM Books and Resources/PKM Blogs and Websites.md",
+    "PKM Books and Resources/Building a Second Brain by Tiago Forte.md",
+    "PKM Best Practices/Consistency in Note Taking.md",
+    "PKM Best Practices/Regular Reviews.md",
+    "PKM Best Practices/Privacy and Security in PKM.md",
+    "PKM Best Practices/Linking and Connecting Notes.md",
+    "Introduction to PKM/What is Personal Knowledge Management.md",
+    "Introduction to PKM/Key Concepts in PKM.md",
+    "Introduction to PKM/Importance of PKM.md",
+    "Introduction to PKM/History of PKM.md",
+    "Introduction to PKM/Benefits of Effective PKM.md",
+    "Connections/Relationships Between Concepts.md",
+    "Connections/Interdisciplinary Applications of PKM.md",
+    "Connections/Evolution of PKM Practices.md",
+    "Connections/Connecting PKM Strategies.md",
     "PKM Case Studies/Case Study Project Manager.md",
-    "PKM Case Studies/Case Study Writer.md",
-    "PKM Case Studies/Case Study Software Developer.md",
     "PKM Case Studies/Case Study Student.md",
+    "PKM Case Studies/Case Study Writer.md",
+    "PKM Examples/PKM in Research.md",
+    "PKM Strategies/Getting Things Done.md",
+    "PKM Strategies/Second Brain Concept.md",
+    "PKM Techniques/Note Taking Techniques.md",
+    "PKM Techniques/Tagging and Linking.md",
+    "PKM Workflows/PKM Weekly Review.md",
     "README.md",
     "images",
     "images/download-repo.png",
-    "PKM Examples/PKM in Project Management.md",
-    "PKM Examples/PKM in Research.md",
-    "PKM Workflows/Capturing Information.md",
-    "Connections/Integrating Tools and Techniques.md",
-    "PKM Books and Resources/How to Take Smart Notes by Sönke Ahrens.md",
-    "PKM Books and Resources/Getting Things Done by David Allen.md",
-    "PKM Books and Resources/The Organized Mind by Daniel J Levitin.md",
-    "PKM Techniques/Note Taking Techniques.md",
-    "PKM Books and Resources/Building a Second Brain by Tiago Forte.md",
-    "Introduction to PKM/Key Concepts in PKM.md",
-    "PKM Workflows/Reviewing and Reflecting.md",
-    "PKM Examples/Personal PKM Setups.md",
-    "PKM Examples/Academic PKM Use Cases.md",
-    "PKM Books and Resources/PKM Blogs and Websites.md",
-    "PKM Techniques/Information Organization.md",
-    "PKM Workflows/Creating Output.md",
-    "Introduction to PKM/What is Personal Knowledge Management.md",
-    "Connections/Evolution of PKM Practices.md",
-    "Connections/Connecting PKM Strategies.md",
-    "PKM Workflows/Processing and Organizing.md",
     "Connections",
     "PKM Case Studies",
     "PKM Books and Resources",

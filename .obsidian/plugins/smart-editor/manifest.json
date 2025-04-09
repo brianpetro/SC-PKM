@@ -1,0 +1,10 @@
+{
+  "id": "smart-editor",
+  "name": "Smart Editor (Very Experimental)",
+  "version": "1.0.10",
+  "minAppVersion": "1.8.0",
+  "description": "Adds 'Generate Draft' command and displays as changes like in Cursor. More details coming soon!",
+  "author": "🌴 Brian",
+  "authorUrl": "https://smartconnections.app",
+  "isDesktopOnly": true
+}

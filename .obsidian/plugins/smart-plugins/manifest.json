@@ -1,0 +1,11 @@
+{
+  "id": "smart-plugins",
+  "name": "Smart Plugins",
+  "version": "1.0.6",
+  "minAppVersion": "0.12.0",
+  "description": "Smart Plugins",
+  "author": "🌴 Brian",
+  "authorUrl": "https://smartconnections.app",
+  "isDesktopOnly": false,
+  "protocol": "smart-plugins"
+}

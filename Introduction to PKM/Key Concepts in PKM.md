@@ -6,3 +6,5 @@ Key concepts in PKM include:
 - Retrieval: accessing information when needed.
 - Reflection: reviewing and revisiting notes to synthesize knowledge.
 - Output: producing tangible results from organized knowledge.
+
+
