@@ -1,2 +1,0 @@
-- Ensure every new note is linked to relevant existing notes.
-- Use bidirectional links to create a web of knowledge.

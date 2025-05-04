@@ -1,2 +1,0 @@
-- Keep each note focused on a single concept or idea.
-- Avoid merging multiple topics into one note to maintain clarity and ease of linking.

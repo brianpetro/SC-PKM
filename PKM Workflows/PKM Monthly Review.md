@@ -1,3 +1,0 @@
-- Reflect on long-term goals and progress.
-- Adjust workflows or tools as needed.
-- Organize accumulated notes for future reference.

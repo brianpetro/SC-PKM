@@ -1,2 +1,0 @@
-- Develop a routine for capturing and processing notes daily or weekly.
-- Consistency helps prevent backlog and information overload.
