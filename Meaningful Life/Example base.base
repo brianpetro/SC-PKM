@@ -1,0 +1,14 @@
+formulas:
+  PKM References: ""
+  Post-Traumatic Growth: cos_sim(file.file, "Meaningful Life/Balance & Well-being/Post-Traumatic Growth.md")
+  Second Brain: cos_sim(file.file, "PKM/Advanced/Second Brain.md")
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.Second Brain
+      - file.size
+      - file.name
+    sort:
+      - column: formula.Second Brain
+        direction: DESC

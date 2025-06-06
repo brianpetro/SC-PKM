@@ -20,7 +20,7 @@ The goal of PKM isn’t just storing ideas — it’s using them. Your notes are
 ### 🧩 Related Notes
 - [[Consistency in Note Taking]]
 - [[Tagging and Linking]]
-- [[Second Brain Concept]]
+- [[Second Brain]]
 
 ### ✅ Try This
 Pick 3 connected notes and turn them into:

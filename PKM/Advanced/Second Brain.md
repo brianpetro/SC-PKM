@@ -1,10 +1,6 @@
-## Smart Ecosystem Context
-Building a second brain isn’t just about storage—it’s about thinking with your tools. This note positions Smart Vault as the real-world embodiment of Tiago Forte’s vision.
-
-
+Building a second brain isn’t just about storage—it’s about thinking with your tools. 
 ## What is a Second Brain
 The Second Brain is a system for externalizing thoughts and ideas to aid memory and creativity. It focuses on building a digital knowledge repository.
-
 ## Building a Second Brain
 - Capture everything from thoughts to resources.
 - Organize information for quick access.

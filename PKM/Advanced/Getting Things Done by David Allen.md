@@ -1,3 +1,4 @@
+
 ## Summary of Key Concepts
 - GTD focuses on capturing tasks and organizing them by context and action.
 

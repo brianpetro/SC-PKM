@@ -1,3 +1,9 @@
 smart_env.json
 .smart-env
 .obsidian
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env

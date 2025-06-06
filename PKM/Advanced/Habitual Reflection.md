@@ -31,7 +31,7 @@ Reflection isn’t a one-time exercise — it’s a habit that sharpens thinking
 ### 🔗 Related Notes
 - [[Reviewing and Reflecting]]
 - [[Creating Output]]
-- [[Second Brain Concept]]
+- [[Second Brain]]
 
 ### ✅ Try This
 Pick one recurring tag or topic (e.g. `#decision`, `#idea`). Skim through all linked notes and jot down what patterns you see. That’s reflection in action.

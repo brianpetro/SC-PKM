@@ -4,6 +4,20 @@ Linking Your Thinking (LYT) is a framework for organizing knowledge using Maps o
 ## Concept of Maps of Content (MOCs)
 MOCs are central hubs that link to related notes, creating a hierarchical structure that is easy to navigate.
 
+```mermaid
+graph TD
+  MOC["Maps of Content (MOCs)"]
+  Note1[Related Note 1]
+  Note2[Related Note 2]
+  Note3[Related Note 3]
+  SubMOC[Sub-MOC]
+
+  MOC --> Note1
+  MOC --> Note2
+  MOC --> Note3
+  MOC --> SubMOC
+  SubMOC --> Note3
+```
 ## LYT Kits and Vaults
 LYT offers pre-made templates and systems for organizing notes and ideas in a digital vault.
 
@@ -49,3 +63,5 @@ Open a recent note. Add two links:
 2. One downstream (where can it be applied?)
 
 That’s the start of a living thought web.
+
+

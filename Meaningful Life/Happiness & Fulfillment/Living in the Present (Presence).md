@@ -1,4 +1,4 @@
-### Living in the Present (Presence)
+### Living in the Present (Presence2)
 
 - Living in the present means fully engaging with the current moment instead of being lost in regrets about the past or worries about the future.
 - This presence can improve daily experiences – food tastes better, conversations are richer, and small joys are noticed – all contributing to a more vibrant life.

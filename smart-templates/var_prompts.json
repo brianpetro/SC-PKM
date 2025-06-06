@@ -1,0 +1,22 @@
+{
+  "var_prompts": {
+    "summary": {
+      "prompt": "A brief summary paragraph."
+    },
+    "notes": {
+      "prompt": "Concise notes in list format."
+    },
+    "mermaid": {
+      "prompt": "A mermaid chart representing the content. Ex. graph TD\nA --> B\nB --> C"
+    },
+    "key_points": {
+      "prompt": "Concise notes about the content."
+    },
+    "TAGS_EXISTING": {
+      "prompt": "List 3 existing tags that might be most relevant to the content."
+    },
+    "TAGS_NEW": {
+      "prompt": "List 3 new tags that might be most relevant to the content."
+    }
+  }
+}

@@ -1,6 +1,5 @@
 ### Process Example
 A note from a book, a conversation, and a project reflection might converge into a single synthesis note that proposes a new approach to managing meetings. These notes grow in layers, with synthesis happening iteratively.
-
 ### What Is Synthesis?
 Synthesis in PKM means taking bits of knowledge and weaving them into a meaningful whole.
 

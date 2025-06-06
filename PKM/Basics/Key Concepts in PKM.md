@@ -48,7 +48,7 @@ This note outlines the foundational ideas that shape how individuals manage pers
 - **Reflect** — Regularly reviewing and refining stored knowledge.
 
 ### 🧩 Related Concepts in Vault
-- [[Second Brain Concept]] — A system that mirrors your mind, built externally.
+- [[Second Brain]] — A system that mirrors your mind, built externally.
 - [[Zettelkasten Method]] — A structure for idea synthesis and atomic note linking.
 - [[Networked Thought]] — Emphasizing relationships over hierarchies in note-taking.
 - [[Synthesis of Information]] — Turning scattered notes into coherent ideas.

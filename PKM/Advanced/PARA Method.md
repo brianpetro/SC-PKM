@@ -33,7 +33,7 @@ The PARA Method, created by Tiago Forte, organizes your digital life into four s
 ### 🧠 Why Use PARA?
 - Reduces clutter and decision fatigue
 - Keeps your notes actionable
-- Works well with [[Second Brain Concept]] and [[Centralized Repository]]
+- Works well with [[Second Brain]] and [[Centralized Repository]]
 
 ### 🛠️ How to Use It
 - Set up folders or tags for each PARA category
