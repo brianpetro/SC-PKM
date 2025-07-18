@@ -1,3 +1,7 @@
+---
+col2: 1
+col1: 1
+---
 ### Personal Mission Statement
 
 - A personal mission statement is a concise expression of an individual's core values and goals, serving as a guiding beacon for life decisions.

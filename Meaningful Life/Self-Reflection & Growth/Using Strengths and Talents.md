@@ -1,3 +1,12 @@
+---
+tags:
+  - reflection
+  - project
+  - idea
+  - reference
+---
+
+
 ### Using Strengths and Talents
 
 - Everyone has unique strengths and talents – activities or skills that they naturally excel at or find energizing.

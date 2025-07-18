@@ -33,3 +33,6 @@ Create a `project/[name]` folder. Inside, write:
 - 1 log note
 - 1 output draft
 That’s a full cycle — and it scales fast.
+
+
+

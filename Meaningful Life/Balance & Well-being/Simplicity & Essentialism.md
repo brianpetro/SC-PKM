@@ -17,3 +17,5 @@ Ask yourself:
 This note links well with [[Minimalism as a Lifestyle]], [[Purposeful Leisure]], and [[Time Affluence vs Money]] as ways to refine your focus and reclaim your energy.
 
 Simplicity and essentialism are about focusing on what truly matters—and letting go of what doesn’t.
+
+

@@ -1,3 +1,7 @@
+---
+col2: 1
+col1: 1
+---
 ### Life Purpose Discovery
 
 - Discovering one's overarching purpose can guide major life decisions and bring a sense of direction.

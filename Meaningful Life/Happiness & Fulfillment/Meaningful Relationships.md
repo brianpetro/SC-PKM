@@ -1,3 +1,6 @@
+---
+col2: 1
+---
 ### Meaningful Relationships
 
 - Meaningful relationships are close connections with others that involve mutual care, understanding, and trust.

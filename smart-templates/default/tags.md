@@ -1,9 +1,4 @@
 ---
-tags_as_context: "true"
-system_prompt: Tags should be output in markdown bullet list format. Include the reason for each tag in parentheses.
+tags: []
+prompt: Complete the frontmatter tags property using YAML list format.
 ---
-##### recommended existing tags
-{{ TAGS EXISTING }}
-
-##### recommended new tags
-{{ TAGS NEW }}

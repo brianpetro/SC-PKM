@@ -27,4 +27,3 @@
 
 - Review your progress weekly to identify patterns and celebrate wins.
 - Pair habit tracking with habit stacking (linking new habits to existing ones) for better results.
-

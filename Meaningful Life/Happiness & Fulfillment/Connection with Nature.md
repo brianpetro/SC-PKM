@@ -1,3 +1,6 @@
+---
+col2: 1
+---
 **Connection with Nature**
 
 - **Definition:** Developing a relationship with the natural world through mindful time spent outdoors.

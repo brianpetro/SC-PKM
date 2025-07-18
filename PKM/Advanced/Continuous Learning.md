@@ -9,7 +9,6 @@ Note-taking, reflection, spaced repetition, and regular review cycles all suppor
 ## Smart Ecosystem Context
 Continuous learning demands reflection, connection, and synthesis—exactly what Smart Vault is designed to support.
 
-
 # Continuous Learning
 
 PKM supports continuous learning by providing a structured approach to capturing, organizing, and applying knowledge. This ensures that learning is a lifelong process, not just a one-time event. Key practices include:
@@ -22,6 +21,8 @@ PKM supports continuous learning by providing a structured approach to capturing
 **Keywords**: Continuous Learning, Lifelong Learning, Knowledge Application
 
 
+```smart-context
+```
 
 ## Related Notes
 

@@ -1,3 +1,8 @@
+---
+smart template: true
+col2: 2
+col1: 10
+---
 ### Contribution and Impact
 
 - Contributing to something larger than oneself and seeing the impact of those efforts is a key aspect of finding meaning in life.

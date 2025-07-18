@@ -11,6 +11,13 @@ In PKM, focusing on relevance ensures that you prioritize knowledge that aligns 
 
 
 
+
+```smart-context
+../community-actions/README.md
+```
+
+
 ## Related Notes
 
 For techniques on reviewing and reflecting on captured knowledge, see [[Habitual Reflection]].
+

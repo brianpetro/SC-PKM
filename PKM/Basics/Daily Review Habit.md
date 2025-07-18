@@ -118,3 +118,46 @@ See also: [[Reviewing and Reflecting]], [[Regular Reviews]], [[Smart Vault Revie
 
 ### Smart Ecosystem Tie-In
 Using tools like [[Smart Connections Overview]] or [[Smart Drafts Basics]], automate link suggestions or summarize your day’s notes.
+
+
+
+
+0
+: 
+"obsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FDaily%20Review%20Habitobsidian://open?vault=Smart%20Vault&file=PKM%2FAdvanced%2FTime%20Managementobsidian://open?vault=Smart%20Vault&file=PKM%2FAdvanced%2FVisual%20Thinkingobsidian://open?vault=Smart%20Vault&file=PKM%2FAdvanced%2FZettelkasten%20Methodobsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FAvoiding%20Information%20Overloadobsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FBenefits%20of%20Effective%20PKMobsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FCapture%20Toolsobsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FCapturing%20Informationobsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FConsistency%20in%20Note%20Takingobsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FCore%20Components%20of%20PKMobsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FCreating%20Output"
+1
+: 
+"obsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FDaily%20Review%20Habit"
+2
+: 
+"obsidian://open?vault=Smart%20Vault&file=PKM%2FAdvanced%2FTime%20Management"
+3
+: 
+"obsidian://open?vault=Smart%20Vault&file=PKM%2FAdvanced%2FVisual%20Thinking"
+4
+: 
+"obsidian://open?vault=Smart%20Vault&file=PKM%2FAdvanced%2FZettelkasten%20Method"
+5
+: 
+"obsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FAvoiding%20Information%20Overload"
+6
+: 
+"obsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FBenefits%20of%20Effective%20PKM"
+7
+: 
+"obsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FCapture%20Tools"
+8
+: 
+"obsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FCapturing%20Information"
+9
+: 
+"obsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FConsistency%20in%20Note%20Taking"
+10
+: 
+"obsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FCore%20Components%20of%20PKM"
+11
+: 
+"obsidian://open?vault=Smart%20Vault&file=PKM%2FBasics%2FCreating%20Output"
+length
+: 
+12

@@ -1,3 +1,7 @@
+---
+col2: 1
+col1: 11
+---
 ### Passion vs Purpose
 
 - Passion is about strong emotions and enthusiasm for activities, while purpose is about a deeper sense of meaning and direction in life.

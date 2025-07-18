@@ -14,3 +14,16 @@ Zooming out from daily or weekly tasks helps you course-correct and set fresh in
 - Summarize insights with [[Smart Drafts Basics]]
 
 Link with: [[Reviewing and Reflecting]], [[Daily Review Habit]]
+
+
+
+
+```smart-context
+../community-actions
+!../community-actions/README.md
+```
+
+
+
+
+

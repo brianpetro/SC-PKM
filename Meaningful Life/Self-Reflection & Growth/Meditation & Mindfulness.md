@@ -1,3 +1,16 @@
+---
+tags:
+  - reflection
+  - meaningfullife
+  - self-reflection
+  - mindfulness
+  - meditation
+  - stress-management
+  - journaling
+  - presence
+  - emotional-awareness
+  - self-awareness
+---
 ### Meditation & Mindfulness
 
 - Meditation and mindfulness practices involve training one’s attention to stay in the present moment, observing thoughts and feelings without judgment.
@@ -25,3 +38,4 @@ If meditation feels hard, try starting small. One minute of noticing your breath
 This note can work alongside [[Self-Inquiry Practices]] or [[Meaningful Experiences]], especially when you're trying to understand your reactions or stay grounded during transitions.
 
 You might also reflect here on how mindfulness shows up in different areas of your life: relationships, work, creativity, or stress management.
+

@@ -1,3 +1,6 @@
+---
+col2: 1
+---
 ### Contentment in Life
 
 - Contentment is a state of peaceful satisfaction with what one has and where one is in life, without the constant anxiety for more.

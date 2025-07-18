@@ -1,3 +1,9 @@
+---
+col2: 1
+---
+
+
+
 ### Living in the Present (Presence2)
 
 - Living in the present means fully engaging with the current moment instead of being lost in regrets about the past or worries about the future.
@@ -30,3 +36,5 @@ Practices like breath awareness, mindful walking, or simply putting your phone d
 Presence isn't about doing nothing. It's about showing up fully to whatever you’re doing.
 
 Being present creates a deeper experience of ordinary life.
+
+

@@ -24,3 +24,4 @@ Ask yourself:
 - How can I use short mindfulness breaks during the day?
 
 Mindfulness for focus is about training your attention to return to the present moment.
+

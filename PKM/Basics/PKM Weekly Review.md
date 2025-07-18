@@ -4,6 +4,9 @@
 
 A weekly review is your system’s reset button. It catches what slipped through the cracks.
 
+```smart-context
+../advanced-env
+```
 ### What to Do Weekly
 - Review all inbox or uncategorized notes
 - Connect ideas with links or tags
@@ -14,3 +17,7 @@ A weekly review is your system’s reset button. It catches what slipped through
 - Run summaries using [[Smart Drafts Basics]]
 
 See also: [[Regular Reviews]], [[Daily Review Habit]], [[Reviewing and Reflecting]]
+
+
+```dataview
+```

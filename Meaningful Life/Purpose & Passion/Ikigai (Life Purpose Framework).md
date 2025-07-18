@@ -1,3 +1,7 @@
+---
+col2: 1
+col1: 1
+---
 ### Ikigai (Life Purpose Framework)
 
 - The Japanese concept of Ikigai refers to finding the intersection of what you love, what you're good at, what the world needs, and what can financially support you.

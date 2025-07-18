@@ -1,3 +1,6 @@
+---
+col2: 1
+---
 **Life Story & Personal Narrative**
 
 - **Definition:** The story we tell ourselves about who we are, where we’ve come from, and where we’re going.
@@ -9,6 +12,7 @@
 - [[Personal Philosophy of Life]] could also enrich the narrative with a values-based perspective.
 
 These links help ground storytelling in personal growth.
+
 
 
 Use this note to write the story of your life so far. Not just the facts, but how they’ve made you who you are.
@@ -23,3 +27,5 @@ Don’t worry about linear order. Write what comes naturally.
 Then ask: What’s the story I’ve been telling? What story do I want to live?
 
 This note connects well with [[Identity and Life Roles]], [[Meaningful Experiences]], and [[Personal Growth Plan]]. It’s not just reflection—it’s authorship.
+
+

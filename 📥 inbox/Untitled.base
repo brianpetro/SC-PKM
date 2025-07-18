@@ -1,0 +1,16 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.folder == "Meaningful Life/Purpose & Passion"
+    order:
+      - col1
+      - file.name
+      - col2
+      - file.mtime
+    sort:
+      - property: col2
+        direction: DESC
+    columnSize:
+      file.name: 127

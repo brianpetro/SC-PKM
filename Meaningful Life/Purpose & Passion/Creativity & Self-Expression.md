@@ -1,3 +1,7 @@
+---
+col2: 1
+col1: 22
+---
 - **Tip:** Set aside time to create just for yourself—without the pressure of perfection or productivity. Let it be a space for discovery.
 **Reflection Prompts:****Creativity & Self-Expression**
 
@@ -16,3 +20,4 @@ Try asking:
 - What would it look like to create without judgment?
 
 Let this be a space where your creativity feels safe to unfold. For deeper reflection, connect this note with [[Lifelong Learning]], [[Passion vs Purpose]], or [[Meaningful Work & Career]].
+

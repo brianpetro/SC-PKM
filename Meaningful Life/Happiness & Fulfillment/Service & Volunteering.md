@@ -1,3 +1,6 @@
+---
+col2: 1
+---
 ### Service & Volunteering
 
 - Engaging in service or volunteering means giving your time and effort to help others or advance a cause without financial reward.

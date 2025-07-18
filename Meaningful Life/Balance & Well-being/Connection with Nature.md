@@ -16,7 +16,7 @@
 
 **Key:** [[Meditation & Mindfulness]], [[Living in the Present (Presence)]], [[Simplicity & Essentialism]]
 
-- For practical overlaps, [[Mindfulness for Focus]] and [[Living in the Present (Presence)]] explore awareness and presence—concepts that also ground nature-based experiences.
+- For practical overlaps, [[Mindfulness, for Focus]] and [[Living in the Present (Presence)]] explore awareness and presence—concepts that also ground nature-based experiences.
 
 Feel free to adapt these links based on how you’ve framed your note’s message.
 

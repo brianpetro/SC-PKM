@@ -9,3 +9,5 @@ Visual thinking enhances comprehension and creativity by allowing individuals to
 ## Integrating Visuals into PKM
 - Use concept maps to show connections between notes.
 - Add visuals to notes to enhance understanding and recall.
+
+

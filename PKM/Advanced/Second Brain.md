@@ -1,3 +1,4 @@
+
 Building a second brain isn’t just about storage—it’s about thinking with your tools. 
 ## What is a Second Brain
 The Second Brain is a system for externalizing thoughts and ideas to aid memory and creativity. It focuses on building a digital knowledge repository.
@@ -5,7 +6,6 @@ The Second Brain is a system for externalizing thoughts and ideas to aid memory 
 - Capture everything from thoughts to resources.
 - Organize information for quick access.
 - Connect notes and ideas to see patterns.
-
 ## Organizing Information
 - Use tags, folders, and links to structure knowledge.
 - Prioritize linking notes to related ideas.
@@ -73,3 +73,4 @@ This vault shows a Second Brain in motion.
 You’re not just organizing your notes—you’re growing your thinking system.
 
 → See also: [[Daily Review Habit]], [[Core Components of PKM]], [[Tagging and Linking]]
+

@@ -15,3 +15,4 @@ Ask yourself:
 A clear life vision makes short-term goals more meaningful.
 
 + This note links naturally to [[Life Audit]], [[Goal Tracking & Accountability]], and [[Core Values Identification]] to ground your vision in reflection, tracking, and values.
+sdfdsfdsf

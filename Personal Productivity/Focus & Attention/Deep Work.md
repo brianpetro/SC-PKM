@@ -34,6 +34,6 @@ Ask yourself:
 - What conditions make flow more likely for me?
 - How can I build more of that into my schedule?
 
-This note pairs well with [[Deep Work]], [[Single-tasking vs Multitasking (Context Switching)]], and [[Mindfulness for Focus]] for increasing sustained engagement.
+This note pairs well with [[Deep Work]], [[Single-tasking vs Multitasking (Context Switching)]], and [[Mindfulness, for Focus]] for increasing sustained engagement.
 
 Flow state is a deeply focused mental state where you lose track of time and become fully immersed in a task.

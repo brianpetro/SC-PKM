@@ -25,3 +25,5 @@ Consider evaluating:
 Rate each on how satisfied you feel and why. Then ask: What’s missing? What’s working well? What small step would move this area forward?
 
 This reflection connects naturally to [[Identity and Life Roles]], [[Bucket List Creation]], and [[Personal Growth Plan]]. It’s not about judging—it’s about seeing clearly so you can move forward with intention.
+
+
