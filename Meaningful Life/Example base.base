@@ -1,3 +1,6 @@
+filters:
+  and:
+    - file.isTruthy()
 formulas:
   PKM References: ""
   Post-Traumatic Growth: cos_sim(file.file, "Meaningful Life/Balance & Well-being/Post-Traumatic Growth.md")
@@ -5,10 +8,13 @@ formulas:
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - file.name == "some"
     order:
       - formula.Second Brain
       - file.size
       - file.name
     sort:
-      - column: formula.Second Brain
+      - property: formula.Second Brain
         direction: DESC
