@@ -10,7 +10,17 @@ views:
       - col2
       - file.mtime
     sort:
+      - property: file.name
+        direction: ASC
       - property: col2
         direction: DESC
     columnSize:
       file.name: 127
+  - type: table
+    name: View 2
+    filters:
+      and:
+        - file.folder == "Personal Productivity/Task Management"
+    order:
+      - file.name
+      - file.folder

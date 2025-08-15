@@ -17,3 +17,9 @@ Ask yourself:
 This note links well with [[SMART Goals]], [[OKRs (Objectives and Key Results)]], and [[Weekly Review Process]].
 
 Goal tracking helps turn intention into follow-through.
+
+
+
+```smart-context
+../custom-scripts
+```

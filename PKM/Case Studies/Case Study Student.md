@@ -2,7 +2,6 @@
 - Links related concepts between different subjects.
 - Uses spaced repetition to review key material.
 
-
 ### Use Case Scenarios
 The student uses PKM to:
 - Track study notes, reading lists, and assignments across multiple subjects.
@@ -61,3 +60,6 @@ Before PKM, this student kept notes in random Google Docs and notebooks. Studyin
 
 ### ✅ Try This
 After your next lecture, write just 3 atomic notes instead of summarizing everything. You’ll learn faster by focusing on what matters most.
+
+
+

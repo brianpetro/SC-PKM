@@ -30,7 +30,7 @@ These links bring clarity to why mindfulness matters.
 You can practice mindfulness in many forms:
 - Formal meditation (breath, body scan, etc.)
 - Mindful walking
-- Eating without distractions
+- Eating without distractions[[]]
 - Checking in with your emotional state throughout the day
 
 If meditation feels hard, try starting small. One minute of noticing your breath is enough to shift your attention.
@@ -38,4 +38,7 @@ If meditation feels hard, try starting small. One minute of noticing your breath
 This note can work alongside [[Self-Inquiry Practices]] or [[Meaningful Experiences]], especially when you're trying to understand your reactions or stay grounded during transitions.
 
 You might also reflect here on how mindfulness shows up in different areas of your life: relationships, work, creativity, or stress management.
+
+
+
 

@@ -27,3 +27,20 @@
 
 - Review your progress weekly to identify patterns and celebrate wins.
 - Pair habit tracking with habit stacking (linking new habits to existing ones) for better results.
+
+
+
+
+```smart-connections
+{
+  "results_limit": 5,
+  "show_full_path": false,
+  "exclude_blocks_from_source_connections": false,
+  "render_markdown": true,
+  "expanded_view": false,
+  "include_filter": "Personal Productivity",
+  "limit": 5,
+  "exclude_inlinks": false,
+  "exclude_outlinks": false
+}
+```

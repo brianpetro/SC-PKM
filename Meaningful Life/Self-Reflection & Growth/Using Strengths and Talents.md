@@ -1,6 +1,5 @@
 ---
 tags:
-  - reflection
   - project
   - idea
   - reference
@@ -12,6 +11,7 @@ tags:
 - Everyone has unique strengths and talents – activities or skills that they naturally excel at or find energizing.
 - Utilizing these strengths in work and personal life can lead to greater success and fulfillment, as tasks feel more engaging and less like a chore.
 - Identifying your talents (through reflection or feedback) and finding ways to use them daily can significantly increase your sense of meaning and confidence.
+
 
 **Key:**
 - Personal Growth Plan
@@ -32,3 +32,6 @@ Then ask yourself:
 - Where could I bring them into new areas of life?
 
 As you explore this, it might be helpful to check out [[Meaningful Experiences]] or [[Personal Growth Plan]] for ideas on how to apply your strengths more intentionally.
+
+
+#reflection 

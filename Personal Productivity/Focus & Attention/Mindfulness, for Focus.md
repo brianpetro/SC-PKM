@@ -1,3 +1,6 @@
+---
+high-impact: "**Definition:** Applying mindfulness techniques (like meditation or breathing exercises) to improve concentration and present-moment awareness.- **Benefit:** Trains the brain to stay on task longer and return to the task quicker after distraction.- **Tip:** Practice short mindfulness sessions daily; even a few minutes of focusing on the breath can strengthen your attention over time."
+---
 
 
 

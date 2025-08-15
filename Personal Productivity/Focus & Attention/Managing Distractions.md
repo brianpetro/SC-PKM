@@ -1,3 +1,9 @@
+---
+high-impact: "- **Definition:** Interruptions or disruptions that take your focus away from the task at hand (e.g., notifications, noise, etc.).- **Strategy:** Identify common distractions in your environment and use techniques (like turning off notifications or using headphones) to manage them.- **Benefit:** Reducing distractions increases the amount of deep, focused work you can accomplish."
+---
+
+
+
 ### Managing Distractions
 
 - **Definition:** Interruptions or disruptions that take your focus away from the task at hand (e.g., notifications, noise, etc.).
@@ -6,8 +12,11 @@
 
 **Key:** [[Digital Minimalism]], [[Mindfulness, for Focus]], [[Single-tasking vs Multitasking (Context Switching)]]
 
+- [ ] this is a task
 
 It’s not just about blocking noise—it’s about designing your environment and habits to protect attention.
+
+- [ ] another task for tests
 
 Ask yourself:
 - What types of distractions pull me out of focus?

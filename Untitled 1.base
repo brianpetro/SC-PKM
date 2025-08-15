@@ -1,9 +1,0 @@
-formulas:
-  New test-1746795167114: cos_sim(file.file, "New test-1746795167114.md")
-display:
-  formula.New test-1746795167114: New test-1746795167114
-views:
-  - type: table
-    name: Table
-    order:
-      - formula.New test-1746795167114
