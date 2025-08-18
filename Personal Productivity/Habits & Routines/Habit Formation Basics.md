@@ -19,13 +19,14 @@
 ```smart-connections
 {
   "render_markdown": true,
-  "show_full_path": false,
+  "show_full_path": true,
   "exclude_blocks_from_source_connections": true,
   "exclude_frontmatter_blocks": true,
   "expanded_view": false,
   "results_limit": "20",
   "include_filter": "",
-  "limit": "20"
+  "limit": "20",
+  "exclude_filter": "Productivity"
 }
 ```
 
