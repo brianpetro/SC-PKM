@@ -20,3 +20,5 @@ views:
     sort:
       - property: formula.Second Brain
         direction: DESC
+    summaries:
+      file.name: Unique
