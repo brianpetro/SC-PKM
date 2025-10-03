@@ -17,3 +17,9 @@ Ask yourself:
 This note connects well with [[OKRs (Objectives and Key Results)]], [[Goal Tracking & Accountability]], and [[Daily Planning & Prioritization]].
 
 SMART goals are Specific, Measurable, Achievable, Relevant, and Time-bound.
+
+
+## chat
+```smart-chatgpt
+chat-active:: 1759445329 https://sora.chatgpt.com/p/s_68df016fc0a481919fbb962c967aafb2
+```

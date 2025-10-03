@@ -19,4 +19,12 @@ Having a working PKM system brings clear, everyday advantages.
 - Clearer thinking = better decisions
 - Reusable research or insights
 
-Link with: [[Importance of PKM]], [[Creating Output]], [[Knowledge Synthesis]]
+Link with: [[Creating Output]], [[Knowledge Synthesis]]
+
+
+## chat
+```smart-chatgpt
+chat-active:: 1759443074 https://sora.chatgpt.com/d/gen_01k6kfjevrephvdme6755n4ywg
+chat-active:: 1759442583 https://sora.chatgpt.com/d/gen_01k6kf0r8cex48wcgapajd2j0d
+chat-active:: 1759442481 https://sora.chatgpt.com/d/gen_01k6kez6k1e3fswkbh2723j0xx
+```

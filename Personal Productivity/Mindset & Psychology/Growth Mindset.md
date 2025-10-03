@@ -5,3 +5,12 @@
 - **Tip:** Practice reframing failures as learning experiences and use the word "yet" (e.g., "I can't do this yet") to remind yourself that skills improve over time.
 
 **Key:** [[Lifelong Learning]], [[Resilience & Grit]], [[Personal Growth Plan]]
+
+## chat
+```smart-chatgpt
+chat-active:: 1759438323 https://sora.chatgpt.com/p/s_68dee38b9f448191b5743fca39233106
+```
+
+
+
+

@@ -5,3 +5,8 @@
 - **Tip:** Use a timer and strictly follow the work/break schedule to build rhythm.
 
 **Key:** [[Time Blocking]], [[Scheduling & Calendar Management]], [[Parkinson's Law]]
+
+## chat
+```smart-chatgpt
+chat-active:: 1759443745 https://sora.chatgpt.com/p/s_68defb3d784c8191ac3f3c8e32b10de1
+```

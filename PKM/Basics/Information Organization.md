@@ -19,7 +19,12 @@ How you structure knowledge determines how useful it becomes later.
 
 ### Tools to Support
 - Obsidian for structure
-- [[Smart Connections Overview]] for link suggestions
 - [[Tagging and Linking]] for consistency
 
 See also: [[Knowledge Categorization]], [[Core Components of PKM]]
+
+## chat
+```smart-chatgpt
+chat-active:: 1759443257 https://sora.chatgpt.com/p/s_68def931aff8819188bcd20b37ced218
+chat-active:: 1759443217 https://sora.chatgpt.com/d/gen_01k6kfrkcxe9kr60h9fcnj1gsd
+```

@@ -17,3 +17,8 @@ Ask yourself:
 This note links well with [[Time Blocking]], [[Weekly Review Process]], and [[SMART Goals]].
 
 Daily planning helps translate long-term goals into clear actions.
+
+## chat
+```smart-chatgpt
+chat-active:: 1759440983 https://sora.chatgpt.com/d/gen_01k6kdjqg9e4w9hnaafemsjpbq
+```

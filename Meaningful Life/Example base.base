@@ -6,6 +6,8 @@ formulas:
   Post-Traumatic Growth: cos_sim(file.file, "Meaningful Life/Balance & Well-being/Post-Traumatic Growth.md")
   Second Brain: cos_sim(file.file, "PKM/Advanced/Second Brain.md")
   test: 1 + 1
+  sim: smart_sim(this.file, file)
+  rel sim: file.smart_sim(this.file)
 views:
   - type: table
     name: Table
@@ -17,6 +19,8 @@ views:
       - file.size
       - file.name
       - file.links
+      - formula.sim
+      - formula.rel sim
     sort:
       - property: formula.Second Brain
         direction: DESC
