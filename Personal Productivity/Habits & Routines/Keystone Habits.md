@@ -9,4 +9,5 @@
 
 ## chat
 ```smart-chatgpt
+chat-active:: 1759519095 https://sora.chatgpt.com/p/s_68e0215dd6b48191be741a033e2d7b96
 ```

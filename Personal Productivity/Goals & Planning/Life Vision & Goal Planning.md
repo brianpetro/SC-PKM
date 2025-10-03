@@ -17,17 +17,7 @@ A clear life vision makes short-term goals more meaningful.
 + This note links naturally to [[Life Audit]], [[Goal Tracking & Accountability]], and [[Core Values Identification]] to ground your vision in reflection, tracking, and values.
 
 
-```smart-connections
-{
-  "render_markdown": true,
-  "show_full_path": false,
-  "exclude_blocks_from_source_connections": false,
-  "exclude_frontmatter_blocks": true,
-  "expanded_view": false,
-  "results_limit": 15,
-  "include_filter": "SMART",
-  "limit": 20,
-  "exclude_filter": ""
-}
+## chat
+```smart-chatgpt
+chat-active:: 1759515118 https://sora.chatgpt.com/p/s_68e011d8a81081918a9eae6b663293fb
 ```
-

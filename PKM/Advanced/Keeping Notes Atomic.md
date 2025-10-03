@@ -31,3 +31,7 @@ Atomic notes act like flexible puzzle pieces. Because they express one thought c
 
 
 
+## chat
+```smart-chatgpt
+chat-active:: 1759515215 https://sora.chatgpt.com/p/s_68e0123334148191b61f98f2c39690af
+```

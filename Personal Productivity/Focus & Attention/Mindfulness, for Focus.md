@@ -25,6 +25,7 @@ Mindfulness for focus is about training your attention to return to the present 
 
 ## chat
 ```smart-chatgpt
+chat-active:: 1759516559 https://sora.chatgpt.com/p/s_68e01776d31881919293201c63852d25
 chat-active:: 1759446737 https://sora.chatgpt.com/p/s_68df06cca81c8191bd46c40e6896c5c3
 chat-active:: 1759446697 https://sora.chatgpt.com/d/gen_01k6kjyq2xeycby80t3pmhhq5b
 chat-active:: 1759444983 https://sora.chatgpt.com/d/gen_01k6khdh8bfp782jj4w0x3fbnv

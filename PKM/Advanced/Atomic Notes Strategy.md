@@ -7,14 +7,14 @@ Atomic notes serve as the building blocks of a larger knowledge system. Each not
 ### Benefits
 - Boosts clarity and creativity
 - Prevents cluttered thinking
-- Works well with [[Zettelkasten Method]] and [[Smart Connections Overview]]
+- Works well with [[Zettelkasten Method]]
 
 ### Best Practices
-- Split long notes as needed (see: [[AI-Assisted Note Splitting]])
+- Split long notes as needed
 - Use descriptive titles
 - Link generously to related concepts
 
-Related: [[Keeping Notes Atomic]], [[Knowledge Synthesis]], [[Note Taking Techniques]]
+Related: [[Keeping Notes Atomic]], [[Knowledge Synthesis]], [[Note Taking Techniques]], [[Linking and Connecting Notes]]
 
 Atomic notes are the backbone of flexible, creative knowledge systems.
 
@@ -28,6 +28,8 @@ Atomic notes are the backbone of flexible, creative knowledge systems.
 - Title the note specifically
 - Add connections: [[Zettelkasten Method]], [[Keeping Notes Atomic]]
 
-### Smart Ecosystem Tools
-- Use [[AI-Assisted Note Splitting]] to break large notes
-- [[Smart Connections Overview]] to link across vault
+## chat
+```smart-chatgpt
+chat-active:: 1759507580 https://sora.chatgpt.com/d/gen_01k6nb8ckkf8qa6qkww9tv3h7m
+chat-active:: 1759507580 https://sora.chatgpt.com/p/s_68dff4b53a008191ba831cdceea99363
+```
