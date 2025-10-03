@@ -16,7 +16,6 @@ It’s about capturing what matters, connecting it meaningfully, and using it to
 ### Start Simple
 - Use atomic notes (see: [[Atomic Notes Strategy]])
 - Reflect regularly (see: [[Daily Review Habit]])
-- Let tools like [[Smart Connections Overview]] surface useful links
 ### In Practice
 - Think in atomic notes
 - Reflect regularly (see: [[Reviewing and Reflecting]])

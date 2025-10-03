@@ -5,3 +5,8 @@
 - **Example:** Regular exercise is often cited as a keystone habit because it tends to instill discipline and improve mood, influencing other routines.
 
 **Key:** [[Habit Formation Basics]], [[Morning & Evening Routines]], [[Resilience & Grit]]
+
+
+## chat
+```smart-chatgpt
+```
