@@ -39,3 +39,8 @@ This note connects well with [[Discovering Life Purpose]], [[Identifying Core Va
 > A mission statement is most powerful when lived, not just written. Let it evolve, let it guide, and let it speak your truth.
 
 Related notes: [[Core Values Identification]], [[Life Purpose Discovery]], [[Contribution and Impact]]
+
+
+## chat
+```smart-chatgpt
+```

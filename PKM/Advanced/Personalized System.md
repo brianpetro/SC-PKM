@@ -1,8 +1,3 @@
-- [[Consistency in Note Taking]]
-
-## Smart Ecosystem Context
-This note demonstrates how Smart Vault supports a PKM system that adapts to you—not the other way around. It turns templates and automation into personal amplification.
-
 
 # Personalized System
 
@@ -14,8 +9,6 @@ A personalized PKM system is tailored to fit your individual preferences, workfl
 4. **Iterative Improvement**: Regularly evaluate and adjust your PKM system to ensure it continues to meet your needs.
 
 **Keywords**: Personalized PKM, Tool Selection, Workflow Design, Customization
-
-
 
 ## Related Notes
 
@@ -47,10 +40,10 @@ Your PKM setup should reflect the way *you* think.
 ### Tailoring the System
 Some people think in outlines, others in maps. Some prefer strict categories, others fluid tags. Your vault should reflect those preferences.
 
-### Smart Ecosystem Synergy
+### Smart Environment Synergy
 
 
-Incorporating Smart Ecosystem elements makes this evolution more fluid. For example, a user can define recurring workflows in the Smart Chat or trigger GPT actions via embedded commands—automating routine curation or synthesis tasks. These integrations allow the system to grow organically with the user.
+Incorporating Smart Environment elements makes this evolution more fluid. For example, a user can define recurring workflows in the Smart Chat or trigger GPT actions via embedded commands—automating routine curation or synthesis tasks. These integrations allow the system to grow organically with the user.
 ...
 
 A personalized system isn’t just aesthetic—it boosts trust, efficiency, and engagement. It makes the vault feel alive *for you.*
@@ -75,3 +68,9 @@ The best PKM system is the one that works for *you*. Structure, tools, and routi
 
 ### ✅ Try This
 Write one note called `What Works for Me`. List 3 habits, tools, or formats that support your flow. Add to it every month. That’s how you make your system *yours*.
+
+
+## chat
+```smart-chatgpt
+chat-active:: 1759537527 https://sora.chatgpt.com/p/s_68e06965e14c8191b45baa6c39076be4
+```
