@@ -10,8 +10,8 @@ Ask yourself:
 - How can I build more of that into my schedule?
 
 Flow state is a deeply focused mental state where you lose track of time and become fully immersed in a task.
-
+Similar: [[Deep Work]]
 ## chat
 ```smart-chatgpt
-chat-active:: 1759445244 https://sora.chatgpt.com/d/gen_01k6khktxcfyqafnz88wzqvtb1
+chat-active:: 1759671285 https://sora.chatgpt.com/p/s_68e273e929b881918be4c2c5e16ca08f
 ```

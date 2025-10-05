@@ -5,3 +5,8 @@
 - **Benefit:** By concentrating on the most impactful areas, you maximize results while minimizing wasted effort on low-value tasks.
 
 **Key:** [[Task Prioritization (Eisenhower Matrix)]], [[Efficiency vs Effectiveness]], [[Time Affluence vs Money]]
+
+
+## chat
+```smart-chatgpt
+```

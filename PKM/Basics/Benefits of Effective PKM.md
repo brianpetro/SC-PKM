@@ -24,7 +24,5 @@ Link with: [[Creating Output]], [[Knowledge Synthesis]]
 
 ## chat
 ```smart-chatgpt
-chat-active:: 1759443074 https://sora.chatgpt.com/d/gen_01k6kfjevrephvdme6755n4ywg
-chat-active:: 1759442583 https://sora.chatgpt.com/d/gen_01k6kf0r8cex48wcgapajd2j0d
-chat-active:: 1759442481 https://sora.chatgpt.com/d/gen_01k6kez6k1e3fswkbh2723j0xx
+chat-active:: 1759442481 https://sora.chatgpt.com/p/s_68def6b1792c81918793f2958a8285c3
 ```

@@ -30,6 +30,7 @@ Atomic notes are the backbone of flexible, creative knowledge systems.
 
 ## chat
 ```smart-chatgpt
-chat-active:: 1759507580 https://sora.chatgpt.com/d/gen_01k6nb8ckkf8qa6qkww9tv3h7m
+chat-active:: 1759680653 https://sora.chatgpt.com/p/s_68e2987f78d08191b689dc890c71af00
+chat-active:: 1759507580 https://sora.chatgpt.com/p/s_68dff4b53a008191ba831cdceea99363
 chat-active:: 1759507580 https://sora.chatgpt.com/p/s_68dff4b53a008191ba831cdceea99363
 ```
