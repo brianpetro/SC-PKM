@@ -20,3 +20,8 @@ Ask yourself:
 Balance isn’t about doing less—it’s about doing what matters from a grounded place of being.
 
 This note pairs well with [[Simplicity & Essentialism]], [[Living in the Present (Presence)]], and [[Purposeful Leisure]] as ways to restore a sense of calm and clarity.
+
+
+## chat
+```smart-chatgpt
+```
