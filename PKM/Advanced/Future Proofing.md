@@ -1,4 +1,3 @@
-daily review habit note# Future Proofing
 
 Future-proofing your PKM system ensures that the knowledge you collect remains relevant and accessible over time. This involves regularly updating, archiving, and backing up your knowledge base. Key practices include:
 
@@ -8,8 +7,6 @@ Future-proofing your PKM system ensures that the knowledge you collect remains r
 4. **Adapting to Change**: Stay flexible and adapt your PKM system to accommodate new tools, methods, or areas of interest.
 
 **Keywords**: Future Proofing, Updates, Archiving, Backup Strategy, Adaptation
-
-
 
 ## Related Notes
 
@@ -27,3 +24,7 @@ Keep your system durable and adaptable, no matter what tools you use.
 - Export and version notes using Git or similar tools
 
 Related: [[Privacy and Security in PKM]], [[Minimizing Dependencies]], [[Evolution of PKM Practices]]
+
+
+```smart-chatgpt
+```

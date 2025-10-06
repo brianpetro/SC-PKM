@@ -17,3 +17,8 @@ col2: 1
 - How does nature shift my perspective on what matters?
 
 Consider pairing this with notes like [[Living in the Present (Presence)]] or [[Simplicity & Essentialism]] to deepen the impact of nature on your well-being.
+
+
+## chat
+```smart-chatgpt
+```
