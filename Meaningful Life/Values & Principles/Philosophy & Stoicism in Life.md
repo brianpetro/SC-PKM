@@ -22,3 +22,8 @@ Here are a few core Stoic ideas worth reflecting on:
 Try journaling or thinking through a recent challenge using these lenses. What shifted?
 
 If this sparks deeper thought, consider exploring [[Personal Philosophy of Life]], [[Self-Actualization (Maslow)]], or [[Memento Mori (Mortality Reminder)]]. Philosophy isn’t just an abstract concept—it’s a guide to how you live day by day.
+
+
+## chat
+```smart-chatgpt
+```

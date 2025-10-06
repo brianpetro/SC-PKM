@@ -1,3 +1,6 @@
+
+
+
 ### Self-Transcendence
 
 - Self-transcendence goes beyond self-actualization, referring to the ability to look past one’s own needs and connect to something greater, such as helping others or a cause bigger than oneself.
