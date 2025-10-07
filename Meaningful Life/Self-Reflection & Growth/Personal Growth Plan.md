@@ -11,5 +11,4 @@
 
 ## chat
 ```smart-chatgpt
-chat-active:: 1759442232 https://sora.chatgpt.com/d/gen_01k6ker4pxfw78r0gtprvxx6k7
 ```

@@ -23,3 +23,10 @@ Here are a few questions to start with:
 You can revisit these often—daily, weekly, or whenever you're stuck.
 
 Pair this note with others like [[Journaling for Self-Reflection]] or [[Meditation & Mindfulness]] to help create space for deeper noticing. You might also see patterns emerge across entries in [[Meaningful Experiences]] or [[Identity and Life Roles]].
+
+
+```connections
+{
+  "connections_list_key": "smart_sources:Meaningful Life/Self-Reflection & Growth/Self-Inquiry Practices.md"
+}
+```
