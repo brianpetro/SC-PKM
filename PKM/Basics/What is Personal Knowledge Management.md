@@ -20,7 +20,7 @@ It’s about capturing what matters, connecting it meaningfully, and using it to
 - Think in atomic notes
 - Reflect regularly (see: [[Reviewing and Reflecting]])
 
-See also: [[Definition of PKM]], [[Atomic Notes Strategy]]
+See also: [[Definition of Personal Knowledge Management (PKM)]], [[Atomic Notes Strategy]]
 
 
 ## chat
