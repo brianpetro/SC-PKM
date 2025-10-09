@@ -9,10 +9,13 @@ A good PKM system isn’t about perfection—it’s about flow. These five compo
 These parts aren’t steps—they’re a cycle. The stronger your loop, the more useful your PKM system becomes.
 
 A good PKM system flows through five key stages: Capture, Curate, Store, Retrieve, and Share.
-
+[[Key Concepts in PKM]]
 ## chat
 ```smart-chatgpt
-chat-active:: 1759443409 https://sora.chatgpt.com/d/gen_01k6kfxhmdfb4syjyska5ynd58
+chat-active:: 1760039720 https://sora.chatgpt.com/d/gen_01k758k1k8ft6s97xag4zs50rz
+chat-active:: 1760039684 https://sora.chatgpt.com/d/gen_01k757vjdrf1fr7speth1tsxa2
+chat-active:: 1760039623 https://sora.chatgpt.com/p/s_68e69c90a798819181af69dec3963595
+chat-active:: 1759443409 https://sora.chatgpt.com/p/s_68def9d9c29c81918c713b63a59bf466
 chat-active:: 1759443099 https://sora.chatgpt.com/d/gen_01k6kfjevrephvdme6755n4ywg
 chat-active:: 1759442739 https://sora.chatgpt.com/d/gen_01k6kf8z2bfa89ysx5dmsfv0nc
 ```

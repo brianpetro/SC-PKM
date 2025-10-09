@@ -22,3 +22,8 @@ Concepts don’t live in isolation — they gain meaning from how they connect. 
 
 ### ✅ Try This
 Open 3 notes on a single theme. Add 1 sentence to each note explaining how it connects to the others — you’ll start seeing a structure emerge.
+
+
+## chat
+```smart-chatgpt
+```

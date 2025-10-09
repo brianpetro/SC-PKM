@@ -1,6 +1,3 @@
----
-col2: 1
----
 
 ### Happiness vs Meaning
 
@@ -20,5 +17,5 @@ col2: 1
 
 ## chat
 ```smart-chatgpt
-chat-active:: 1759441721 https://sora.chatgpt.com/d/gen_01k6ke954vemdrg00qg36ey88n
+chat-active:: 1759441721 https://sora.chatgpt.com/p/s_68def39391648191a6e1caa34089a4cb
 ```

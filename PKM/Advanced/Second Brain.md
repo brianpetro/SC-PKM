@@ -74,3 +74,6 @@ You’re not just organizing your notes—you’re growing your thinking system.
 
 → See also: [[Daily Review Habit]], [[Core Components of PKM]], [[Tagging and Linking]]
 
+## chat
+```smart-chatgpt
+```

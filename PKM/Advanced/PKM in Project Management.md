@@ -36,3 +36,6 @@ That’s a full cycle — and it scales fast.
 
 
 
+## chat
+```smart-chatgpt
+```
