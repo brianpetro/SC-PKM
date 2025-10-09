@@ -8,7 +8,13 @@ formulas:
   test: 1 + 1
   sim: score_connection(this.file, file)
   rel sim: file.score_connection(this.file)
-  Untitled: list_connections(file)
+  Untitled: file.connection
+  Connections: file.conne
+properties:
+  formula.sim:
+    displayName: Connections Score
+  formula.Untitled:
+    displayName: Connections List
 views:
   - type: table
     name: Table
@@ -18,9 +24,12 @@ views:
     order:
       - file.name
       - formula.sim
-      - formula.rel sim
       - formula.Untitled
+      - formula.Connections
+      - formula.Connections
     sort:
+      - property: formula.Untitled
+        direction: DESC
       - property: formula.sim
         direction: DESC
       - property: formula.rel sim
@@ -30,5 +39,6 @@ views:
     summaries:
       file.name: Unique
     columnSize:
-      file.links: 126
-      formula.sim: 109
+      file.name: 140
+      formula.sim: 518
+      formula.Untitled: 399
