@@ -8,13 +8,18 @@ formulas:
   test: 1 + 1
   sim: score_connection(this.file, file)
   rel sim: file.score_connection(this.file)
-  Untitled: file.connection
-  Connections: file.conne
+  Untitled 2: file.smart_tasks().all
+  Incomplete Tasks: file.smart_tasks().incomplete
+  Top TODOs: file.smart_tasks().incomplete_top
 properties:
   formula.sim:
     displayName: Connections Score
-  formula.Untitled:
-    displayName: Connections List
+  formula.Untitled 2:
+    displayName: ALL tasks
+  formula.Incomplete Tasks:
+    displayName: TODOs
+  formula.Top TODOs:
+    displayName: TODOs Top
 views:
   - type: table
     name: Table
@@ -24,13 +29,13 @@ views:
     order:
       - file.name
       - formula.sim
-      - formula.Untitled
-      - formula.Connections
-      - formula.Connections
+      - formula.Untitled 2
+      - formula.Incomplete Tasks
+      - formula.Top TODOs
     sort:
-      - property: formula.Untitled
-        direction: DESC
       - property: formula.sim
+        direction: DESC
+      - property: formula.Untitled
         direction: DESC
       - property: formula.rel sim
         direction: ASC
@@ -40,5 +45,5 @@ views:
       file.name: Unique
     columnSize:
       file.name: 140
-      formula.sim: 518
-      formula.Untitled: 399
+      formula.sim: 101
+      formula.Top TODOs: 116

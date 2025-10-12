@@ -17,3 +17,8 @@ Ask yourself:
 This note links well with [[SMART Goals]], [[Goal Tracking & Accountability]], and [[Weekly Review Process]].
 
 OKRs help align your big-picture goals with measurable results.
+
+
+## chat
+```smart-chatgpt
+```
