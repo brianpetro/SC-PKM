@@ -1,8 +1,3 @@
----
-col2: 1
----
-### Contentment in Life
-
 - Contentment is a state of peaceful satisfaction with what one has and where one is in life, without the constant anxiety for more.
 - It doesn’t mean lack of ambition, but rather feeling gratitude and acceptance of the present, acknowledging that perfection is unattainable.
 - Practicing contentment – focusing on positives and being grateful – can lead to steady well-being and resilience against life’s ups and downs.
@@ -31,3 +26,5 @@ Ask yourself:
 Contentment grows when we stop measuring and start noticing.
 
 This note pairs well with [[Practicing Gratitude]], [[Finding Joy in Everyday]], and [[Living in the Present (Presence)]] for cultivating a grounded sense of fulfillment.
+
+

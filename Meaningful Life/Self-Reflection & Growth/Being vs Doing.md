@@ -9,7 +9,6 @@
 
 - **Tip:** Schedule time each week to pause—whether that’s reflecting, meditating, or simply being still without any agenda.
 
-
 Modern life often rewards doing—but without moments of being, it’s easy to burn out or feel disconnected from purpose.
 
 Ask yourself:

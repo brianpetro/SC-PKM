@@ -57,3 +57,10 @@ Simplicity and essentialism are about focusing on what truly matters—and letti
 - **High-impact visuals:** Before/after kanban board and minimal workspace shots highlighting breathing room.
 - **Dramatization moments:** Capture the moment of deleting calendar events and boxing items for donation.
 - **Measured call to action:** Challenge viewers to run the essentialism audit template and share one bold "no" they executed.
+
+## chat
+```smart-chatgpt
+chat-active:: 1760355651 https://sora.chatgpt.com/d/gen_01k7d8s5jkfp2bbkzkkr7sjssc
+chat-active:: 1760355620 https://sora.chatgpt.com/d/gen_01k7d7bvtpfsaasr1azmc5zzb4
+chat-active:: 1760355579 https://sora.chatgpt.com/d/gen_01k7d7ar4yfts8168592xj9k22
+```

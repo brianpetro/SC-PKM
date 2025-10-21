@@ -34,3 +34,8 @@ See also: [[Definition of Personal Knowledge Management (PKM)]], [[Creating Outp
 - Improved productivity
 - Better decision-making
 - Foundation for a Second Brain system
+
+
+## chat
+```smart-chatgpt
+```

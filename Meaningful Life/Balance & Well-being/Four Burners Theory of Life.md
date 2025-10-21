@@ -58,3 +58,8 @@ To succeed, you often have to turn down one burner. To thrive, you may need to t
 - **High-impact visuals:** Split-screen of calendar before/after prioritization and a dashboard showing burner energy scores.
 - **Dramatization moments:** Montage of saying "not now" gracefully while spotlighting the chosen focus ritual in action.
 - **Measured call to action:** Invite viewers to map their burner levels in Smart Vault and share one tradeoff they’re embracing.
+
+
+## chat
+```smart-chatgpt
+```

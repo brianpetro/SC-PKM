@@ -21,4 +21,5 @@ OKRs help align your big-picture goals with measurable results.
 
 ## chat
 ```smart-chatgpt
+chat-active:: 1760305116 https://sora.chatgpt.com/p/s_68ec2009a7cc8191af1ba9caeac5c4d5
 ```
