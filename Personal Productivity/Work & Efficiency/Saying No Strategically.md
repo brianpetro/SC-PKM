@@ -10,7 +10,6 @@
 ```smart-chatgpt
 ```
 
-
 ## HOW
 ### Felt problem, JTBD, and the dramatic question
 - **Felt problem:** Agreeing to every request erodes focus and creates hidden resentment.
