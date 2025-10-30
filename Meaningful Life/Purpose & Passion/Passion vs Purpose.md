@@ -46,3 +46,12 @@ This note complements [[Ikigai (Life Purpose Framework)]], [[Meaningful Work & C
 > Passion is the spark. Purpose is the flame that stays lit through storms.
 
 Pair with: [[Ikigai (Life Purpose Framework)]], [[Personal Mission Statement]], [[Meaningful Work & Career]]
+
+## chat
+```smart-chatgpt
+chat-active:: 1761773606 https://sora.chatgpt.com/p/s_690288b916308191a533e40fe61e2345
+chat-active:: 1761773579 https://sora.chatgpt.com/p/s_690288da7aa48191a6673a00541155dd
+chat-active:: 1761773538 https://sora.chatgpt.com/p/s_690288d0d6ec8191aae6830cadf46f92
+chat-done:: 1761682639 https://chatgpt.com/g/g-p-68fb7bd5cfe88191810ac7e23ecd3f2c-3-ep-seq-v3/c/690124cb-f7c8-832e-bb3f-22fdea848fb6
+chat-done:: 1761682629 https://chatgpt.com/g/g-p-68fb7bd5cfe88191810ac7e23ecd3f2c-3-ep-seq-v3/c/690124c1-e8b4-8332-ac6e-2feae7c2d20d
+```

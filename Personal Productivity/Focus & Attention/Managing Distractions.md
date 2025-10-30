@@ -17,5 +17,6 @@ Managing distractions is essential to staying focused in a world designed to int
 
 ## chat
 ```smart-chatgpt
+chat-active:: 1761784545 https://chatgpt.com/g/g-p-68fb7bd5cfe88191810ac7e23ecd3f2c-3-ep-seq-v3/c/6902b2dc-06ac-8331-9257-551ff034933a
 chat-active:: 1759680716 https://sora.chatgpt.com/p/s_68e298b8a5d8819191ab208bff94d8ac
 ```

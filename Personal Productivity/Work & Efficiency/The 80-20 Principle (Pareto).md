@@ -9,6 +9,7 @@
 
 ## chat
 ```smart-chatgpt
+chat-active:: 1761773887 https://chatgpt.com/g/g-p-68fb7bd5cfe88191810ac7e23ecd3f2c-3-ep-seq-v3/c/6902893b-01f0-832d-8870-0cfba73f7d30
 ```
 
 ## HOW
