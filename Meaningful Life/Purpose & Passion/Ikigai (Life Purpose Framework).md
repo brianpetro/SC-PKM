@@ -23,6 +23,7 @@ Pair this with: [[Meaningful Work & Career]], [[Life Purpose Discovery]], [[Cont
 
 ## chat
 ```smart-chatgpt
+chat-active:: 1762216928 chat-acti:: 1762216121 https://chatgpt.com/g/g-p-6907c6f56d6c8191b8bc95ab193d8c21-1-ep-v1/c/690948b6-189c-832f-9afd-45d1bd42cd4d
 chat-active:: 1759672196 https://sora.chatgpt.com/p/s_68e2777ba8248191bd14966055038c62
 chat-active:: 1759672161 https://sora.chatgpt.com/d/gen_01k6t9pxqde65aeexaz8v0ss4t
 chat-active:: 1759441834 https://sora.chatgpt.com/p/s_68def3d5403c8191bb171d1f142a4505

@@ -9,6 +9,10 @@
 
 ## chat
 ```smart-chatgpt
+chat-active:: 1762184663 https://chatgpt.com/g/g-p-6907c6f56d6c8191b8bc95ab193d8c21-1-ep-v1/c/6908cdd1-1c68-832d-a7fb-65a0dea1691c
+chat-active:: 1761910515 https://sora.chatgpt.com/d/gen_01k8saqm8defgtp8aj0jpv54vc
+chat-active:: 1761910497 https://sora.chatgpt.com/d/gen_01k8s9zgw4ez48a46hz7cqnsjq
+chat-active:: 1761910465 https://sora.chatgpt.com/d/gen_01k8s9y30hfz69s602hfkp89jy
 chat-active:: 1761773887 https://chatgpt.com/g/g-p-68fb7bd5cfe88191810ac7e23ecd3f2c-3-ep-seq-v3/c/6902893b-01f0-832d-8870-0cfba73f7d30
 ```
 

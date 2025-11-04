@@ -41,7 +41,6 @@ Turning notes into output is the ultimate goal of a mature PKM system.
 Related: [[Sharing Knowledge]], [[Demonstrating ease-of-use]]
 
 ### How to Do It
-- Use tools like [[Smart Drafts Basics]] for rewrites
 - Compile multiple notes using [[Knowledge Synthesis]]
 - Publish or present from curated ideas
 

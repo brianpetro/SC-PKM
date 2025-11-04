@@ -6,6 +6,12 @@
 
 **Key:** [[Work-Life Balance]], [[Stress Management Techniques]], [[Decision Fatigue]]
 
+## chat
+```smart-chatgpt
+chat-active:: 1762199068 https://chatgpt.com/g/g-p-6907c6f56d6c8191b8bc95ab193d8c21-1-ep-v1/c/69090618-dafc-832f-98ad-422283b3f33f
+```
+
+
 ## HOW
 ### Felt problem, JTBD, and the dramatic question
 - **Felt problem:** Continuous hustle leaves no recovery, making each week harder than the last.
