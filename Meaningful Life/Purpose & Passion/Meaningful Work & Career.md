@@ -1,7 +1,3 @@
----
-col2: 1
-col1: 1
----
 ### Meaningful Work & Career
 
 - A meaningful career is one that aligns with your personal values, fosters a positive impact on others, and offers a profound sense of fulfillment that transcends mere financial gain.

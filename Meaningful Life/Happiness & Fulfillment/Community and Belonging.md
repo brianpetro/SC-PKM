@@ -1,6 +1,3 @@
----
-col2: 1
----
 ### Community and Belonging
 
 - Feeling a sense of community and belonging involves being part of a group where you share common interests, values, or goals.

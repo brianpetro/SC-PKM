@@ -19,7 +19,6 @@ This note links well with [[Minimalism as a Lifestyle]], [[Purposeful Leisure]],
 Simplicity and essentialism are about focusing on what truly matters—and letting go of what doesn’t.
 
 
-
 ---
 
 ## HOW
@@ -64,3 +63,6 @@ chat-active:: 1760355651 https://sora.chatgpt.com/d/gen_01k7d8s5jkfp2bbkzkkr7sjs
 chat-active:: 1760355620 https://sora.chatgpt.com/d/gen_01k7d7bvtpfsaasr1azmc5zzb4
 chat-active:: 1760355579 https://sora.chatgpt.com/d/gen_01k7d7ar4yfts8168592xj9k22
 ```
+ 
+ 
+jkhkj 

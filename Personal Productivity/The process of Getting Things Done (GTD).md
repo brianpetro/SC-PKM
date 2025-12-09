@@ -33,7 +33,9 @@ To implement and master the Getting Things Done (GTD) productivity system
 - Create project lists and next action lists
 - Practice the two-minute rule for quick tasks
 
+
 ---
+
 
 ## HOW
 - **Felt problem:**

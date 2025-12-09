@@ -9,14 +9,6 @@ In PKM, focusing on relevance ensures that you prioritize knowledge that aligns 
 
 **Keywords**: Focus on Relevance, Goal Alignment, Information Filtering, Prioritization
 
-
-
-
-```smart-context
-../community-actions/README.md
-```
-
-
 ## Related Notes
 
 For techniques on reviewing and reflecting on captured knowledge, see [[Habitual Reflection]].

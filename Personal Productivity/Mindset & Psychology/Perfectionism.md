@@ -5,3 +5,5 @@
 - **Strategy:** Set reasonable standards and deadlines; focus on progress over perfection and celebrate completed tasks even if not 100% perfect.
 
 **Key:** [[Procrastination & Overcoming It]], [[Intrinsic vs Extrinsic Motivation]], [[Stress Management Techniques]]
+
+

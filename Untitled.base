@@ -1,3 +1,11 @@
+formulas:
+  4_goals: score_connection(file.file, "GTD/4_goals.md")
+properties:
+  formula.4_goals:
+    displayName: 4_goals
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - formula.4_goals

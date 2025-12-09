@@ -1,8 +1,3 @@
----
-smart template: true
-col2: 2
-col1: 1
----
 ### Career vs Calling
 
 - A career can be seen as a series of jobs or roles for financial gain and professional growth, whereas a calling is work that deeply aligns with one's values and purpose.

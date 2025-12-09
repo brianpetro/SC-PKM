@@ -4,6 +4,7 @@
 - **Key Elements:** Often described by the habit loop: cue, routine (behavior), and reward, which reinforce the habit.
 - **Benefit:** Understanding habit formation can help in building positive habits and breaking negative ones effectively.
 
+
 **Key:** [[Habit Stacking]], [[Habit Tracking]], [[Keystone Habits]]
 
 ![[Example base.base#Table]]

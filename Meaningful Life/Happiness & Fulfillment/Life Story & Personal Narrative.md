@@ -22,6 +22,7 @@ You might start with:
 - Turning points and transitions
 - Moments of resilience or clarity
 
+
 Don’t worry about linear order. Write what comes naturally.
 
 Then ask: What’s the story I’ve been telling? What story do I want to live?
@@ -29,3 +30,24 @@ Then ask: What’s the story I’ve been telling? What story do I want to live?
 This note connects well with [[Identity and Life Roles]], [[Meaningful Experiences]], and [[Personal Growth Plan]]. It’s not just reflection—it’s authorship.
 
 
+
+```smart-context
+
+../smart-graph-obsidian
+../misc-tools
+!../sc-obsidian/manifest.json
+!../sc-obsidian/package.json
+!../sc-obsidian/README.md
+!../sc-obsidian/smart_env.config.js
+../sc-obsidian
+../custom-scripts
+```
+## some next line
+sdfdsfdsf
+
+
+
+
+
+
+ 

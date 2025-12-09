@@ -1,3 +1,6 @@
+
+
+
 ### Resilience & Grit
 
 - **Definition:** Resilience is the ability to bounce back from setbacks, and grit is the perseverance and passion to pursue long-term goals.

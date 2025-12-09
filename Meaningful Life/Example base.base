@@ -23,15 +23,8 @@ properties:
 views:
   - type: table
     name: Table
-    filters:
-      and:
-        - score_connection(this.file, file) > 0.5
     order:
       - file.name
-      - formula.sim
-      - formula.Untitled 2
-      - formula.Incomplete Tasks
-      - formula.Top TODOs
     sort:
       - property: formula.sim
         direction: DESC

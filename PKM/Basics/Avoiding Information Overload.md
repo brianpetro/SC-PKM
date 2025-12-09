@@ -4,10 +4,10 @@ Information overload isn't just about too much input—it’s about too little s
 ### Traditional Solutions
 Tagging, categorization, prioritization, and reduction of capture are common strategies.
 
-### Smart Ecosystem Advantage
+### Smart Advantage
 
-## Smart Ecosystem Context
-In the age of overwhelm, this note reframes PKM as a filter—not just a collector. Smart tools reduce noise and surface what matters.
+## Smart Context
+In the age of overwhelm, this note reframes PKM as a filter, not just a collector. Smart tools reduce noise and surface what matters.
 
 
 # Avoiding Information Overload
@@ -75,7 +75,7 @@ For strategies on filtering and focusing on relevant knowledge, see [[Focus on R
 
 ## chat
 ```smart-chatgpt
-chat-active:: 1762199168 https://chatgpt.com/g/g-p-6907c6f56d6c8191b8bc95ab193d8c21-1-ep-v1/c/6909067c-3878-8327-b3e3-0f9145d14620
+chat-done:: 1762199168 https://chatgpt.com/g/g-p-6907c6f56d6c8191b8bc95ab193d8c21-1-ep-v1/c/6909067c-3878-8327-b3e3-0f9145d14620
 chat-active:: 1760040970 https://sora.chatgpt.com/p/s_68e69c90a798819181af69dec3963595
 
 ```

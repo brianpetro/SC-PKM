@@ -38,5 +38,5 @@ That’s a full cycle — and it scales fast.
 
 ## chat
 ```smart-chatgpt
-chat-active:: 1762199140 https://chatgpt.com/g/g-p-6907c6f56d6c8191b8bc95ab193d8c21-1-ep-v1/c/69090661-5894-832b-aaa7-d77df39dedab
+chat-done:: 1762199140 https://chatgpt.com/g/g-p-6907c6f56d6c8191b8bc95ab193d8c21-1-ep-v1/c/69090661-5894-832b-aaa7-d77df39dedab
 ```

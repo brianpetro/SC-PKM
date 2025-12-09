@@ -167,3 +167,4 @@ Work-life integration is about blending—not balancing—how your personal and 
   - Model openness when discussing negotiations to encourage viewer confidence.
 - **Straw hat and shirt cue evoke:**
   - Optional weekend clip showing personal downtime to reinforce harmony.
+

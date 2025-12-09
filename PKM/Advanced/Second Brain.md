@@ -76,4 +76,5 @@ You’re not just organizing your notes—you’re growing your thinking system.
 
 ## chat
 ```smart-chatgpt
+chat-active:: 1762430412 https://chatgpt.com/g/g-p-6907c6f56d6c8191b8bc95ab193d8c21-1-ep-v1/c/690c8dc9-fd68-8332-bfc2-5ab2b3aebfae
 ```

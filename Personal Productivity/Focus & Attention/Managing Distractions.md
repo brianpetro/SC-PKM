@@ -9,11 +9,12 @@ It’s not just about blocking noise—it’s about designing your environment a
 Ask yourself:
 - What types of distractions pull me out of focus?
 - When am I most vulnerable to switching tasks?
-- What simple systems could reduce interruptions?
+- What simple systems could reduce interruptions?`
 
 This note links with [[Digital Minimalism]], [[Deep Work]], and [[Time Blocking]] for strengthening attention through intention.
 
 Managing distractions is essential to staying focused in a world designed to interrupt you.
+
 
 ## chat
 ```smart-chatgpt

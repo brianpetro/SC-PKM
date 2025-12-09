@@ -54,3 +54,7 @@ Time affluence is the feeling of having enough time—just like financial wealth
 - **High-impact visuals:** Animated ledger showing time gains, plus calendar heatmap shifting from red (packed) to green (spacious).
 - **Dramatization moments:** Scenes of saying no to overtime and redirecting that time toward meaningful rituals.
 - **Measured call to action:** Encourage viewers to run the time ROI calculator and block one "wealth hour" this week.
+
+  
+
+sdfsdfsdf

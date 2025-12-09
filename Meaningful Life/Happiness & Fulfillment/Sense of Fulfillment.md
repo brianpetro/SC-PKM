@@ -1,6 +1,3 @@
----
-col2: 1
----
 ### Sense of Fulfillment
 
 - A sense of fulfillment arises when a person feels that their life is satisfying and worthwhile, often as a result of achieving goals or living according to their values.

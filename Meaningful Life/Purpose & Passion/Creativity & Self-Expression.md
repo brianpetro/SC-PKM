@@ -1,7 +1,3 @@
----
-col2: 1
-col1: 22
----
 - **Tip:** Set aside time to create just for yourself—without the pressure of perfection or productivity. Let it be a space for discovery.
 **Reflection Prompts:****Creativity & Self-Expression**
 
