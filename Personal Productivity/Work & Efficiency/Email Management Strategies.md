@@ -41,3 +41,4 @@
 - **High-impact visuals:** Screen capture of filter setup, before/after inbox dashboard, snippet of templated replies.
 - **Dramatization moments:** Time-lapse of two processing blocks contrasted with uninterrupted deep work.
 - **Measured call to action:** Challenge viewers to schedule their own two-block experiment and share results in Smart Vault.
+

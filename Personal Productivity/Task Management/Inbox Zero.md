@@ -1,6 +1,3 @@
----
-high-impact:
----
 
 
 ### Inbox Zero
