@@ -1,0 +1,21 @@
+formulas:
+  Getting Things Done (GTD): score_connection(file.file, "Breaking Bad Habits.md")
+  PKM References: score_connection(file.file, "PKM/PKM References.md")
+properties:
+  formula.Getting Things Done (GTD):
+    displayName: Getting Things Done (GTD)
+  formula.PKM References:
+    displayName: PKM References
+views:
+  - type: table
+    name: Table
+    order:
+      - formula.PKM References
+      - file.name
+    sort:
+      - property: formula.PKM References
+        direction: DESC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      formula.PKM References: 149

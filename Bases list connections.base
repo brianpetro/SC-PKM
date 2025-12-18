@@ -1,0 +1,17 @@
+formulas:
+  Connections: file.list_connections()
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder.startsWith("PKM")
+    order:
+      - file.name
+      - formula.Connections
+    sort:
+      - property: file.name
+        direction: ASC
+    rowHeight: tall
+    columnSize:
+      file.name: 180

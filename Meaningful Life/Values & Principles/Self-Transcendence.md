@@ -20,3 +20,4 @@ Ask yourself:
 - How does purpose show up in my day-to-day?
 
 You might find this idea links with notes like [[Spirituality & Meaning]], [[Altruism & Kindness]], or [[Contribution and Impact]]. Self-transcendence doesn’t require a grand moment—it can start with a small, generous act.
+

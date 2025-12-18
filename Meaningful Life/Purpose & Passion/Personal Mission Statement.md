@@ -9,7 +9,7 @@
 - Passion Versus Purpose
 - Identifying Core Values
 
-It can steer your decisions, align your time effectively, and offer direction during uncertain moments.
+It can steer your decisions, align your time effectively, and offer direction during uncertain moments. ^a4b00e
 
 Start with these reflective prompts:
 - What kind of person do I aspire to be?
@@ -36,7 +36,7 @@ This note connects well with [[Discovering Life Purpose]], [[Identifying Core Va
 
 Related notes: [[Core Values Identification]], [[Life Purpose Discovery]], [[Contribution and Impact]]
 
-
+[[Personal Mission Statement#^a4b00e]]
 ## chat
 ```smart-chatgpt
 ```

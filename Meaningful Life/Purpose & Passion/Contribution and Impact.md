@@ -21,3 +21,5 @@ col1: 10
 
 Contribution isn’t a destination; it’s a habit of attention. By noticing where your energy naturally flows and investing that energy where it matters, you gradually build a life of meaningful impact.
 Related: [[Self-Transcendence]], [[Life Purpose Discovery]], [[Altruism & Kindness]]
+
+

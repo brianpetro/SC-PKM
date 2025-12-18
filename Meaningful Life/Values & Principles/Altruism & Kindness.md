@@ -33,3 +33,4 @@ But kindness and altruism aren’t always easy. You might reflect on:
 Practicing kindness can be an antidote to burnout, resentment, and even loneliness. You could explore this alongside [[Self-Transcendence]], [[Contribution and Impact]], or [[Meaningful Relationships]] to see how these values show up in your life.
 
 This isn’t about perfection—it’s about practicing a way of being that keeps you connected to what matters.
+

@@ -21,3 +21,17 @@ col2: 1
 
 Let this note guide you toward more presence, appreciation, and care in the relationships that matter most.
 **Key:** Community and Belonging; Service & Volunteering; Authenticity & Integrity
+
+
+
+
+```smart-context
+../advanced-env
+!../advanced-env/obsidian/obsidian.min.js
+
+```
+```smart-context
+../advanced-env
+!../advanced-env/obsidian/obsidian.min.js
+
+```

@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"86a85b788276fd88","x":-471,"y":-345,"width":250,"height":60,"type":"text","text":"Test"},
+		{"id":"0fa4419cf8a368d3","x":-388,"y":-227,"width":250,"height":60,"type":"text","text":"Two"},
+		{"id":"74fbde9b80e5deec","x":-251,"y":-85,"width":250,"height":60,"type":"text","text":"Three"}
+	],
+	"edges":[
+		{"id":"07f11a93f3aba818","fromNode":"0fa4419cf8a368d3","fromSide":"bottom","toNode":"74fbde9b80e5deec","toSide":"top"},
+		{"id":"b7eac66f18acdd1c","fromNode":"86a85b788276fd88","fromSide":"bottom","toNode":"0fa4419cf8a368d3","toSide":"top"}
+	]
+}
