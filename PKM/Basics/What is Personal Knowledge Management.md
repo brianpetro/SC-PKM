@@ -25,7 +25,8 @@ See also: [[Definition of Personal Knowledge Management (PKM)]], [[Atomic Notes 
 
 ## chat
 ```smart-chatgpt
-chat-active:: 1759941131 https://chatgpt.com/g/g-p-68e5269d051081919055d17dfd27dbcb/c/68e691d2-b900-8326-bc07-3c81c339cc1e
+chat-active:: 1766438672 https://chatgpt.com/c/6949b70f-3288-832f-a740-a5feaef636d9
+chat-done:: 1759941131 https://chatgpt.com/g/g-p-68e5269d051081919055d17dfd27dbcb/c/68e691d2-b900-8326-bc07-3c81c339cc1e
 chat-active:: 1759941126 https://chatgpt.com/g/g-p-68e5269d051081919055d17dfd27dbcb-sora-writers-room-2/c/68e65c87-94f0-832d-9303-cd50f417f8d5
 chat-active:: 1759941091 https://chatgpt.com/g/g-p-68e526ac43948191be2761706bce5c8d-sora-writers-room-3/c/68e691dd-85ac-8328-9427-72767b1d9fe7
 chat-active:: 1759941078 https://chatgpt.com/g/g-p-68e5269d051081919055d17dfd27dbcb-sora-writers-room-2/c/68e691d2-b900-8326-bc07-3c81c339cc1e

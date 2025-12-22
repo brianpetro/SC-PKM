@@ -9,7 +9,6 @@ Tags categorize notes by topic or theme, making it easier to find related inform
 
 ## Folders vs. Tags
 While folders create a rigid structure, tags allow for more flexibility in organizing and retrieving information.
-
 How you structure knowledge determines how useful it becomes later.
 
 ### Strategies

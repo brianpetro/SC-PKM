@@ -3,6 +3,7 @@ Personal Knowledge Management is the practice of capturing, organizing, connecti
 - Helps you avoid losing valuable thoughts or resources
 - Makes learning more intentional
 - Links personal growth to meaningful output
+
 ## Related Notes
 
 For more details on the components that make up PKM, see [[Core Components of PKM]].
@@ -34,7 +35,6 @@ See also: [[Definition of Personal Knowledge Management (PKM)]], [[Creating Outp
 - Improved productivity
 - Better decision-making
 - Foundation for a Second Brain system
-
 
 ## chat
 ```smart-chatgpt

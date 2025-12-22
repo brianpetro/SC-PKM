@@ -11,7 +11,6 @@ The goal of PKM isn’t just storing ideas — it’s using them. Your notes are
 ### 🧠 Why This Matters
 - Creation reveals gaps in your thinking
 - Output is the only way to know if your notes are working
-
 ### 🛠️ Methods
 - Use [[Daily Review Habit]] to resurface old insights
 - Combine related notes with [[Synthesis of Information]]
@@ -47,3 +46,7 @@ Related: [[Sharing Knowledge]], [[Demonstrating ease-of-use]]
 ### Practical Tips
 - Regularly schedule a “creation block”
 - Output doesn’t need to be perfect—just share
+
+
+```smart-connections
+```
