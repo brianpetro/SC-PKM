@@ -6,7 +6,7 @@
 
 **Key:** [[Task Prioritization (Eisenhower Matrix)]], [[Weekly Review Process]], [[Time Blocking]]
 
-
+[[Task Prioritization (Eisenhower Matrix)]]
 It’s where strategy becomes motion.
 
 Ask yourself:

@@ -1,1 +1,0 @@
-my vision for the future
