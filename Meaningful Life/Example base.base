@@ -23,6 +23,9 @@ properties:
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - file.mtime > "2025-05-01"
     order:
       - file.name
     sort:

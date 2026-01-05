@@ -5,3 +5,9 @@
 - **Example:** Treating your morning coffee brewing as a quiet ritual can make it a mindful practice, rather than just an automatic routine.
 
 **Key:** [[Morning & Evening Routines]], [[Mindfulness, for Focus]], [[Habit Stacking]]
+
+
+
+```smart-context
+
+```
