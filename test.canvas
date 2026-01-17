@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"480b52f1cd9b0c98","type":"file","file":"Personal Productivity/Time Management/Time Blocking.md","x":0,"y":0,"width":400,"height":400},
+		{"id":"37acf2261ab45462","type":"text","text":"[[Rituals vs Routines]]","x":-435,"y":-463,"width":250,"height":60},
+		{"id":"9cfe18309a4d0f1b","type":"file","file":"Pasted image 20251226090645.png","x":-560,"y":-180,"width":399,"height":208}
+	],
+	"edges":[]
+}

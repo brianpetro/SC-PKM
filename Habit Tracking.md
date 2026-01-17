@@ -4,6 +4,7 @@
 - **Benefit:** Provides visual proof of your progress and can motivate you to maintain streaks, reinforcing consistency.
 - **Tip:** Use a habit tracker app or a simple calendar where you mark each day you complete the habit, aiming not to break the chain.
 
+
 ## How to Start
 
 1. **Choose Your Habits:** Select a few key habits you want to build or maintain. Start small to avoid overwhelm.
