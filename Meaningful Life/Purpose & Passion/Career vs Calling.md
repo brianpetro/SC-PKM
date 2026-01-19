@@ -37,3 +37,6 @@ You can explore this more through [[Ikigai (Life Purpose Framework)]], [[Meaning
 > You don’t always have to choose between practicality and purpose. The path of fulfillment is often found in the overlap.
 
 Related: [[Ikigai (Life Purpose Framework)]], [[Life Purpose Discovery]], [[Meaningful Work & Career]]
+
+
+

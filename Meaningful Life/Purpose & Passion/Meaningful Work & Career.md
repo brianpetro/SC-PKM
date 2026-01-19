@@ -31,6 +31,7 @@ Sometimes meaning is found in the work itself. At other times, it emerges from h
 You might connect this note with [[Ikigai (Life Purpose Framework)]], [[Passion vs Purpose]], or [[Contribution and Impact]] to gain a deeper understanding of how work integrates into your overall sense of purpose.
 
 
+
 **Improvement:**
 
 - Meaningful work is about resonance—not just results. It’s when what you do aligns with who you are and what you care about.
