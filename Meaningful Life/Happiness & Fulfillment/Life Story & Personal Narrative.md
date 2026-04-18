@@ -1,7 +1,7 @@
 ---
 col2: 1
 ---
-**Life Story & Personal Narrative**
+s**Life Story & Personal Narrative**
 
 - **Definition:** The story we tell ourselves about who we are, where we’ve come from, and where we’re going.
 - **Insight:** Our interpretation of events shapes our identity and emotional patterns.
@@ -31,23 +31,10 @@ This note connects well with [[Identity and Life Roles]], [[Meaningful Experienc
 
 
 
-```smart-context
 
-../smart-graph-obsidian
-../misc-tools
-!../sc-obsidian/manifest.json
-!../sc-obsidian/package.json
-!../sc-obsidian/README.md
-!../sc-obsidian/smart_env.config.js
-../sc-obsidian
-../custom-scripts
+```ctx
+../smartconnections.app
 ```
-## some next line
-sdfdsfdsf
-
-
-
-
 
 
  

@@ -10,7 +10,3 @@
 **Key:** [[Time Blocking]], [[Time Tracking & Auditing]], [[Pomodoro Technique]]
 
 
-
-```smart-connections
-
-```

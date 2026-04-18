@@ -5,3 +5,9 @@
 - **Tip:** Use tools or a journal to log activities and review them to improve time allocation.
 
 **Key:** [[Time Blocking]], [[Scheduling & Calendar Management]], [[Pomodoro Technique]]
+
+
+
+```ctx
+../obsidian-smart-env-pro
+```

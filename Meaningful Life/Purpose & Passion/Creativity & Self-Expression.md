@@ -9,7 +9,6 @@
 
 
 
-
 Try asking:
 - When do I feel most creatively alive?
 - What blocks my expression—and what frees it?
