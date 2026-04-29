@@ -1,7 +1,7 @@
 ---
 col2: 1
 ---
-s**Life Story & Personal Narrative**
+**Life Story & Personal Narrative**
 
 - **Definition:** The story we tell ourselves about who we are, where we’ve come from, and where we’re going.
 - **Insight:** Our interpretation of events shapes our identity and emotional patterns.
@@ -28,13 +28,3 @@ Don’t worry about linear order. Write what comes naturally.
 Then ask: What’s the story I’ve been telling? What story do I want to live?
 
 This note connects well with [[Identity and Life Roles]], [[Meaningful Experiences]], and [[Personal Growth Plan]]. It’s not just reflection—it’s authorship.
-
-
-
-
-```ctx
-../smartconnections.app
-```
-
-
- 

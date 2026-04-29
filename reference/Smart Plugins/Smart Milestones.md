@@ -1,7 +1,14 @@
 ---
 WHAT: "The minimum milestone path that creates 3 compounding artifacts: durable links, reusable context, and closed-loop threads."
-aliases: [Smart Plugins milestones, Smart Ecosystem milestones, Smart Plugins quickstart]
-tags: [workflow, smart-tools]
+aliases:
+  - Smart Plugins milestones
+  - Smart Ecosystem milestones
+  - Smart Plugins quickstart
+tags:
+  - workflow
+  - smart-tools
+  - changed
+  - 4
 ---
 
 > [!summary]
@@ -9,6 +16,8 @@ tags: [workflow, smart-tools]
 
 > [!tip] When to use
 > Right after install, after changing Smart Environment settings, or anytime Connections/Lookup feel empty or random.
+
+
 
 ## What you are building (the 3 artifacts)
 1. Durable links in real notes (compounds retrieval)
@@ -29,7 +38,7 @@ tags: [workflow, smart-tools]
 - Success looks like: Connections and Lookup return relevant items for your anchor note (not blank).
 - Output artifact: the semantic layer exists (everything downstream can have signal).
 
-### 2) Open the Connections view (make the core loop visible)
+### 2) Open the Connections view (make the scan -> confirm -> act loop visible)
 
 - [ ] DO: Open the Connections view and keep it visible while you switch notes.
 	- Quick path: [Getting started with Smart Connections](https://smartconnections.app/smart-connections/getting-started/)
