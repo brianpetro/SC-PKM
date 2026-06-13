@@ -3,8 +3,6 @@ col2: 1
 aliases:
 ---
 
-
-
 ### Living in the Present (Presence2)
 
 - Living in the present means fully engaging with the current moment instead of being lost in regrets about the past or worries about the future.

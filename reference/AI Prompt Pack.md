@@ -19,7 +19,7 @@ tags:
 # AI Prompt Pack (for PKM)
 
 > [!summary]
-> Use AI to create structure and suggestions, then verify before trusting.
+> Use AI to create structure and suggestions, then verify.
 
 ## 1) Turn a highlight into an atomic note
 Prompt:

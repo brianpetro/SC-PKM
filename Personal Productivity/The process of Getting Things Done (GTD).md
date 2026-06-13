@@ -188,3 +188,8 @@ To implement and master the Getting Things Done (GTD) productivity system
 ## chat
 ```smart-chatgpt
 ```
+
+
+## Related
+- [[Getting Things Done by David Allen]]
+- 

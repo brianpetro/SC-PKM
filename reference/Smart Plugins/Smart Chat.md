@@ -16,7 +16,7 @@ tags: [smart-tools, moc]
 - First walkthrough: [Smart Chat - Getting Started](https://smartconnections.app/smart-chat/getting-started/) and the story at [Smart Chat Getting Started story](https://smartconnections.app/story/smart-chat-getting-started/).
 - Embedding providers inside notes: [Smart Chat codeblocks](https://smartconnections.app/smart-chat/codeblock/).
 - Defaults and behavior (instructions, streaming, context lookup, models): [Smart Chat settings](https://smartconnections.app/smart-chat/settings/).
-- Using local and cloud APIs inside Obsidian: [Smart Chat API integration](https://smartconnections.app/smart-chat/api-integration/).
+- Using local and cloud APIs inside Obsidian: [Smart Chat API integration](https://smartconnections.app/smart-chat/api/).
 - Make a "Chat Inbox" with Dataview: [Smart Chat thread dashboard](https://smartconnections.app/smart-chat/thread-dashboard/).
 - Shared models and indexing are configured in [Smart Environment settings](https://smartconnections.app/smart-environment/settings/).
 
