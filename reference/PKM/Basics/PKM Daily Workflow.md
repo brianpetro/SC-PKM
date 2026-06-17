@@ -1,3 +1,0 @@
-- Capture new ideas or tasks.
-- Review the day's notes.
-- Prioritize actions for the day.

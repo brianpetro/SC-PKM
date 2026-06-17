@@ -4,4 +4,4 @@
 - **Benefit:** Saves time and reduces human error by letting machines handle routine processes, freeing you to focus on more complex tasks.
 - **Example:** Automating email filters to sort messages, or using a tool to auto-fill report templates can streamline your daily workflow.
 
-**Key:** [[reference/Email Management Strategies]], [[reference/Efficiency vs Effectiveness]], [[reference/Decision Fatigue]]
+**Key:** [[reference/PKM/Email Management Strategies]], [[reference/PKM/Efficiency vs Effectiveness]], [[reference/PKM/Decision Fatigue]]

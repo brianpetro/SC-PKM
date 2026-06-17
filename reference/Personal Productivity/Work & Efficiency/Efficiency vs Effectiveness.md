@@ -4,7 +4,7 @@
 - **Balance:** Ideally, one should be effective first (focusing on what truly matters) and then become efficient at those tasks.
 - **Example:** You can efficiently answer lots of emails (efficient but not necessarily effective if those emails are low priority). Being effective means spending time on high-impact work first.
 
-**Key:** [[reference/Personal Productivity/Work & Efficiency/The 80-20 Principle (Pareto)]], [[reference/Daily Planning & Prioritization]], [[reference/Personal Productivity/Work & Efficiency/Decision Fatigue]]
+**Key:** [[reference/Personal Productivity/Work & Efficiency/The 80-20 Principle (Pareto)]], [[reference/PKM/Daily Planning & Prioritization]], [[reference/Personal Productivity/Work & Efficiency/Decision Fatigue]]
 
 ## chat
 ```smart-chatgpt

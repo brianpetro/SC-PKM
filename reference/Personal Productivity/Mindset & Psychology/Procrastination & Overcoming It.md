@@ -4,7 +4,7 @@
 - **Cause:** Can stem from fear of failure, feeling overwhelmed, or simply poor time management habits.
 - **Solution:** Break tasks into smaller steps, use timers (like Pomodoro), and reward yourself for progress to overcome the inertia.
 
-**Key:** [[Perfectionism]], [[Intrinsic vs Extrinsic Motivation]], [[reference/Pomodoro Technique]]
+**Key:** [[Perfectionism]], [[Intrinsic vs Extrinsic Motivation]], [[reference/PKM/Pomodoro Technique]]
 
 ## chat
 ```smart-chatgpt

@@ -16,7 +16,7 @@
 
 **Key:** [[Core Values Identification]], [[Personal Philosophy of Life]], [[Authenticity & Integrity]]
 
-- [[Authenticity & Integrity]] and [[reference/SMART Goals]] can show how alignment plays out in both principles and actions.
+- [[Authenticity & Integrity]] and [[reference/PKM/SMART Goals]] can show how alignment plays out in both principles and actions.
 
 Use these to help guide readers toward intentional living.
 

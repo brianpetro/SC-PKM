@@ -1,6 +1,6 @@
 formulas:
-  Getting Things Done (GTD): score_connection(file.file, "Breaking Bad Habits.md")
-  PKM References: score_connection(file.file, "PKM/PKM References.md")
+  Getting Things Done (GTD): score_connection(file.file, "reference/Personal Productivity/Habits & Routines/Breaking Bad Habits.md")
+  PKM References: score_connection(file.file, "reference/PKM/PKM References.md")
 properties:
   formula.Getting Things Done (GTD):
     displayName: Getting Things Done (GTD)
@@ -9,6 +9,9 @@ properties:
 views:
   - type: table
     name: Table
+    filters:
+      and:
+        - file.folder.startsWith("reference/PKM")
     order:
       - formula.PKM References
       - file.name

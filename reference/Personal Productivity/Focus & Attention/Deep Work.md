@@ -4,7 +4,7 @@
 - **Benefit:** Enables significant progress on complex tasks by maximizing concentration and cognitive ability.
 - **Tip:** Set aside dedicated blocks of time for deep work and eliminate potential interruptions (like turning off notifications).
 
-**Key:** [[reference/Work-Life Balance]], [[Work-Life Integration]], [[Meaningful Work & Career]]
+**Key:** [[reference/PKM/Work-Life Balance]], [[Work-Life Integration]], [[Meaningful Work & Career]]
 
 
 It’s not just about getting more done—it’s about doing meaningful work at a higher level of quality.

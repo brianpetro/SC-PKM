@@ -47,16 +47,16 @@ Before PKM, this student kept notes in random Google Docs and notebooks. Studyin
 1. **Capture lecture notes** directly into daily notes
 2. **Break down key ideas** into atomic cards — 1 per concept
 3. **Tag by course** (e.g. `#BIO101`, `#HistoryOfArt`)
-4. **Use spaced review** — link into [[reference/Spaced Repetition]] tools or review manually
+4. **Use spaced review** — link into [[Spaced Repetition]] tools or review manually
 5. **Synthesize big ideas** across classes (see [[Synthesis of Information]])
 
 ### 🔗 Related Notes
-- [[reference/Capture Tools]]
-- [[reference/Creating Output]]
+- [[Capture Tools]]
+- [[Creating Output]]
 - [[Efficient Retrieval]]
-- [[reference/Zettelkasten Method]]
+- [[reference/PKM/Zettelkasten Method]]
 - [[Efficient Retrieval]]
-- [[reference/Zettelkasten Method]]
+- [[reference/PKM/Zettelkasten Method]]
 
 ### ✅ Try This
 After your next lecture, write just 3 atomic notes instead of summarizing everything. You’ll learn faster by focusing on what matters most.

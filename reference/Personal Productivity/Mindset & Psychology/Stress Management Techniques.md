@@ -4,7 +4,7 @@
 - **Techniques:** Can include exercise, mindfulness meditation, better time management, and relaxation practices like deep breathing.
 - **Benefit:** Effective stress management reduces anxiety, improves concentration, and prevents health issues associated with chronic stress.
 
-**Key:** [[reference/Burnout Prevention]], [[demos/Screenshot Demo - Smart Connections/Meditation & Mindfulness]], [[reference/Work-Life Balance]]
+**Key:** [[reference/PKM/Burnout Prevention]], [[demos/Screenshot Demo - Smart Connections/Meditation & Mindfulness]], [[reference/PKM/Work-Life Balance]]
 
 
 

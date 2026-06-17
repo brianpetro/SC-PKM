@@ -53,15 +53,15 @@ A nonfiction writer uses PKM to develop ideas, structure content, and maintain c
 This writer had dozens of docs, scattered outlines, and random idea lists. Nothing connected. They moved to a note-based system in Obsidian and began to shape raw ideas into published work.
 
 ### 🛠️ Workflow Snapshot
-1. **Capture fragments** using voice, quick notes, web clippers ([[reference/Capture Tools]])
-2. **Store in vault inbox**, then review with [[Daily Review Habit]]
+1. **Capture fragments** using voice, quick notes, web clippers ([[Capture Tools]])
+2. **Store in vault inbox**, then review with [[PKM Daily Review]]
 3. **Develop atomic notes** from ideas and research
 4. **Cluster notes** into outlines using [[Synthesis of Information]]
 5. **Draft articles** or newsletters by pulling from existing notes
 
 ### 🔗 Helpful Notes
-- [[reference/Creating Output]]
-- [[reference/Zettelkasten Method]]
+- [[Creating Output]]
+- [[reference/PKM/Zettelkasten Method]]
 - [[Tagging and Linking]]
 - [[Personalized System]]
 

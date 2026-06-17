@@ -16,7 +16,7 @@
 
 **Key:** [[Authenticity & Integrity]], [[Personal Philosophy of Life]], [[Value Alignment in Life]]
 
-- [[Value Alignment in Life]] and [[reference/SMART Goals]] provide practical next steps after identifying core values.
+- [[Value Alignment in Life]] and [[reference/PKM/SMART Goals]] provide practical next steps after identifying core values.
 
 These links turn self-discovery into meaningful action.
 

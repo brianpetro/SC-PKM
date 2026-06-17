@@ -4,7 +4,7 @@
 - **Key Point:** Multitasking often reduces efficiency due to context switching costs, whereas single-tasking can improve quality and speed.
 - **Tip:** When possible, dedicate your attention to one task and group similar tasks together to minimize switching.
 
-**Key:** [[reference/Personal Productivity/Focus & Attention/Managing Distractions]], [[Task Batching]], [[reference/Pomodoro Technique]]
+**Key:** [[reference/Personal Productivity/Focus & Attention/Managing Distractions]], [[Task Batching]], [[reference/PKM/Pomodoro Technique]]
 
 
 Multitasking often leads to context switching, which drains cognitive energy and reduces performance.
@@ -14,6 +14,6 @@ Ask yourself:
 - What’s one task I can give my full attention to today?
 - How do I feel after focused vs fragmented work sessions?
 
-This note links well with [[reference/Personal Productivity/Focus & Attention/Deep Work]], [[Flow State in Work]], and [[reference/Time Blocking]] as strategies for reducing mental load.
+This note links well with [[reference/Personal Productivity/Focus & Attention/Deep Work]], [[Flow State in Work]], and [[reference/PKM/Time Blocking]] as strategies for reducing mental load.
 
 Single-tasking vs multitasking is really a battle between depth and fragmentation.

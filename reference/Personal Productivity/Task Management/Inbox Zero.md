@@ -6,7 +6,7 @@
 - **Benefit:** Reduces stress and information overload by regularly processing and organizing emails.
 - **Tip:** Schedule specific times to handle email and use folders or labels to sort messages, rather than checking constantly.
 
-**Key:** [[Getting Things Done (GTD)]], [[Personal Kanban Boards]], [[reference/Email Management Strategies]]
+**Key:** [[Getting Things Done (GTD)]], [[Personal Kanban Boards]], [[reference/PKM/Email Management Strategies]]
 
 ### Getting Things Done (GTD)
 

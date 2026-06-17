@@ -1,0 +1,68 @@
+---
+WHAT: The PKM loop and its failure modes, so you can diagnose which stage (capture/curate/store/retrieve/share) is blocking momentum.
+aliases:
+  - PKM Components
+  - PKM Loop
+tags:
+  - foundations
+  - loop
+  - process
+  - system
+---
+
+> [!summary]
+> The PKM loop: capture, curate, store, retrieve, share.
+
+> [!When to use]
+> When you have lots of notes but no momentum, this note clarifies the PKM loop so you know what to do next, even if you are new.
+
+### The 5-stage PKM loop overview
+- A practical loop with stable stages: 1) Capture: get ideas and inputs into a trusted place.
+- 2) Curate: filter, distill, and decide what is worth keeping.
+- 3) Store: write notes in a durable form with enough structure to retrieve.
+
+### What good looks like per stage
+- You capture quickly and consistently, without organizing mid-stream.
+- You add context, remove noise, and upgrade the best ideas.
+- Notes are atomic enough to reuse and linked enough to navigate.
+
+### Failure modes that break the loop
+- Capture-only: you have lots of notes, no reuse.
+- Curate-only: you highlight forever, but never connect or output.
+- Store-only: you file deeply, but cannot retrieve quickly.
+
+### Simple examples of the loop in action
+- Capture: meeting notes.
+- Curate: extract decisions and actions.
+- Store: link decision to the project note.
+
+### How to strengthen weakest stage first
+- If retrieval is hard: fix naming, tags, queries, and indexes (see [[Efficient Retrieval]]).
+- If capture is hard: reduce friction and standardize routing (see [[Capturing Information]]).
+- If you never ship: add a minimal output habit (see [[Sharing Knowledge]]).
+
+
+## Next action
+Pick one note you touched this week and upgrade it using this note's main rule (1 pass only).
+
+1. Capture: Collecting knowledge from various sources such as books, articles, conversations, and personal experiences.
+2. Curate: Organizing and categorizing the captured knowledge into meaningful structures.
+3. Store: Safely storing the curated knowledge in a retrievable format.
+4. Retrieve: Efficiently finding and recalling the stored knowledge when needed.
+5. Share: Disseminating the knowledge with others to expand its impact.
+
+A good PKM system isn’t about perfection—it’s about flow. These five components keep knowledge moving, evolving, and paying off in your daily work.
+
+These parts aren’t steps—they’re a cycle. The stronger your loop, the more useful your PKM system becomes.
+
+A good PKM system flows through five key stages: Capture, Curate, Store, Retrieve, and Share.
+[[Personal Knowledge Management Overview]]
+## chat
+```smart-chatgpt
+chat-active:: 1760039720 https://sora.chatgpt.com/d/gen_01k758k1k8ft6s97xag4zs50rz
+chat-active:: 1760039684 https://sora.chatgpt.com/d/gen_01k757vjdrf1fr7speth1tsxa2
+chat-active:: 1760039623 https://sora.chatgpt.com/p/s_68e69c90a798819181af69dec3963595
+chat-active:: 1759443409 https://sora.chatgpt.com/p/s_68def9d9c29c81918c713b63a59bf466
+chat-active:: 1759443099 https://sora.chatgpt.com/d/gen_01k6kfjevrephvdme6755n4ywg
+chat-active:: 1759442739 https://sora.chatgpt.com/d/gen_01k6kf8z2bfa89ysx5dmsfv0nc
+```

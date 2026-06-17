@@ -16,7 +16,7 @@
 
 **Key:** [[Simplicity & Essentialism]], [[Time Affluence vs Money]], [[Purposeful Leisure]]
 
-- You might also connect to [[reference/Digital Minimalism]] for a tech-related perspective, and [[Core Values Identification]] to ground minimalist choices in personal priorities.
+- You might also connect to [[reference/PKM/Digital Minimalism]] for a tech-related perspective, and [[Core Values Identification]] to ground minimalist choices in personal priorities.
 
 Edit or expand based on your own direction for this note.
 

@@ -191,5 +191,5 @@ To implement and master the Getting Things Done (GTD) productivity system
 
 
 ## Related
-- [[reference/Getting Things Done by David Allen]]
+- [[Getting Things Done by David Allen]]
 - 

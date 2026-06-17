@@ -4,9 +4,9 @@
 - **Benefit:** By deliberately planning your day, you increase productivity and ensure urgent and important tasks are addressed in a timely manner.
 - **Tip:** Each morning (or the night before), list the top 3 tasks you need to accomplish that day to maintain focus on priorities.
 
-**Key:** [[reference/Task Prioritization (Eisenhower Matrix)]], [[Weekly Review Process]], [[reference/Time Blocking]]
+**Key:** [[reference/PKM/Task Prioritization (Eisenhower Matrix)]], [[Weekly Review Process]], [[reference/PKM/Time Blocking]]
 
-[[reference/Task Prioritization (Eisenhower Matrix)]]
+[[reference/PKM/Task Prioritization (Eisenhower Matrix)]]
 It’s where strategy becomes motion.
 
 Ask yourself:
@@ -14,7 +14,7 @@ Ask yourself:
 - What can I delay, delegate, or delete?
 - When do I do my best work—and am I protecting that time?
 
-This note links well with [[reference/Time Blocking]], [[Weekly Review Process]], and [[reference/Personal Productivity/Goals & Planning/SMART Goals]].
+This note links well with [[reference/PKM/Time Blocking]], [[Weekly Review Process]], and [[reference/Personal Productivity/Goals & Planning/SMART Goals]].
 
 Daily planning helps translate long-term goals into clear actions.
 

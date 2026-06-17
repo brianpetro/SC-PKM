@@ -4,7 +4,7 @@
 - **Application:** Identify the few key tasks or activities that yield the highest benefit and focus more on those, rather than spreading effort evenly on everything.
 - **Benefit:** By concentrating on the most impactful areas, you maximize results while minimizing wasted effort on low-value tasks.
 
-**Key:** [[reference/Task Prioritization (Eisenhower Matrix)]], [[reference/Personal Productivity/Work & Efficiency/Efficiency vs Effectiveness]], [[Time Affluence vs Money]]
+**Key:** [[reference/PKM/Task Prioritization (Eisenhower Matrix)]], [[reference/Personal Productivity/Work & Efficiency/Efficiency vs Effectiveness]], [[Time Affluence vs Money]]
 
 
 ## chat

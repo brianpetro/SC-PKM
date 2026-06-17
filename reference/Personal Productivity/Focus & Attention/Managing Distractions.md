@@ -11,7 +11,7 @@ Ask yourself:
 - When am I most vulnerable to switching tasks?
 - What simple systems could reduce interruptions?`
 
-This note links with [[reference/Personal Productivity/Focus & Attention/Digital Minimalism]], [[reference/Personal Productivity/Focus & Attention/Deep Work]], and [[reference/Time Blocking]] for strengthening attention through intention.
+This note links with [[reference/Personal Productivity/Focus & Attention/Digital Minimalism]], [[reference/Personal Productivity/Focus & Attention/Deep Work]], and [[reference/PKM/Time Blocking]] for strengthening attention through intention.
 
 Managing distractions is essential to staying focused in a world designed to interrupt you.
 

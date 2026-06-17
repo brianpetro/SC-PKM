@@ -5,7 +5,7 @@ views:
     name: Table
     filters:
       and:
-        - file.folder.startsWith("PKM")
+        - file.folder.startsWith("reference/PKM")
     order:
       - file.name
       - formula.Connections
