@@ -36,7 +36,7 @@ tags:
 - semantics: what the relationship is,
 
 ### Avoid shallow networks and over-linking
-- Use LYT-style navigation via [[Linking Your Thinking]] so the network is usable, not just dense.
+- Use LYT-style navigation via [[reference/Linking Your Thinking]] so the network is usable, not just dense.
 - Many links, few relationship sentences.
 - Notes that are vague and could link to anything.
 

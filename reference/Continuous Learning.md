@@ -27,7 +27,7 @@ tags:
 
 ### Review and spaced reinforcement practices
 - Fix: reinforce only what you want to become behavior.
-- Use spaced repetition for high-value knowledge (see [[Spaced Repetition]]).
+- Use spaced repetition for high-value knowledge (see [[reference/Spaced Repetition]]).
 - Review notes during a weekly/monthly cadence.
 
 ### Linking for cross-topic accumulation

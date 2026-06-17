@@ -43,7 +43,7 @@ tags:
 
 ### Examples of useful MOCs in practice
 - Definitions: [[Personal Knowledge Management Overview]]
-- Daily loop: [[PKM Daily Workflow]]
+- Daily loop: [[reference/PKM Daily Workflow]]
 - Note types: [[Note Types and Lifecycle]]
 - Retrieval: [[Efficient Retrieval]]
 

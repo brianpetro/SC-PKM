@@ -19,7 +19,7 @@ tags:
 - **Specific**: what exactly will be true?
 - **Measurable**: how will you know? (metric or observable proof)
 - **Achievable**: plausible with your constraints
-- **Relevant**: supports current priorities (see [[Focus on Relevance]])
+- **Relevant**: supports current priorities (see [[reference/Focus on Relevance]])
 - **Time-bound**: by when?
 
 Example rewrite:

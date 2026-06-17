@@ -36,7 +36,7 @@ Fix: cap it at 60 seconds. If you cannot finish in 60 seconds, you are planning,
 
 ### Covers / Does not cover
 - Covers: Starting a focus block quickly and reliably.
-- Does not cover: Choosing priorities (use [[Daily Planning & Prioritization]]).
+- Does not cover: Choosing priorities (use [[reference/Daily Planning & Prioritization]]).
 
 ## Next action
 - Before your next focus block, run the 60-second checklist and start the timer immediately.

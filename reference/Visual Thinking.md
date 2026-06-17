@@ -21,7 +21,7 @@ tags:
 - You are synthesizing across multiple notes.
 
 ### Diagram types to use (maps, flows, models)
-- Mind map: explore a topic quickly (see [[Mind Mapping]]).
+- Mind map: explore a topic quickly (see [[reference/Mind Mapping]]).
 - Concept map: show labeled relationships between ideas.
 - Flowchart: represent a process or workflow.
 

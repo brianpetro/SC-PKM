@@ -37,7 +37,7 @@ tags:
 - Wednesday: You create a permanent note: "AI as a review co-pilot" with 2 links to related concepts.
 
 ### Avoid blurred roles and duplicated content
-- Enforce an inbox boundary: raw notes live in [[Capturing Information]] until processed.
+- Enforce an inbox boundary: raw notes live in [[reference/Capturing Information]] until processed.
 - You cannot tell what is trustworthy.
 - You repeatedly reread old notes because they are not distilled.
 

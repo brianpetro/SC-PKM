@@ -23,9 +23,9 @@ tags:
 - Move abandoned responsibilities to [[Archives]] instead of keeping zombie areas.
 
 ### Key links
-- [[Regular Reviews]] keeps Areas alive so they do not silently decay.
-- [[Time Management]] connects Area routines to your calendar and planning.
-- [[Privacy and Security in PKM]] is worth revisiting for any Area that contains sensitive work.
+- [[reference/Regular Reviews]] keeps Areas alive so they do not silently decay.
+- [[reference/Time Management]] connects Area routines to your calendar and planning.
+- [[reference/Privacy and Security in PKM]] is worth revisiting for any Area that contains sensitive work.
 
 ### Maintenance and review
 - Weekly: check the 1-2 Areas that most affect your week; adjust routines or next actions.

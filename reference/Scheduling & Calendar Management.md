@@ -37,11 +37,11 @@ See [[Calendar Block Labels]].
 ### Failure mode and fix
 Failure mode: You schedule only meetings, then try to squeeze work into gaps.
 
-Fix: place your deep blocks first, then fit meetings around them (see [[Time Blocking]]).
+Fix: place your deep blocks first, then fit meetings around them (see [[reference/Time Blocking]]).
 
 ### Covers / Does not cover
 - Covers: Practical scheduling rules, not just theory.
-- Does not cover: Negotiation of meeting culture (see [[Saying No Strategically]]).
+- Does not cover: Negotiation of meeting culture (see [[reference/Saying No Strategically]]).
 
 ## Next action
 - Add one 15-minute buffer after your next meeting and use it to process the meeting note.

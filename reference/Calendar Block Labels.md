@@ -38,7 +38,7 @@ Fix: keep 5 labels max and only add a new one if it improves retrieval or planni
 
 ### Covers / Does not cover
 - Covers: A minimal calendar label vocabulary.
-- Does not cover: Full scheduling strategies (see [[Scheduling & Calendar Management]]).
+- Does not cover: Full scheduling strategies (see [[reference/Scheduling & Calendar Management]]).
 
 ## Next action
 - Rename 3 upcoming calendar blocks using these labels and a deliverable-based title.

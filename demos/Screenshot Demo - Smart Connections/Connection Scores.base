@@ -1,0 +1,25 @@
+formulas:
+  score: score_connection(file.file, "Screenshot Demo - Smart Connections/How I build context in my notes.md")
+properties:
+  formula.score:
+    displayName: Connection score
+views:
+  - type: table
+    name: Relevance
+    filters:
+      and:
+        - file.folder == "Screenshot Demo - Smart Connections"
+        - file.name != "Atomic Notes"
+        - file.name != "Attention Residue"
+        - file.name != "Connection Scores.base"
+        - file.name != "Digital Minimalism"
+        - file.name != "How I build context in my notes"
+        - file.name != "Linking for Emergent Ideas"
+        - file.name != "Smart Connections"
+        - file.name != "Zettelkasten Method"
+    order:
+      - file.name
+      - formula.score
+    sort:
+      - property: formula.score
+        direction: DESC

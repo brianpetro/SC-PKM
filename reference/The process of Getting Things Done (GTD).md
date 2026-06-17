@@ -36,11 +36,11 @@ Organize -> Put the action in your task system and keep links to the context not
 ### Failure mode and fix
 Failure mode: You capture but never clarify, so the inbox becomes storage.
 
-Fix: attach a daily or weekly review habit (see [[PKM Daily Review]] and [[PKM Weekly Review]]).
+Fix: attach a daily or weekly review habit (see [[PKM Daily Review]] and [[reference/PKM Weekly Review]]).
 
 ### Covers / Does not cover
 - Covers: The durable GTD processing moves, independent of any app.
-- Does not cover: Full GTD lists and contexts implementation (see [[Getting Things Done by David Allen]] for deeper reference).
+- Does not cover: Full GTD lists and contexts implementation (see [[reference/Getting Things Done by David Allen]] for deeper reference).
 
 ## Next action
 - Do a 10-minute capture sweep, then clarify the first 10 items into next actions using the questions above.

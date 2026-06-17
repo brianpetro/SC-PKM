@@ -26,7 +26,7 @@ tags:
 - Source clip -> literature note -> permanent note(s).
 
 ### Apply tags, metadata, and links consistently
-- Minimal metadata fields (see [[Consistency in Note Taking]]).
+- Minimal metadata fields (see [[reference/Consistency in Note Taking]]).
 - 0-2 primary tags, only if they improve retrieval.
 - 1-3 meaningful links that explain relationships (see [[Tag Canon]]).
 

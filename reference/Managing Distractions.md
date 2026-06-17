@@ -25,7 +25,7 @@ tags:
 ### High-leverage defaults
 - Disable non-essential notifications.
 - Put your phone in another room during deep work.
-- Use one capture inbox so new inputs do not become instant context switches (see [[Capturing Information]]).
+- Use one capture inbox so new inputs do not become instant context switches (see [[reference/Capturing Information]]).
 
 ### Concrete example
 Deep work block rule: "No messaging apps open. Phone out of reach. Only 1 browser window."
@@ -36,9 +36,9 @@ Failure mode: You rely on willpower, then fail on tired days.
 Fix: make the environment do the work. Use [[Focus Mode Setup Checklist]] once, then you benefit every day.
 
 ### Helpful links
-- [[Digital Minimalism]] is the mindset-level version.
-- [[Avoiding Information Overload]] reduces the volume of inputs.
-- [[Time Blocking]] protects focus time.
+- [[reference/Digital Minimalism]] is the mindset-level version.
+- [[reference/Avoiding Information Overload]] reduces the volume of inputs.
+- [[reference/Time Blocking]] protects focus time.
 
 ### Covers / Does not cover
 - Covers: Practical defaults that reduce interruption rate.

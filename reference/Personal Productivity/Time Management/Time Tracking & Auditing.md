@@ -1,0 +1,13 @@
+### Time Tracking & Auditing
+
+- **Definition:** Monitoring how you spend your time to gain insights into productivity patterns.
+- **Benefit:** Reveals where time is wasted and helps in reallocating time to more important activities.
+- **Tip:** Use tools or a journal to log activities and review them to improve time allocation.
+
+**Key:** [[reference/Personal Productivity/Time Management/Time Blocking]], [[reference/Personal Productivity/Time Management/Scheduling & Calendar Management]], [[reference/Personal Productivity/Time Management/Pomodoro Technique]]
+
+
+
+```ctx
+../obsidian-smart-env-pro
+```

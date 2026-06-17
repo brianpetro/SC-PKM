@@ -21,7 +21,7 @@ tags:
 - and maintained so it stays useful over time.
 
 ### Core practices (capture, organize, retrieve)
-- [[Progressive Summarization]] makes sources skimmable so retrieval is fast, not a rereading project.
+- [[reference/Progressive Summarization]] makes sources skimmable so retrieval is fast, not a rereading project.
 - Capture: collect ideas and inputs with intent.
 - Organize: place them where they will be found later.
 

@@ -17,11 +17,11 @@ tags:
 > If PM context is scattered across docs and chats, this map gives you a home for meetings, decisions, actions, and stakeholders, even when you juggle many threads.
 
 ### Reading path
-- [[PKM in Project Management]] -> what belongs in the system
+- [[reference/PKM in Project Management]] -> what belongs in the system
 - [[Meeting Notes Workflow]] -> extract outcomes, not transcripts
 - [[Decision Logs]] -> preserve rationale and avoid re-deciding
-- [[PKM Weekly Review]] -> weekly reset that prevents drift
-- [[Time Management]] -> protect maker time and follow-through
+- [[reference/PKM Weekly Review]] -> weekly reset that prevents drift
+- [[reference/Time Management]] -> protect maker time and follow-through
 - [[Processing and Organizing Notes]] -> keep capture and follow-ups clean
 - [[Efficient Retrieval]] -> find the right decision or action in seconds
 - [[Queries and Saved Searches]] -> queues for actions, decisions, risks, and stale projects
@@ -51,9 +51,9 @@ tags:
 
 ### Failure modes (meeting note dumps, action loss) and fixes
 - Fix: use [[Meeting Notes Workflow]] and always extract decisions/actions.
-- Fix: tie actions to calendar blocks via [[Time Management]].
+- Fix: tie actions to calendar blocks via [[reference/Time Management]].
 - Fix: use [[Decision Logs]] and link to evidence and meetings.
-- Fix: protect a recurring [[PKM Weekly Review]] slot.
+- Fix: protect a recurring [[reference/PKM Weekly Review]] slot.
 
 
 ## Next action

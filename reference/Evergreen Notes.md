@@ -21,7 +21,7 @@ tags:
 - Linked: they have a few high-signal relationships.
 
 ### Update loop (review, refine, relink)
-- A simple maintenance loop: 1) Review the note during a scheduled review (see [[Regular Reviews]]).
+- A simple maintenance loop: 1) Review the note during a scheduled review (see [[reference/Regular Reviews]]).
 - 2) Refine the wording so the core claim is clear.
 - 3) Add one new example or counterexample.
 

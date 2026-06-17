@@ -37,7 +37,7 @@ Fix: the audit is not complete until you cut at least one thing.
 
 ### Covers / Does not cover
 - Covers: Weekly prioritization via leverage and pruning.
-- Does not cover: Long-term goal design (see [[OKRs (Objectives and Key Results)]]).
+- Does not cover: Long-term goal design (see [[reference/OKRs (Objectives and Key Results)]]).
 
 ## Next action
 - Run this audit once this week and schedule one deep block for the top leverage item.

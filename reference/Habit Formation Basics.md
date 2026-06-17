@@ -35,7 +35,7 @@ Reward: mark the review as done and enjoy a short break.
 ### Failure mode and fix
 Failure mode: You pick too many habits at once.
 
-Fix: track 1-3 habits max and pick one that cascades (see [[Keystone Habits]]).
+Fix: track 1-3 habits max and pick one that cascades (see [[reference/Keystone Habits]]).
 
 ### Covers / Does not cover
 - Covers: The basics of habit design and starting small.

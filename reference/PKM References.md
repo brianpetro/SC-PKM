@@ -17,7 +17,7 @@ tags:
 
 ### High-signal sources and why they matter
 - Templates and example vaults you can copy.
-- Canonical books and frameworks (e.g., [[Building a Second Brain by Tiago Forte]], [[How to Take Smart Notes by Sonke Ahrens]]).
+- Canonical books and frameworks (e.g., [[reference/Building a Second Brain by Tiago Forte]], [[How to Take Smart Notes by Sonke Ahrens]]).
 - Official documentation (tool docs, search syntax, plugin docs).
 
 ### How to consume references without overload

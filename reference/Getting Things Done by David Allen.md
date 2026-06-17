@@ -37,7 +37,7 @@ tags:
 - Waiting for
 
 ### Review weekly and execute with confidence
-- [[PKM Weekly Review]] as the ritual,
+- [[reference/PKM Weekly Review]] as the ritual,
 - Empty your inbox.
 - Review projects and next actions.
 

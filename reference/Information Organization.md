@@ -16,7 +16,7 @@ tags:
 > If folders, tags, and links feel like competing systems, this note shows how to combine them so organization stays flexible, without over-structuring.
 
 ### Hierarchy vs networked organization
-- Synthesis and insight (see [[Networked Thought]]).
+- Synthesis and insight (see [[reference/Networked Thought]]).
 - Hierarchy (folders) makes scanning easy.
 - Networks (links) make meaning and retrieval powerful.
 

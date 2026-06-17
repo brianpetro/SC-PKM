@@ -34,11 +34,11 @@ tags:
 ### Failure mode and fix
 Failure mode: You pick tasks, not outcomes ("answer emails").
 
-Fix: rewrite as an outcome ("process inbox to zero in two windows"). Then schedule it (see [[Time Blocking]]).
+Fix: rewrite as an outcome ("process inbox to zero in two windows"). Then schedule it (see [[reference/Time Blocking]]).
 
 ### Covers / Does not cover
 - Covers: A minimal daily planning method that fits in 5-10 minutes.
-- Does not cover: Long-term goal design (see [[SMART Goals]] and [[OKRs (Objectives and Key Results)]]).
+- Does not cover: Long-term goal design (see [[reference/SMART Goals]] and [[reference/OKRs (Objectives and Key Results)]]).
 
 ## Next action
 - Fill out [[Daily Plan Template]] for tomorrow and schedule the top outcome as the first block.

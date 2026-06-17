@@ -26,7 +26,7 @@ tags:
 ### What to standardize (minimal set)
 - A concept note always has a short definition and one example.
 - Titles: stable and search-friendly (see [[Note Naming Conventions]]).
-- Frontmatter fields: the few you will actually query (see [[Consistency in Note Taking]]).
+- Frontmatter fields: the few you will actually query (see [[reference/Consistency in Note Taking]]).
 
 ### Template and structure defaults
 - A short summary at the top (2-4 lines).

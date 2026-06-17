@@ -18,9 +18,9 @@ tags:
 
 ### Reading path
 - [[Writing Pipeline]] -> stages from seed to published
-- [[Creating Output]] -> the ship loop and quality checks
-- [[Capturing Information]] -> capture draft seeds and prompts without losing them
-- [[Progressive Summarization]] -> distill sources into skimmable layers
+- [[reference/Creating Output]] -> the ship loop and quality checks
+- [[reference/Capturing Information]] -> capture draft seeds and prompts without losing them
+- [[reference/Progressive Summarization]] -> distill sources into skimmable layers
 - [[Synthesis Workflow]] -> outline from note clusters, then draft
 - [[Literature Notes]] -> keep context and provenance for claims
 
@@ -30,7 +30,7 @@ tags:
 - Inconsistent shipping (bursty output, then silence).
 
 ### Intake and capture patterns (inbox, research notes, idea bank)
-- [[Capturing Information]] for raw capture.
+- [[reference/Capturing Information]] for raw capture.
 - PKM Inbox: raw ideas, quotes, and prompts.
 - Idea bank: a note (or tag) that holds "draft seeds" (one-liners).
 
@@ -45,7 +45,7 @@ tags:
 - A weekly check that moves one piece forward.
 
 ### Failure modes (endless research, perfectionism) and guardrails
-- Guardrail: use [[Sharing Knowledge]] to decide what is shareable and how to redact safely.
+- Guardrail: use [[reference/Sharing Knowledge]] to decide what is shareable and how to redact safely.
 - Guardrail: timebox intake, require a draft before more sources.
 - Guardrail: define "good enough" and ship a smaller version.
 

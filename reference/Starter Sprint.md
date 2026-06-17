@@ -51,7 +51,7 @@ Fix: the sprint task must be doable even on a low-energy day.
 
 ### Covers / Does not cover
 - Covers: Starting behavior when motivation is low.
-- Does not cover: Long session planning (see [[Pomodoro Technique]] or [[Deep Work]]).
+- Does not cover: Long session planning (see [[reference/Pomodoro Technique]] or [[reference/Deep Work]]).
 
 ## Next action
 - Run one 5-minute sprint right now on the task you are avoiding.

@@ -41,7 +41,7 @@ tags:
 ### Failure mode and fix
 Failure mode: You label everything as important.
 
-Fix: define 'important' as 'moves a goal or project outcome' (see [[Focus on Relevance]]).
+Fix: define 'important' as 'moves a goal or project outcome' (see [[reference/Focus on Relevance]]).
 
 ### Covers / Does not cover
 - Covers: Quick prioritization using a 2x2 grid.

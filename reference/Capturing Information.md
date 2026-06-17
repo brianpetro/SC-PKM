@@ -30,7 +30,7 @@ tags:
 - Save you time later (a reference you will reuse).
 
 ### Capture tool categories (text, web, audio)
-- Desktop: Obsidian capture hotkey -> [[Capturing Information]].
+- Desktop: Obsidian capture hotkey -> [[reference/Capturing Information]].
 - A single hotkey that opens a new note in your inbox.
 - Mobile widget or shortcut that appends a line to an "inbox" note.
 
@@ -63,7 +63,7 @@ tags:
 - Meeting notes that need extraction (decisions/actions).
 
 ### Inbox routing and triage integration
-- Every capture goes to one place first: [[Capturing Information]].
+- Every capture goes to one place first: [[reference/Capturing Information]].
 - Do not pre-file. Processing happens later (see [[Processing and Organizing Notes]]).
 - Keep the inbox lightweight: text first, attachments only when necessary.
 
@@ -93,7 +93,7 @@ tags:
 - Quarterly tool audit: delete or disable one tool.
 
 ### Common capture mistakes and fixes
-- [ ] Put it in [[Capturing Information]].
+- [ ] Put it in [[reference/Capturing Information]].
 - Failure mode: "I capture too much and never process."
 - Failure mode: "I try to file perfectly while capturing."
 

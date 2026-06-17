@@ -17,11 +17,11 @@ tags:
 > If research workflow feels messy, this map points you to the right notes for sources, citations, synthesis, and drafts, even if you are just starting.
 
 ### Reading path
-- [[PKM in Research]] -> the end-to-end workflow
+- [[reference/PKM in Research]] -> the end-to-end workflow
 - [[Literature Notes]] -> capture sources with context you can reuse
-- [[PKM in Research]] -> keep provenance intact (no orphan quotes)
-- [[Knowledge Sources]] -> choose inputs intentionally and preserve context
-- [[Progressive Summarization]] -> distill so you can skim later
+- [[reference/PKM in Research]] -> keep provenance intact (no orphan quotes)
+- [[reference/Knowledge Sources]] -> choose inputs intentionally and preserve context
+- [[reference/Progressive Summarization]] -> distill so you can skim later
 - [[Synthesis Workflow]] -> turn clusters into outlines and drafts
 
 ### Goals and constraints of academic research PKM (papers, citations, collaboration)
@@ -35,7 +35,7 @@ tags:
 - Method notes (what works, when it fails).
 
 ### Core workflows (capture, annotate, distill, synthesize into drafts)
-- Core workflow: 1) Capture sources with metadata (see [[Knowledge Sources]]).
+- Core workflow: 1) Capture sources with metadata (see [[reference/Knowledge Sources]]).
 - 2) Annotate and create literature notes.
 - 3) Distill into permanent concepts.
 
@@ -47,7 +47,7 @@ tags:
 ### Pitfalls and upgrades (orphan quotes, missing provenance, over-collection)
 - Fix: every quote needs context and a claim you can state in your own words.
 - Fix: record citation fields at capture time; do not "fix later".
-- Fix: capture fewer sources, distill more. Use [[Focus on Relevance]] and prioritize what supports an output.
+- Fix: capture fewer sources, distill more. Use [[reference/Focus on Relevance]] and prioritize what supports an output.
 
 
 ## Next action

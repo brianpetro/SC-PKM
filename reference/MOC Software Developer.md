@@ -20,7 +20,7 @@ tags:
 - [[Decision Logs]] -> capture rationale so future you can move faster
 - [[Efficient Retrieval]] -> naming, tags, and queries for fast lookup
 - [[Note Naming Conventions]] -> titles that survive refactors and onboarding
-- [[Linking and Connecting Notes]] -> relationship sentences that make links meaningful
+- [[reference/Linking and Connecting Notes]] -> relationship sentences that make links meaningful
 - [[Version Control for Notes]] -> safe edits, history, collaboration
 - [[Note Refactoring and Maintenance]] -> keep runbooks and design notes current
 

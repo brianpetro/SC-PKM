@@ -38,7 +38,7 @@ tags:
 
 ### Avoid over-highlighting and losing meaning
 - Saving sources without distilling them. Fix: "no distillation, no storage": archive it if you will not process it.
-- If your source intake is high, use [[Avoiding Information Overload]] to reduce inputs and protect processing time.
+- If your source intake is high, use [[reference/Avoiding Information Overload]] to reduce inputs and protect processing time.
 - Keep a hard limit on key lines.
 
 

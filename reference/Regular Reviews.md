@@ -36,7 +36,7 @@ tags:
 - Consolidate tags (remove one-off tags).
 
 ### How to adjust cadence when busy
-- Reviews also support [[Future Proofing]] by keeping the system healthy and preventing long-term rot.
+- Reviews also support [[reference/Future Proofing]] by keeping the system healthy and preventing long-term rot.
 - Keep daily review but shrink it to 3 minutes.
 - Keep weekly review but shrink to 20 minutes and focus on inbox + priorities.
 

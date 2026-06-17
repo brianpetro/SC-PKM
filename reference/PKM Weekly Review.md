@@ -31,7 +31,7 @@ tags:
 - Update 1-2 MOCs or index notes so clusters are easy to find later.
 
 ### Plan next week actions and outputs
-- 2-4 calendar blocks tied to those outcomes (see [[Time Management]]).
+- 2-4 calendar blocks tied to those outcomes (see [[reference/Time Management]]).
 - 1-3 outcomes you want by end of week.
 - A short "next actions" list per active project.
 

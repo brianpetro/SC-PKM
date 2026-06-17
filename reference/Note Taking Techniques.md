@@ -21,7 +21,7 @@ tags:
 - **Mapping**: mind maps and concept maps; best for exploring relationships.
 
 ### When each technique fits best
-- If the material is relational (theory, systems): mapping (see [[Mind Mapping]]).
+- If the material is relational (theory, systems): mapping (see [[reference/Mind Mapping]]).
 - If the material is linear (lecture, meeting): outline or Cornell.
 - If you are comparing: charting (matrix).
 
@@ -31,7 +31,7 @@ tags:
 - one method note,
 
 ### Review techniques to retain and apply
-- Create prompts and schedule review (see [[Spaced Repetition]]).
+- Create prompts and schedule review (see [[reference/Spaced Repetition]]).
 - Write a 3-bullet summary from memory.
 - Ask yourself questions and answer without looking.
 

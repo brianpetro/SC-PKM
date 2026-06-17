@@ -31,8 +31,8 @@ tags:
 - Merge or split 2 notes that violate atomicity.
 
 ### Goal alignment and next-month priorities
-- Fix: translate one monthly priority into weekly outcomes during your next [[PKM Weekly Review]].
-- Choose 1-2 priorities for next month (see [[Focus on Relevance]]).
+- Fix: translate one monthly priority into weekly outcomes during your next [[reference/PKM Weekly Review]].
+- Choose 1-2 priorities for next month (see [[reference/Focus on Relevance]]).
 - Identify the projects or areas they imply.
 
 ### Create one synthesis artifact or dashboard

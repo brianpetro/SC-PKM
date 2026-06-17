@@ -47,7 +47,7 @@ tags:
 ### Failure mode and fix
 Failure mode: You add 10 habits and stop.
 
-Fix: reduce to 1-3 habits, preferably including one keystone habit (see [[Keystone Habits]]).
+Fix: reduce to 1-3 habits, preferably including one keystone habit (see [[reference/Keystone Habits]]).
 
 ### Covers / Does not cover
 - Covers: Weekly checkbox tracking for a few habits.

@@ -27,7 +27,7 @@ tags:
 - Where (URL, book title, venue).
 
 ### Quality filters and relevance checks
-- Relevance: does it support current priorities (see [[Focus on Relevance]])?
+- Relevance: does it support current priorities (see [[reference/Focus on Relevance]])?
 - Credibility: is this source trustworthy enough for the claim?
 - Novelty: is it adding something you do not already have?
 

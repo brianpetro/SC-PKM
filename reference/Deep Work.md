@@ -45,13 +45,13 @@ Failure mode: You start the block with vague intent ("work on X"), then drift.
 Fix: rewrite the block title as a deliverable: "Ship draft paragraph" or "Decide between option A/B".
 
 ### Helpful links
-- [[Managing Distractions]] supports this by reducing interruptions.
-- [[Time Blocking]] is the scheduling method that makes this repeatable.
+- [[reference/Managing Distractions]] supports this by reducing interruptions.
+- [[reference/Time Blocking]] is the scheduling method that makes this repeatable.
 - [[Flow State in Work]] helps you make the block easier to enter.
 
 ### Covers / Does not cover
 - Covers: How to run a protected focus block that ends in an output.
-- Does not cover: Long-term career planning or choosing what to work on (use [[Task Prioritization (Eisenhower Matrix)]] or [[The 80-20 Principle (Pareto)]]).
+- Does not cover: Long-term career planning or choosing what to work on (use [[reference/Task Prioritization (Eisenhower Matrix)]] or [[reference/The 80-20 Principle (Pareto)]]).
 
 ## Next action
 - Schedule one 50-minute deep work block today and write its outcome as a deliverable.

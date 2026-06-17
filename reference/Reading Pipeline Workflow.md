@@ -32,7 +32,7 @@ Use [[Literature Notes]]:
 - A few short quotes with location if needed
 
 ## Step 3: Distill (progressive layers)
-Use [[Progressive Summarization]] and [[Progressive Summarization Layer Prompts]].
+Use [[reference/Progressive Summarization]] and [[Progressive Summarization Layer Prompts]].
 
 ## Step 4: Promote to permanent notes
 Extract 1-3 reusable claims into atomic notes using [[Atomic Note Template]].

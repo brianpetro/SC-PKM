@@ -26,7 +26,7 @@ tags:
 - Separate vaults or folders for sensitive content.
 
 ### Backup and recovery practices
-- Test restores periodically (see [[Future Proofing]]).
+- Test restores periodically (see [[reference/Future Proofing]]).
 - Encrypt backups if they contain sensitive notes.
 - Keep backup keys safe and documented.
 

@@ -75,13 +75,13 @@ tags:
 
 ### Links to foundational PKM notes
 - If you want a systems view, start with [[Personal Knowledge Management Overview]] and [[Personal Knowledge Management Overview]].
-- If you want the loop view, use [[Core Components of PKM]].
-- If you want the "second brain" framing, see [[Second Brain]].
+- If you want the loop view, use [[reference/Core Components of PKM]].
+- If you want the "second brain" framing, see [[reference/Second Brain]].
 
 ### How to use this note as an onboarding hub
 - Start: [[Personal Knowledge Management Overview]] -> [[Personal Knowledge Management Overview]]
-- Build the loop: [[Core Components of PKM]] -> [[PKM Daily Workflow]]
-- Improve note quality: [[Keeping Notes Atomic]] -> [[Keeping Notes Atomic]] -> [[Atomic Notes Checklist]]
+- Build the loop: [[reference/Core Components of PKM]] -> [[reference/PKM Daily Workflow]]
+- Improve note quality: [[reference/Keeping Notes Atomic]] -> [[reference/Keeping Notes Atomic]] -> [[Atomic Notes Checklist]]
 
 ### How PKM evolves with you over time
 - Early stage: you mostly capture and label.

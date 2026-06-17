@@ -21,8 +21,8 @@ tags:
 - Sensitivity (private/work/confidential).
 
 ### Choose tools and structure that fit you
-- PARA-first (see [[PARA Method]]).
-- MOC-first (see [[Index Notes and MOCs]] and [[Linking Your Thinking]]).
+- PARA-first (see [[reference/PARA Method]]).
+- MOC-first (see [[Index Notes and MOCs]] and [[reference/Linking Your Thinking]]).
 - Hybrid: shallow folders + MOCs + a small tag canon.
 
 ### Design workflows that reduce friction

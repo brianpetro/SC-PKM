@@ -34,7 +34,7 @@ See [[Habit Tracker]] for a copy/paste version.
 ### Failure mode and fix
 Failure mode: You track too many things and stop.
 
-Fix: delete 80% of tracked items and keep only the keystone (see [[Keystone Habits]]).
+Fix: delete 80% of tracked items and keep only the keystone (see [[reference/Keystone Habits]]).
 
 ### Covers / Does not cover
 - Covers: A lightweight way to track and review habits.

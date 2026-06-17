@@ -50,7 +50,7 @@ tags:
 ### Linking practices that benefit from atomicity
 - Prefer linking to [[Permanent Notes]] rather than linking to raw inbox captures.
 - Add one relationship sentence around a link (why it is linked).
-- Use links to express meaning and navigation, as described in [[Linking and Connecting Notes]].
+- Use links to express meaning and navigation, as described in [[reference/Linking and Connecting Notes]].
 - Link to "neighbors" (supports, contrasts, example of, prerequisite for).
 - Link to a definition or principle you rely on (not just the topic).
 - Add a short relationship sentence, not just a naked link.

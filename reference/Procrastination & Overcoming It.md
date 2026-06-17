@@ -39,7 +39,7 @@ Fix: timebox planning to 2 minutes, then start the 5-minute sprint.
 
 ### Covers / Does not cover
 - Covers: Start friction reduction and reliable starting moves.
-- Does not cover: Project definition (use [[Projects]] or [[The process of Getting Things Done (GTD)]]).
+- Does not cover: Project definition (use [[Projects]] or [[reference/The process of Getting Things Done (GTD)]]).
 
 ## Next action
 - Pick one delayed task, run [[Next Action Converter]], then do a 5-minute [[Starter Sprint]].

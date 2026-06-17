@@ -50,7 +50,7 @@ Fix: keep 1-3 outcomes and schedule at least one deep block for the top outcome.
 
 ### Covers / Does not cover
 - Covers: Daily outcome planning + time blocks.
-- Does not cover: Weekly planning (use [[PKM Weekly Review]]).
+- Does not cover: Weekly planning (use [[reference/PKM Weekly Review]]).
 
 ## Next action
 - Fill this template for tomorrow and schedule the top outcome as a block.

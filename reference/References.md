@@ -19,13 +19,13 @@ tags:
 
 ### How to use this MOC
 - Prefer small, topic-based hubs (MOCs) over deep folders; link out to the best notes.
-- Distill long sources over time (see [[Progressive Summarization]]) so reuse gets faster.
+- Distill long sources over time (see [[reference/Progressive Summarization]]) so reuse gets faster.
 - Archive outdated references to [[Archives]] instead of keeping them mixed with current references.
 
 ### Key links
-- [[Knowledge Sources]] keeps provenance so references stay trustworthy.
-- [[Progressive Summarization]] makes long sources scannable when you return later.
-- [[PKM References]] helps you curate what is worth keeping in References in the first place.
+- [[reference/Knowledge Sources]] keeps provenance so references stay trustworthy.
+- [[reference/Progressive Summarization]] makes long sources scannable when you return later.
+- [[reference/PKM References]] helps you curate what is worth keeping in References in the first place.
 
 ### Maintenance and review
 - Monthly: prune duplicates and outdated references; keep only what you actually use.

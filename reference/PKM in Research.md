@@ -96,7 +96,7 @@ tags:
 ### Common failure modes and fixes
 - Fix: every quote should be paired with "why it matters" in your own words.
 - Fix: capture citation metadata at the moment you create the literature note.
-- Fix: capture fewer sources, distill more. Use [[Focus on Relevance]] and push toward synthesis.
+- Fix: capture fewer sources, distill more. Use [[reference/Focus on Relevance]] and push toward synthesis.
 - Fix: require a location reference for every quote.
 - Fix: keep quotes and your writing visually distinct, and always link to the source note.
 - Fix: choose one key format and enforce it during capture.

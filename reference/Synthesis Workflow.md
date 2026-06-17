@@ -28,7 +28,7 @@ tags:
 - Add them to a temporary working list (or a scratch note).
 
 ### Review and extract key claims and tensions
-- Skim notes using summaries and highlights (see [[Progressive Summarization]]).
+- Skim notes using summaries and highlights (see [[reference/Progressive Summarization]]).
 - Extract:
 - 3-7 key claims,
 
@@ -38,7 +38,7 @@ tags:
 - Framework: categories + examples under each.
 
 ### Define each synthesis method clearly
-- Draw relationships between concepts (see [[Mind Mapping]]).
+- Draw relationships between concepts (see [[reference/Mind Mapping]]).
 - Summary:
 - Compress one source or cluster into the key points.
 

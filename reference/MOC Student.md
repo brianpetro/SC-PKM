@@ -18,10 +18,10 @@ tags:
 
 ### Reading path
 - [[Note Types and Lifecycle]] -> understand what each note is for
-- [[Note Taking Techniques]] -> pick 1 technique per class (do not mix 5)
+- [[reference/Note Taking Techniques]] -> pick 1 technique per class (do not mix 5)
 - [[PKM Daily Review]] -> a daily 10-15 min processing + retention timebox
-- [[Spaced Repetition]] -> turn high-value concepts into prompts
-- [[Focus on Relevance]] -> stop over-capturing, prioritize exam-valuable concepts
+- [[reference/Spaced Repetition]] -> turn high-value concepts into prompts
+- [[reference/Focus on Relevance]] -> stop over-capturing, prioritize exam-valuable concepts
 - [[Processing and Organizing Notes]] -> keep the inbox bounded and notes usable
 
 ### Student constraints and goals (volume, deadlines, grades vs learning)
@@ -36,7 +36,7 @@ tags:
 
 ### Retention system (spaced repetition, review cadence, exam prep)
 - A small daily review (10-15 min) using [[PKM Daily Review]].
-- Spaced prompts for high-value concepts (see [[Spaced Repetition]]).
+- Spaced prompts for high-value concepts (see [[reference/Spaced Repetition]]).
 - Weekly consolidation: update course MOCs and note what is unclear.
 
 ### Organization patterns (course MOCs, assignment tracking, question bank)
@@ -46,7 +46,7 @@ tags:
 ### Pitfalls (cramming, backlog, over-highlighting) and fixes
 - Fix: add small spaced prompts weekly, not the night before.
 - Fix: process the last lecture before attending the next one. Keep the queue small.
-- Fix: highlights must become your words. Use [[Focus on Relevance]] to capture only what serves learning goals.
+- Fix: highlights must become your words. Use [[reference/Focus on Relevance]] to capture only what serves learning goals.
 
 
 ## Next action

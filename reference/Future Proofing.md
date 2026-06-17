@@ -22,7 +22,7 @@ tags:
 > If plugins break and your workflow collapses, this note helps you reduce fragile dependencies so your PKM survives, without giving up useful power.
 
 ### Portability principles (plain text, exports)
-- Building critical workflows on fragile plugins with no fallback. Counter with [[Future Proofing]].
+- Building critical workflows on fragile plugins with no fallback. Counter with [[reference/Future Proofing]].
 - Prefer plain Markdown and stable filenames.
 - Keep attachments in standard formats (PDF, PNG, etc).
 - Plain Markdown files.

@@ -63,7 +63,7 @@ Fix: keep exactly one outcome for the block. If you have two, schedule two block
 
 ### Covers / Does not cover
 - Covers: A repeatable structure for deep work sessions.
-- Does not cover: Project planning across weeks (use [[PKM Weekly Review]]).
+- Does not cover: Project planning across weeks (use [[reference/PKM Weekly Review]]).
 
 ## Next action
 - Create your next deep work block note using this template and schedule it on your calendar.

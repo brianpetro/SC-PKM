@@ -36,7 +36,7 @@ Goal: write consistently.
 ### Failure mode and fix
 Failure mode: You do a full detox, then rebound.
 
-Fix: make one permanent default change per week (notifications, app limits, home screen). See [[Managing Distractions]].
+Fix: make one permanent default change per week (notifications, app limits, home screen). See [[reference/Managing Distractions]].
 
 ### Covers / Does not cover
 - Covers: Intentional tool selection and constraint patterns.

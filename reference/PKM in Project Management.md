@@ -36,7 +36,7 @@ tags:
 - Current status (one paragraph)
 
 ### Review cadence and stakeholder visibility
-- Use [[Time Management]] to protect time for the review and update loops.
+- Use [[reference/Time Management]] to protect time for the review and update loops.
 - Daily: capture key outcomes and keep inbox clean.
 - Weekly: update project hubs, review risks, prepare stakeholder update.
 

@@ -25,10 +25,10 @@ tags:
 
 ## 2) Create 5 core notes (or use existing)
 - [[Personal Knowledge Management Overview]]
-- [[Core Components of PKM]]
-- [[Capturing Information]]
+- [[reference/Core Components of PKM]]
+- [[reference/Capturing Information]]
 - [[Processing and Organizing Notes]]
-- [[PKM Weekly Review]]
+- [[reference/PKM Weekly Review]]
 
 ## 3) Run the loop (tiny)
 - Daily (5-10 min): process 1-3 inbox items

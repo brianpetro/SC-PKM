@@ -27,7 +27,7 @@ tags:
 
 ### Link to evidence, meetings, and projects
 - The meeting where it was discussed (use [[Meeting Notes Workflow]]).
-- The project hub where it matters (use [[PKM in Project Management]]).
+- The project hub where it matters (use [[reference/PKM in Project Management]]).
 - The evidence notes or sources that informed it.
 
 ### Review decisions and outcomes later

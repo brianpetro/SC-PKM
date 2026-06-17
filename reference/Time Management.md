@@ -18,10 +18,10 @@ tags:
 ### How PKM supports time and attention control
 - **Fewer re-decisions**: you reuse rationale captured in [[Decision Logs]] instead of reopening old debates.
 - **Faster ramp-up**: a project hub note gives you the "what/why/next" in 30 seconds.
-- **Clearer priorities**: you can compare competing work against what you decided matters (see [[Focus on Relevance]]).
+- **Clearer priorities**: you can compare competing work against what you decided matters (see [[reference/Focus on Relevance]]).
 
 ### Integrate tasks with project and knowledge notes
-- Capture meeting notes using [[PKM in Project Management]] patterns.
+- Capture meeting notes using [[reference/PKM in Project Management]] patterns.
 - **Project hub note**: scope, stakeholders, milestones, risks, next milestone.
 - **Meeting notes** link to the project hub and extract actions/decisions.
 
@@ -32,13 +32,13 @@ tags:
 
 ### Review loops that keep plans current
 - Daily: protect today (see [[PKM Daily Review]]).
-- Weekly: reset the system and plan with constraints (see [[PKM Weekly Review]]).
+- Weekly: reset the system and plan with constraints (see [[reference/PKM Weekly Review]]).
 - Time management fails when the plan is stale.
 
 ### Pitfalls like planning without execution
 - Fix: end planning by scheduling at least one 60-120 minute block for a specific deliverable.
 - Fix: plan buffers and treat "free time" as a reference.
-- Fix: write down your 1-3 weekly outcomes during [[PKM Weekly Review]] and use [[Focus on Relevance]] to say no to low-leverage work.
+- Fix: write down your 1-3 weekly outcomes during [[reference/PKM Weekly Review]] and use [[reference/Focus on Relevance]] to say no to low-leverage work.
 
 
 ## Next action

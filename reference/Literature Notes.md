@@ -32,7 +32,7 @@ tags:
 - Write a short paraphrase in your own words.
 
 ### Link to emerging concepts and permanent notes
-- Link to concepts you already have (ex: [[Capturing Information]]).
+- Link to concepts you already have (ex: [[reference/Capturing Information]]).
 - Create "candidate concepts" as headings inside the literature note.
 - When a concept repeats across sources, promote it into a [[Permanent Notes]] note.
 

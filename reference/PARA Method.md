@@ -36,7 +36,7 @@ tags:
 - Use MOCs for topics that span multiple PARA buckets.
 
 ### Failure modes like stuffing References
-- Fix: enforce a relevance filter (see [[Focus on Relevance]]). If you cannot name a likely future use, do not keep it.
+- Fix: enforce a relevance filter (see [[reference/Focus on Relevance]]). If you cannot name a likely future use, do not keep it.
 - Fix: move only at clear transitions (project start/end), and rely on links for everything else.
 - Fix: rewrite the item as an outcome with an end date, or move it to Areas.
 

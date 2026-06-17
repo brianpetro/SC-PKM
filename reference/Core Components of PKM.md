@@ -38,8 +38,8 @@ tags:
 
 ### How to strengthen weakest stage first
 - If retrieval is hard: fix naming, tags, queries, and indexes (see [[Efficient Retrieval]]).
-- If capture is hard: reduce friction and standardize routing (see [[Capturing Information]]).
-- If you never ship: add a minimal output habit (see [[Sharing Knowledge]]).
+- If capture is hard: reduce friction and standardize routing (see [[reference/Capturing Information]]).
+- If you never ship: add a minimal output habit (see [[reference/Sharing Knowledge]]).
 
 
 ## Next action

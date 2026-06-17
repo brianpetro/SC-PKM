@@ -18,7 +18,7 @@ tags:
 
 ### What makes a link meaningful (context)
 - Expresses a relationship (supports, contrasts, example-of, depends-on).
-- "This workflow depends on [[Capturing Information]] because the inbox boundary prevents raw capture from polluting permanent notes."
+- "This workflow depends on [[reference/Capturing Information]] because the inbox boundary prevents raw capture from polluting permanent notes."
 - Includes a short sentence explaining the relationship.
 
 ### Bidirectional linking habits and timing

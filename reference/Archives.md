@@ -23,9 +23,9 @@ tags:
 - When you reactivate something, move it back to [[Projects]] or [[References]] and update the hub.
 
 ### Key links
-- [[Future Proofing]] matters most for Archives because you only notice loss years later.
+- [[reference/Future Proofing]] matters most for Archives because you only notice loss years later.
 - [[Version Control for Notes]] gives you recoverability for long-lived archives.
-- [[Centralized Repository]] keeps Archives searchable across devices.
+- [[reference/Centralized Repository]] keeps Archives searchable across devices.
 
 ### Maintenance and review
 - Monthly: archive completed projects and close loops so active lists stay current.

@@ -38,7 +38,7 @@ tags:
 - Keep filenames stable so links survive.
 
 ### Tradeoffs and where cloud-only still helps
-- Local-first does not automatically mean safe. Apply [[Privacy and Security in PKM]] for threat modeling and hygiene.
+- Local-first does not automatically mean safe. Apply [[reference/Privacy and Security in PKM]] for threat modeling and hygiene.
 - Cloud-only apps can be great for real-time collaboration.
 - Some cloud features (sharing, web access) reduce friction.
 

@@ -32,7 +32,7 @@ tags:
 - Link to relevant reference notes that explain context.
 
 ### Follow-up and review cadence
-- End of day: add meeting note to [[Capturing Information]] if not already.
+- End of day: add meeting note to [[reference/Capturing Information]] if not already.
 - Immediately after meeting: 2 minutes to extract actions and decisions.
 - Weekly: during review, scan meeting actions and verify closure.
 

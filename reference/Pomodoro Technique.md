@@ -41,7 +41,7 @@ Fix: end each pomodoro with a visible artifact (a paragraph, a commit, a decisio
 
 ### Covers / Does not cover
 - Covers: A simple timeboxing method to start and sustain focus.
-- Does not cover: Long deep work blocks (see [[Deep Work]]).
+- Does not cover: Long deep work blocks (see [[reference/Deep Work]]).
 
 ## Next action
 - Run one pomodoro today on a task you have been avoiding, and define the output before you start.

@@ -37,7 +37,7 @@ tags:
 ### Failure mode and fix
 Failure mode: You overbook blocks, then the plan breaks and you abandon it.
 
-Fix: plan at 60-70% capacity and include buffers (see [[Scheduling & Calendar Management]]).
+Fix: plan at 60-70% capacity and include buffers (see [[reference/Scheduling & Calendar Management]]).
 
 ### Covers / Does not cover
 - Covers: How to schedule work so it actually happens.

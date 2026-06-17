@@ -32,7 +32,7 @@ tags:
 - Conflicts happen when two people edit the same lines.
 
 ### Backup and audit trail benefits
-- A repo may store sensitive content forever (even if deleted later). Align with [[Privacy and Security in PKM]] and do not commit secrets.
+- A repo may store sensitive content forever (even if deleted later). Align with [[reference/Privacy and Security in PKM]] and do not commit secrets.
 - Audit trail: who changed what (useful for shared knowledge bases).
 - Recovery beyond sync: you can roll back to any commit.
 

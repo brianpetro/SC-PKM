@@ -37,7 +37,7 @@ tags:
 - Distill only what you will actually reuse.
 
 ### Critique and when it breaks
-- Use [[Focus on Relevance]] to filter inputs.
+- Use [[reference/Focus on Relevance]] to filter inputs.
 - References becomes a dumping ground (too much, too broad).
 - You optimize for collecting and organizing, not output.
 

@@ -40,4 +40,4 @@ Fix: answer in 5 bullets max and choose one change.
 - Does not cover: Monthly goal setting.
 
 ## Next action
-- During your next [[PKM Weekly Review]], answer these prompts and choose one change for next week.
+- During your next [[reference/PKM Weekly Review]], answer these prompts and choose one change for next week.

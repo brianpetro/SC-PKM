@@ -42,12 +42,12 @@ tags:
 ### How to write relationship sentences in notes
 - Include a short example if possible.
 - Adding links with no explanation. Fix: add one relationship sentence to the most important links, especially in evergreen notes.
-- [[Progressive Summarization]] supports [[Second Brain]] because it turns raw capture into distilled, reusable material.
+- [[reference/Progressive Summarization]] supports [[reference/Second Brain]] because it turns raw capture into distilled, reusable material.
 
 ### Examples of good relationship sentences
-- This is an *example of* [[Keeping Notes Atomic]] in practice.
-- This note *supports* [[Focus on Relevance]] by providing a capture filter you can apply daily.
-- This note *contradicts* [[Avoiding Information Overload]] in one case: when exploration is the goal.
+- This is an *example of* [[reference/Keeping Notes Atomic]] in practice.
+- This note *supports* [[reference/Focus on Relevance]] by providing a capture filter you can apply daily.
+- This note *contradicts* [[reference/Avoiding Information Overload]] in one case: when exploration is the goal.
 
 ### Where to annotate the relationship (inline vs metadata)
 - Pros: readable, meaningful, works everywhere.

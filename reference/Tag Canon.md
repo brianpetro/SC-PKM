@@ -26,7 +26,7 @@ tags:
 - status flags.
 
 ### What tags are for vs not for (grouping vs relationships)
-- Use a link sentence like "This supports [[Focus on Relevance]] because ____" to represent a relationship.
+- Use a link sentence like "This supports [[reference/Focus on Relevance]] because ____" to represent a relationship.
 - Buckets: "all notes about X"
 - Queues: "notes to review" or "notes to process"
 
@@ -46,12 +46,12 @@ tags:
 - Status tags: only if you can query them and they reduce friction.
 
 ### Examples of high-signal tags and link sentences
-- "[[Processing and Organizing Notes]] depends on [[Capturing Information]] being a single trusted capture point."
+- "[[Processing and Organizing Notes]] depends on [[reference/Capturing Information]] being a single trusted capture point."
 - workflows (inbox, review, draft),
 - roles (writer, project-manager),
 
 ### Linking rules (contextual, relationship-aware)
-- Instead of "See also: [[Focus on Relevance]]", write: "This filter supports [[Focus on Relevance]] by preventing low-value capture."
+- Instead of "See also: [[reference/Focus on Relevance]]", write: "This filter supports [[reference/Focus on Relevance]] by preventing low-value capture."
 - Link inline where the relationship is expressed.
 - Add a short relationship sentence for important links.
 

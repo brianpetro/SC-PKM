@@ -27,7 +27,7 @@ tags:
 Your keystone habit depends on your context.
 
 ### Concrete example
-Weekly keystone: [[PKM Weekly Review]]. When it happens, inbox stays small, projects stay current, and decisions are easier.
+Weekly keystone: [[reference/PKM Weekly Review]]. When it happens, inbox stays small, projects stay current, and decisions are easier.
 
 ### Failure mode and fix
 Failure mode: You pick a habit that is too big ("exercise 60 minutes daily").

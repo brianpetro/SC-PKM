@@ -39,7 +39,7 @@ tags:
 ### Avoid review becoming busywork
 - Fix: end the review with a visible artifact (one updated note, one decision, one draft paragraph).
 - Fix: timebox refactoring to 10-15 minutes unless it directly enables an output.
-- Fix: attach review to recurring moments (shutdown routine, weekly reset), which is the point of [[Regular Reviews]].
+- Fix: attach review to recurring moments (shutdown routine, weekly reset), which is the point of [[reference/Regular Reviews]].
 
 
 ## Next action
