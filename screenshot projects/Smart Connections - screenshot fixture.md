@@ -14,8 +14,7 @@ This fixture creates one coherent note cluster that can produce real, current Sm
 
 ## fixture contract
 
-- Use a dedicated vault named `Smart Connections Demo Vault`.
-- Keep all fixture files under `Smart Connections Demo/`.
+- Use a dedicated vault named `Smart Vault`.
 - Use the exact fixture version recorded by the capture run.
 - Complete indexing before evaluating semantic results.
 - Never manually edit scores or result order.
