@@ -1,0 +1,488 @@
+filters:
+  and:
+  - file.inFolder("screenshot projects")
+  - file.ext == "md"
+  - or:
+    - file.hasProperty("record_type")
+    - file.hasProperty("project_id")
+    - file.hasProperty("campaign_id")
+    - file.hasProperty("scene_id")
+    - file.hasProperty("fixture_id")
+    - file.hasProperty("reset_id")
+    - file.hasProperty("run_id")
+    - file.hasProperty("review_id")
+    - file.hasProperty("asset_id")
+    - file.hasProperty("content_kit_id")
+    - file.hasProperty("placement_id")
+    - file.hasProperty("decision_id")
+    - file.hasProperty("prompt_id")
+formulas:
+  stale: if(file.hasProperty("revalidate_after"), revalidate_after <= today(), false)
+properties:
+  file.name:
+    displayName: Record
+  record_type:
+    displayName: Type
+  project_id:
+    displayName: Project
+  campaign_id:
+    displayName: Campaign
+  plugin:
+    displayName: Plugin
+  tier:
+    displayName: Tier
+  scene_id:
+    displayName: Scene
+  run_id:
+    displayName: Run
+  review_id:
+    displayName: QA review
+  reset_id:
+    displayName: Reset
+  asset_id:
+    displayName: Asset
+  content_kit_id:
+    displayName: Content kit
+  placement_id:
+    displayName: Placement
+  decision_id:
+    displayName: Decision
+  prompt_id:
+    displayName: Prompt
+  mode:
+    displayName: Mode
+  gate:
+    displayName: Gate
+  state:
+    displayName: State
+  priority:
+    displayName: Priority
+  owner:
+    displayName: Owner
+  profile_id:
+    displayName: Profile
+  fixture_id:
+    displayName: Fixture
+  fixture_state:
+    displayName: Snapshot
+  variant_id:
+    displayName: Variant
+  next_prompt:
+    displayName: Next prompt
+  blocked_by:
+    displayName: Blocked by
+  approval_status:
+    displayName: Approval
+  public_filename:
+    displayName: Public filename
+  asset_path:
+    displayName: Asset path
+  target_file:
+    displayName: Target file
+  target_section:
+    displayName: Target section
+  target_surface:
+    displayName: Surface
+  last_verified:
+    displayName: Last verified
+  verified_build:
+    displayName: Verified build
+  revalidate_after:
+    displayName: Revalidate after
+  formula.stale:
+    displayName: Stale
+  file.mtime:
+    displayName: Modified
+views:
+- type: table
+  name: Control - Active
+  filters:
+    and:
+    - or:
+      - file.hasProperty("scene_id")
+      - file.hasProperty("reset_id")
+      - file.hasProperty("run_id")
+      - file.hasProperty("review_id")
+      - file.hasProperty("placement_id")
+      - file.hasProperty("decision_id")
+    - not:
+      - state == "published"
+      - state == "retired"
+      - state == "resolved"
+      - state == "superseded"
+      - state == "passed"
+  groupBy:
+    property: note.gate
+    direction: ASC
+  order:
+  - file.name
+  - note.record_type
+  - note.plugin
+  - note.scene_id
+  - note.gate
+  - note.state
+  - note.priority
+  - note.blocked_by
+  - note.next_prompt
+  - file.mtime
+- type: table
+  name: Projects - Campaigns
+  filters:
+    or:
+    - and:
+      - or:
+        - record_type == "project"
+        - record_type == "campaign"
+    - and:
+      - file.hasProperty("campaign_id")
+      - not:
+        - file.hasProperty("scene_id")
+        - file.hasProperty("run_id")
+        - file.hasProperty("asset_id")
+        - file.hasProperty("placement_id")
+  groupBy:
+    property: note.state
+    direction: ASC
+  order:
+  - file.name
+  - note.record_type
+  - note.project_id
+  - note.campaign_id
+  - note.plugin
+  - note.gate
+  - note.state
+  - note.priority
+  - note.owner
+  - note.next_prompt
+  - file.mtime
+- type: table
+  name: Fixtures
+  filters:
+    and:
+    - file.hasProperty("fixture_id")
+    - not:
+      - file.hasProperty("scene_id")
+      - file.hasProperty("reset_id")
+      - file.hasProperty("run_id")
+  groupBy:
+    property: note.state
+    direction: ASC
+  order:
+  - file.name
+  - note.fixture_id
+  - note.fixture_version
+  - note.fixture_root
+  - note.profile_ids
+  - note.snapshot_ids
+  - note.ingestion_include
+  - note.ingestion_exclude
+  - note.checksum_manifest
+  - note.state
+  - note.last_verified
+  - file.mtime
+- type: table
+  name: Scenes - Pipeline
+  filters:
+    or:
+    - file.hasProperty("scene_id")
+    - record_type == "scene"
+  groupBy:
+    property: note.state
+    direction: ASC
+  order:
+  - file.name
+  - note.plugin
+  - note.tier
+  - note.scene_id
+  - note.profile_id
+  - note.fixture_id
+  - note.fixture_state
+  - note.gate
+  - note.state
+  - note.priority
+  - note.result_contract_status
+  - note.next_prompt
+  - note.last_verified
+  - note.verified_build
+- type: table
+  name: Ready - Dispatch
+  filters:
+    and:
+    - file.hasProperty("next_prompt")
+    - not:
+      - state == "blocked"
+      - state == "needs-review"
+      - state == "failed"
+      - state == "published"
+      - state == "retired"
+      - state == "resolved"
+      - state == "superseded"
+  groupBy:
+    property: note.gate
+    direction: ASC
+  order:
+  - file.name
+  - note.record_type
+  - note.plugin
+  - note.scene_id
+  - note.gate
+  - note.state
+  - note.priority
+  - note.next_prompt
+  - note.blocked_by
+- type: table
+  name: Blocked - Needs Review
+  filters:
+    or:
+    - state == "blocked"
+    - state == "needs-review"
+    - state == "failed"
+    - approval_status == "needs-recapture"
+    - approval_status == "needs-decision"
+  groupBy:
+    property: note.state
+    direction: ASC
+  order:
+  - file.name
+  - note.record_type
+  - note.plugin
+  - note.scene_id
+  - note.gate
+  - note.state
+  - note.approval_status
+  - note.priority
+  - note.blocked_by
+  - note.owner
+  - note.next_prompt
+- type: table
+  name: Fixture Runs
+  filters:
+    or:
+    - file.hasProperty("reset_id")
+    - record_type == "fixture_run"
+  groupBy:
+    property: note.profile_id
+    direction: ASC
+  order:
+  - file.name
+  - note.reset_id
+  - note.fixture_id
+  - note.fixture_version
+  - note.profile_id
+  - note.target_snapshot
+  - note.reset_strategy
+  - note.ingestion_scope_verified
+  - note.inventory_verified
+  - note.index_state
+  - note.state
+  - note.next_prompt
+  - file.mtime
+- type: table
+  name: Capture Runs
+  filters:
+    or:
+    - file.hasProperty("run_id")
+    - record_type == "capture_run"
+  groupBy:
+    property: note.state
+    direction: ASC
+  order:
+  - file.name
+  - note.run_id
+  - note.run_mode
+  - note.scene_id
+  - note.variant_id
+  - note.profile_id
+  - note.fixture_state
+  - note.operator
+  - note.captured_on
+  - note.truth_gates_passed
+  - note.review_status
+  - note.state
+  - note.next_prompt
+- type: table
+  name: QA Runs
+  filters:
+    or:
+    - file.hasProperty("review_id")
+    - record_type == "qa_run"
+  groupBy:
+    property: note.state
+    direction: ASC
+  order:
+  - file.name
+  - note.review_id
+  - note.capture_run
+  - note.scene_id
+  - note.reviewer
+  - note.reviewer_independent
+  - note.asset_ids
+  - note.fatal_gates_passed
+  - note.quality_score
+  - note.disposition
+  - note.content_kit
+  - note.state
+  - file.mtime
+- type: table
+  name: Assets - Review Queue
+  filters:
+    and:
+    - or:
+      - file.hasProperty("asset_id")
+      - record_type == "asset"
+    - not:
+      - approval_status == "approved"
+      - approval_status == "approved-with-restrictions"
+      - approval_status == "retired"
+  groupBy:
+    property: note.approval_status
+    direction: ASC
+  order:
+  - file.name
+  - note.asset_id
+  - note.plugin
+  - note.scene_id
+  - note.run_id
+  - note.variant_id
+  - note.asset_kind
+  - note.asset_path
+  - note.approval_status
+  - note.claim
+  - note.next_prompt
+  - file.mtime
+- type: cards
+  name: Assets - Approved
+  filters:
+    and:
+    - or:
+      - approval_status == "approved"
+      - approval_status == "approved-with-restrictions"
+  groupBy:
+    property: note.plugin
+    direction: ASC
+  order:
+  - file.name
+  - note.preview_image
+  - note.plugin
+  - note.tier
+  - note.scene_id
+  - note.asset_kind
+  - note.public_filename
+  - note.caption
+  - note.alt_text
+  - note.approval_status
+  - note.approved_on
+  - note.content_kit
+- type: table
+  name: Content Kits - Ready
+  filters:
+    and:
+    - or:
+      - file.hasProperty("content_kit_id")
+      - record_type == "content_kit"
+    - state == "ready"
+  groupBy:
+    property: note.plugin
+    direction: ASC
+  order:
+  - file.name
+  - note.content_kit_id
+  - note.plugin
+  - note.tier
+  - note.scene_id
+  - note.source_run
+  - note.approved_static
+  - note.approved_motion
+  - note.eligible_pages
+  - note.ineligible_pages
+  - note.placements
+  - note.state
+  - note.next_prompt
+  - note.last_verified
+- type: table
+  name: Content - Placement Queue
+  filters:
+    and:
+    - or:
+      - file.hasProperty("placement_id")
+      - record_type == "placement"
+    - not:
+      - state == "published"
+      - state == "retired"
+  groupBy:
+    property: note.state
+    direction: ASC
+  order:
+  - file.name
+  - note.placement_id
+  - note.plugin
+  - note.content_kit
+  - note.asset_id
+  - note.target_repository
+  - note.target_file
+  - note.target_section
+  - note.target_surface
+  - note.public_asset_path
+  - note.state
+  - note.priority
+  - note.next_prompt
+- type: table
+  name: Published - Revalidate
+  filters:
+    and:
+    - file.hasProperty("published_on")
+    - formula.stale == true
+  groupBy:
+    property: note.plugin
+    direction: ASC
+  order:
+  - file.name
+  - note.record_type
+  - note.plugin
+  - note.scene_id
+  - note.asset_id
+  - note.placement_id
+  - note.published_on
+  - note.last_verified
+  - note.verified_build
+  - note.revalidate_after
+  - formula.stale
+  - note.next_prompt
+- type: table
+  name: Decisions
+  filters:
+    or:
+    - file.hasProperty("decision_id")
+    - record_type == "decision"
+  groupBy:
+    property: note.state
+    direction: ASC
+  order:
+  - file.name
+  - note.decision_id
+  - note.question
+  - note.decision_owner
+  - note.affects
+  - note.state
+  - note.priority
+  - note.resolution
+  - note.resolved_on
+  - note.supersedes
+- type: table
+  name: Prompt Library
+  filters:
+    or:
+    - file.hasProperty("prompt_id")
+    - record_type == "prompt"
+  groupBy:
+    property: note.mode
+    direction: ASC
+  order:
+  - file.name
+  - note.prompt_id
+  - note.mode
+  - note.input_record_types
+  - note.output_record_types
+  - note.allowed_write_roots
+  - note.terminal_states
+  - note.state
