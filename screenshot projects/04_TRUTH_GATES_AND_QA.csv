@@ -1,0 +1,23 @@
+﻿Type,Check,Acceptance Criteria
+Fatal,Real current UI,"Product surface and output come from the current plugin UI, not a mockup or reconstruction."
+Fatal,Correct ownership,AG1 uses Core-only profile; AG3 uses Pro profile; cross-plugin surfaces are not misrepresented.
+Fatal,Current relationship,"Visible output belongs to the active note, block, Base, or selected reference."
+Fatal,Unmodified evidence,"No score, result, title, link, menu, formula, or control is invented or edited."
+Fatal,Claim/proof fit,"Static image claims only its visible state; motion is required for drag, hover activation, or transition."
+Fatal,No sensitive data,Only the isolated fixture vault and neutral demo content are visible.
+Fatal,Complete target UI,"Target list, popover, Footer, link, or Base column is not clipped, stale, loading, or in error."
+Fatal,Provenance,"Scene, variant, run, environment, fixture snapshot, and raw file are recorded."
+Quality,First-glance clarity,Viewer can state the intended belief in 3 seconds.
+Quality,One job,One evidence relationship dominates the frame.
+Quality,Readability,"Titles, evidence, and action remain readable at final output size."
+Quality,Source/output relationship,Anchor and output are directly visible together.
+Quality,Action/payoff clarity,The next useful action or payoff is obvious without a marketing overlay.
+Quality,Demo coherence,Same fixture topic and note family remain coherent across the set.
+Quality,Caption proof fit,Caption names exactly what the visible state proves.
+Quality,Publication suitability,"Image needs no rescue, cleanup, or truth caveat before publication."
+Export,Exact dimensions,Landscape 1200x628; square 1200x1200; portrait 960x1200.
+Export,File size,"Each file is at most 5,120 KB."
+Export,Color,PNG in sRGB.
+Export,No upscaling,Useful raw crop is at least as large as the final export.
+Export,No fake UI or CTA,"No generated product UI, fake buttons, slogans, or marketing callouts inside the product surface."
+Export,Traceability,Every final file maps to exactly one approved raw capture and capture run.

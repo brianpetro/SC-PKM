@@ -11,7 +11,11 @@ views:
       - formula.Connections
     sort:
       - property: file.name
-        direction: ASC
+        direction: DESC
+    limit: 10
     rowHeight: tall
     columnSize:
       file.name: 180
+  - type: table
+    name: New1
+    limit: 10
