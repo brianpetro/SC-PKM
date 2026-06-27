@@ -14,8 +14,7 @@ output_record_types:
   - placement
 allowed_write_roots:
   - explicitly dispatched target repository files
-  - screenshot projects/runs/placement
-  - screenshot projects/records/placements
+  - screenshot projects/capture_runs
 terminal_states:
   - placed
   - published

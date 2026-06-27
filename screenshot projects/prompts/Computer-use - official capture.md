@@ -14,9 +14,9 @@ output_record_types:
   - capture_run
   - asset
 allowed_write_roots:
-  - screenshot projects/runs/capture
-  - screenshot projects/records/assets
-  - screenshot projects/outputs
+  - screenshot projects/capture_runs
+  - screenshot projects/usable
+  - screenshot projects/archive
   - dispatched isolated profile visual/workspace state
   - scene and manifest operational fields
 terminal_states:
@@ -30,7 +30,7 @@ terminal_states:
 ## use when
 
 - the scene is `capture-ready`
-- a passed fixture reset matches the verified environment
+- a passed demo state reset matches the verified environment
 - a specific scene variant has been selected for official evidence
 
 ## do not use when
@@ -99,27 +99,30 @@ WHEN any precondition fails THEN create a capture-run record with `state: needs-
 
 ## output roots
 
-Create:
-
-```text
-screenshot projects/outputs/{{campaign_id}}/{{scene_id}}/{{run_id}}/
-  source/raw/
-  source/motion/
-  final/
-  editable/
-```
+Do not create nested `outputs/` folders.
 
 Create the run note:
 
 ```text
-screenshot projects/runs/capture/{run_id}.md
+screenshot projects/capture_runs/{run_id}.md
 ```
 
-Create one sidecar record per produced asset:
+Place image files directly into one reviewed root:
 
 ```text
-screenshot projects/records/assets/{asset_id}.md
+screenshot projects/usable/
+screenshot projects/archive/
 ```
+
+Use filenames that preserve provenance:
+
+```text
+{asset_class}-{campaign_or_run}__{scene_id}-{variant_id}-{run_id}-{kind}.png
+```
+
+Use `usable/` only for evidence worth keeping after review.
+
+Use `archive/` for failed gates, diagnostics, duplicates, and partial evidence.
 
 ## capture-run frontmatter
 
@@ -193,7 +196,7 @@ A material difference requires a new scene verification.
 
 ### 2. Restore the exact start state
 
-- Use the passed fixture reset.
+- Use the passed demo state reset.
 - Confirm no side effects from a prior attempt remain.
 - Close unrelated UI.
 - Confirm the required anchor.

@@ -156,7 +156,7 @@ views:
   - note.next_prompt
   - file.mtime
 - type: table
-  name: Fixtures
+  name: Demo Contracts
   filters:
     and:
     - file.hasProperty("fixture_id")
@@ -171,7 +171,7 @@ views:
   - file.name
   - note.fixture_id
   - note.fixture_version
-  - note.fixture_root
+  - note.reference_demo_source
   - note.profile_ids
   - note.snapshot_ids
   - note.ingestion_include
@@ -255,7 +255,7 @@ views:
   - note.owner
   - note.next_prompt
 - type: table
-  name: Fixture Runs
+  name: Demo State Resets
   filters:
     or:
     - file.hasProperty("reset_id")

@@ -43,8 +43,8 @@ one input record
 
 | Current gate | Prompt | Input record | Expected terminal state |
 |---|---|---|---|
-| fixture is absent, contaminated, or not deterministic | [[Computer-use - fixture reset]] | scene plus fixture | fixture run `passed`, `failed`, or `needs-review` |
-| scene behavior or exact labels are unverified | [[Computer-use - scene verification]] | scene plus passed fixture run | scene `capture-ready`, `verified`, or `needs-review` |
+| demo state is absent, contaminated, or not deterministic | [[Computer-use - demo state reset]] | scene plus fixture contract | reset record `passed`, `failed`, or `needs-review` |
+| scene behavior or exact labels are unverified | [[Computer-use - scene verification]] | scene plus passed reset record | scene `capture-ready`, `verified`, or `needs-review` |
 | verified scene needs official evidence | [[Computer-use - official capture]] | capture-ready scene | capture run `captured` or `needs-review` |
 | candidate asset needs approval | [[Computer-use - independent QA]] | asset plus source run | asset `approved`, restricted, recapture, or decision |
 | approved evidence needs to create content value | [[Computer-use - content placement]] | approved content kit plus placement | placement `placed`, `published`, or `needs-review` |
@@ -118,26 +118,18 @@ WHEN required inputs remain unresolved THEN create a blocker or decision record 
 
 ```text
 screenshot projects/
-  runs/
-    fixture/
-    verification/
-    capture/
-    qa/
-    placement/
-  records/
-    assets/
-    content-kits/
-    decisions/
-    placements/
-  outputs/
-    {campaign_id}/
-      {scene_id}/
-        {run_id}/
-          source/raw/
-          source/motion/
-          final/
-          editable/
+  capture_runs/
+  usable/
+  archive/
+  prompts/
+  scenes/
 ```
+
+Image files should be flattened into `usable/` or `archive/` with provenance-bearing filenames.
+
+Demo source notes belong under `reference/Smart Connections Demo/`, then the named snapshot state is restored into the active Obsidian profile for capture. Do not place demo notes or snapshot states under `screenshot projects/`.
+
+Do not recreate historical `runs/` or `outputs/` folders unless a new explicit workflow requires them.
 
 ## run identifiers
 
@@ -222,7 +214,7 @@ A prompt is complete only when:
 
 ## prompt notes
 
-- [[Computer-use - fixture reset]]
+- [[Computer-use - demo state reset]]
 - [[Computer-use - scene verification]]
 - [[Computer-use - official capture]]
 - [[Computer-use - independent QA]]

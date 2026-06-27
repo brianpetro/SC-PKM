@@ -219,11 +219,11 @@ superseded
 |---|---|---:|
 | `fixture_id` | Text | yes |
 | `fixture_version` | Text | yes |
-| `fixture_root` | Text | yes |
+| `reference_demo_source` | Text | yes |
 | `snapshot_ids` | List | yes |
 | `ingestion_include` | List | yes |
 | `ingestion_exclude` | List | yes |
-| `checksum_manifest` | Link | when materialized |
+| `checksum_manifest` | Link | when a reference source exists |
 | `profile_ids` | List | yes |
 
 ### fixture run
@@ -541,11 +541,11 @@ Apply the recommended sorts through the current Bases UI and save the Base. This
 |---|---|---|---|---|
 | `Control - Active` | nonterminal scenes, runs, placements, and decisions | choose the one next dispatch | `gate` | `priority` descending, then `file.mtime` descending |
 | `Projects - Campaigns` | project and campaign records | confirm portfolio ownership and active campaign | `state` | `priority` descending |
-| `Fixtures` | fixture definitions and current versions | inspect profile, snapshot, and ingestion contracts | `state` | `fixture_id`, then `fixture_version` |
+| `Demo Contracts` | demo contracts and current versions | inspect profile, snapshot, and ingestion contracts | `state` | `fixture_id`, then `fixture_version` |
 | `Scenes - Pipeline` | all scene records | assess readiness and coverage | `state` | `priority` descending, then `scene_id` |
 | `Ready - Dispatch` | records with a linked `next_prompt` that are not blocked | execute the next prompt | `gate` | `priority` descending |
 | `Blocked - Needs Review` | blocked or `needs-review` records | resolve decision or repair contract | `state` | `priority` descending |
-| `Fixture Runs` | reset/materialization executions | verify deterministic starting state | `profile_id` | `file.mtime` descending |
+| `Demo State Resets` | reset executions | verify deterministic starting state | `profile_id` | `file.mtime` descending |
 | `Capture Runs` | verification and official capture executions | inspect evidence and disposition | `state` | `captured_on` descending |
 | `QA Runs` | independent review executions | inspect approval basis and restrictions | `state` | `file.mtime` descending |
 | `Assets - Review Queue` | unreviewed or failed assets | dispatch independent QA or recapture | `approval_status` | `priority` descending, then `file.mtime` descending |
@@ -572,7 +572,7 @@ Apply the recommended sorts through the current Bases UI and save the Base. This
 | Current note type | Add |
 |---|---|
 | Smart Connections campaign | `record_type: campaign`, `project_id`, `gate`, `priority`, `next_prompt` |
-| Smart Connections fixture | `record_type: fixture`, `project_id`, `fixture_root`, ingestion include/exclude, checksum manifest |
+| Smart Connections fixture | `record_type: fixture`, `project_id`, `reference_demo_source`, ingestion include/exclude, checksum manifest |
 | Six scene notes | `record_type: scene`, `project_id`, `campaign_id`, `gate`, `priority`, `profile_id`, static/motion requirements, `next_prompt` |
 | Prompt notes | metadata already supplied in the generated library |
 | Capture-run template | retain as `record_type: reference` or template; instantiated runs use `capture_run` |
@@ -585,33 +585,27 @@ Apply the recommended sorts through the current Bases UI and save the Base. This
 screenshot projects/
   Screenshot Projects.base
   Screenshot Projects - schema and views.md
+  Smart Connections - screenshot fixture.md
+  Smart Connections - screenshot fixture v2.1 draft.md
+  capture_runs/
   prompts/
   scenes/
-  fixtures/
-  runs/
-    fixture/
-    verification/
-    capture/
-    qa/
-    placement/
-  records/
-    assets/
-    content-kits/
-    decisions/
-    placements/
-  outputs/
-    {campaign_id}/
-      {scene_id}/
-        {run_id}/
-          source/raw/
-          source/motion/
-          final/
-          editable/
+  usable/
+  archive/
+  tools/
 ```
 
-Existing files may remain in their current locations.
+Current image files are flattened into `usable/` and `archive/`.
 
-New run, asset, content-kit, decision, and placement records should use the normalized folders.
+Demo source notes and snapshot states live under `reference/Smart Connections Demo/`, not under `screenshot projects/`.
+
+Historical `runs/` and `outputs/` records were archived and should not be recreated by default.
+
+New capture-run records should use `capture_runs/`.
+
+New image files should be sorted into `usable/` or `archive/` with provenance-bearing filenames.
+
+Add new record folders only when a concrete Base view or workflow needs them.
 
 ## implementation notes
 

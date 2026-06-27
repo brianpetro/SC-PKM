@@ -19,7 +19,3 @@ This note links well with [[reference/Personal Productivity/Goals & Planning/SMA
 Goal tracking helps turn intention into follow-through.
 
 
-
-```smart-context
-../custom-scripts
-```

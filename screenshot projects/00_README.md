@@ -1,5 +1,5 @@
 ---
-state: next
+state: current
 alignment:
   - "[[Plugins - screenshots SOP]]"
 campaign_id: smart-loop-pmax-intent-ladder-signup
@@ -7,70 +7,130 @@ assignment_id: ag1-ag3-real-ui-pmax-capture-v1
 fixture: "[[Smart Connections - screenshot fixture]]"
 fixture_version: 2.0.0
 prepared_on: 2026-06-22
+updated_on: 2026-06-26
 ---
 
-# AG1 and AG3 computer-use screenshot assignment
+# Screenshot Projects
 
-## WHY
+## Current State
 
-Replace generic campaign imagery with real, current, auditable Obsidian product evidence that matches the two PMax asset-group promises.
+This folder contains the Smart Connections/Smart Plugins screenshot production package plus the reviewed image inventory.
 
-## WDLL
+Current image sort:
 
-- AG1 produces 12 final images from four Smart Connections Core evidence families.
-- AG3 produces 12 final images from four Connections Pro evidence families.
-- Every final image maps to an untouched raw capture, a scene, a variant, a capture run, and a fixture snapshot.
-- Core and Pro captures use isolated profiles. No crop, CSS, JavaScript, or hidden status element is used to disguise the wrong tier.
-- No product UI, score, note title, result, command, menu, or state is fabricated.
-- Every scene passes the fatal truth gates before official capture.
-- Final PMax files use exact dimensions:
-	- landscape: `1200 x 628`
-	- square: `1200 x 1200`
-	- portrait: `960 x 1200`
-- Final files are PNG, sRGB, at most 5,120 KB each, with no upscaling from a smaller useful crop.
+- `usable/`: 78 reviewed images, flattened at folder root, renamed with provenance prefixes.
+- `archive/`: 115 archived images, flattened at folder root, plus historical notes/manifests/tooling artifacts.
+- `screenshot-flatten-critical-manifest--2026-06-25T145420-0400.csv`: audit trail for the most recent image flattening and stricter usable/archive decisions.
 
-## critical operating decision
+No image files should remain under `outputs/`, `runs/`, or nested image folders.
 
-The supplied scene manifest marks the existing scenes as `draft` rather than `capture-ready`.
+Demo source notes and snapshot states do not belong in this folder. The current v2 reference source lives at:
 
-Therefore this is a two-stage computer-use assignment:
+```text
+reference/Smart Connections Demo/smart-connections-demo-v2/
+```
 
-1. Verification run: observe the current UI, pass the fixture result contract, preserve one untouched test capture, and record the exact labels/builds.
-2. Official capture run: proceed only for a scene whose fatal truth gates pass.
+`screenshot projects/` should contain capture instructions, manifests, QA records, prompts, scenes, tools, reviewed image inventories, and demo contracts only.
 
-Do not skip directly to public captures.
+## Important Path Rule
 
-## package map
+The original capture specs still describe intended official import paths such as:
 
-| File | Purpose |
+```text
+outputs/final/ag1/...
+outputs/final/ag3/...
+outputs/source/raw/...
+```
+
+Those paths are specification targets, not the current physical image layout.
+
+Current reviewed images live only in:
+
+```text
+usable/
+archive/
+```
+
+Use the flattened filename prefix to recover provenance:
+
+| Prefix | Meaning |
 |---|---|
-| `01_COMPUTER_USE_MASTER_ASSIGNMENT.md` | Full operating assignment and scene sequence |
-| `02_CAPTURE_MATRIX.csv` | Exact 24-shot raw capture and final-export map |
-| `03_FINAL_ASSET_MAP.csv` | Google Ads slot order and filenames |
-| `04_TRUTH_GATES_AND_QA.csv` | Fatal gates plus visual score requirements |
-| `05_RUTHLESS_REVIEW_AND_ITERATION.md` | Critique that produced the final architecture |
-| `scenes/Smart Connections scene - 03 footer connections at note end.md` | New Core scene required by the campaign |
-| `scenes/Smart Connections scene - 07 Bases related links column.md` | New Pro Bases scene for link-trail proof |
-| `scenes/existing-scene-variant-addenda.md` | Variant additions for existing canonical scenes |
-| `prompts/01_MASTER_COMPUTER_USE_PROMPT.md` | Single prompt for the delegated operator |
-| `prompts/02_AG1_SCENE_PROMPT.md` | AG1-only prompt |
-| `prompts/03_AG3_SCENE_PROMPT.md` | AG3-only prompt |
-| `capture_runs/*.md` | Prepared capture-run records |
+| `final-wow-10__` | reviewed WOW final candidate |
+| `final-1000x-hero__` | reviewed 1000x final hero candidate |
+| `final-enhanced-action-shots__` | reviewed enhanced action-shot derivative |
+| `final-enhanced-100x-surfaces__` | reviewed enhanced support-surface derivative |
+| `raw-ag1__` | official later-run AG1 raw evidence |
+| `raw-ag3__` | official later-run AG3 raw evidence |
+| `raw-qa-small-window__` | small-window QA/action raw evidence |
+| `qa-review...` | archived contact sheet or QA artifact |
+| `raw-...` in `archive/` | archived duplicate, weak, diagnostic, or superseded raw capture |
 
-## import and publication warning
+## Active Package Map
 
-This package does not contain final screenshots and must not be used as a Google Ads image import package.
+| File or folder | Purpose |
+|---|---|
+| `01_COMPUTER_USE_MASTER_ASSIGNMENT.md` | Original operator assignment for AG1/AG3 capture. |
+| `02_CAPTURE_MATRIX.csv` | Original 24-shot official capture matrix. |
+| `02_100X_SHOT_MATRIX.csv` | Complete 40-image AG1/AG3 100X managed PMax candidate matrix. |
+| `02_CAPTURE_MATRIX_100X_PROMOTED_ADDENDUM.csv` | Earlier promoted-candidate extension; treat as superseded by the 100X matrix unless recaptured from clean demo/profile gates. |
+| `03_PRIORITIZED_CAPTURE_ORDER.csv` | Operator capture order for launch and scale 100X shots. |
+| `03_FINAL_ASSET_MAP.csv` | Original Google Ads slot map and target filenames. |
+| `04_TRUTH_GATES_AND_QA.csv` | Fatal gates and visual QA requirements. |
+| `05_RUTHLESS_REVIEW_AND_ITERATION.md` | Reasoning record for primary scene architecture. |
+| `06_100X_IMPROVED_SCREENSHOT_SHOT_LIST.md` | Current 100X shot-list strategy and scene readiness notes. |
+| `99_MANIFEST.csv` | Current folder-level manifest after cleanup. |
+| `Plugins - screenshots SOP.md` | Canonical screenshot production policy. |
+| `Plugins - screenshot presentation guide.md` | Composition and derivative-production guidance. |
+| `Plugins - screenshot capture helpers.md` | Optional helper utilities and constraints. |
+| `Smart Connections - screenshot campaign.md` | Campaign story, claims, cut list, and publication constraints. |
+| `Smart Connections - screenshot scene manifest.md` | Scene map and readiness status. |
+| `Smart Connections - screenshot fixture.md` | Demo contract and result expectations. |
+| `Smart Connections - screenshot fixture v2.1 draft.md` | Draft demo contract; create source notes outside `screenshot projects/`. |
+| `reference/Smart Connections Demo/smart-connections-demo-v2/` | Reference v2 demo snapshot states and profile contracts. |
+| `capture_runs/` | Prepared capture-run templates/records for future official capture. |
+| `scenes/` | Canonical and added scene notes. |
+| `prompts/` | Reusable Computer Use prompts. |
+| `tools/` | Local helper scripts. |
+| `usable/` | Reviewed images worth keeping for candidate, final, or raw-evidence work. |
+| `archive/` | Archived images plus historical run notes, QA records, stale manifests, and old tool zips. |
 
-The official capture operator produces untouched raw evidence only. A separate post-production pass derives the exact PMax files from approved raw captures according to `02_CAPTURE_MATRIX.csv`.
+## Current Truth Caveat
 
-## source references
+The usable folder is a reviewed candidate inventory, not a guarantee that every file is official AG1/AG3-ready.
 
-- https://smartconnections.app/smart-connections/list-feature/
-- https://smartconnections.app/smart-connections/footer/
-- https://smartconnections.app/smart-connections/inline/
-- https://smartconnections.app/smart-connections/bases/
-- https://obsidian.md/help/plugins/command-palette
-- https://obsidian.md/help/plugins/page-preview
-- https://obsidian.md/help/drag-and-drop
-- https://obsidian.md/help/bases/views
-- https://support.google.com/google-ads/answer/14530211?hl=en
+Some usable files are polished candidates or support surfaces. Official ad-matrix promotion still requires:
+
+- clean demo snapshot state restored
+- correct `sc-core-clean` or `sc-pro-clean` profile
+- indexing complete
+- current UI labels and tier state recorded
+- untouched raw captured before derivative work
+- fatal truth gates passed
+
+## Operating Order
+
+For a fresh official capture pass:
+
+1. Read `Plugins - screenshots SOP.md`.
+2. Read `01_COMPUTER_USE_MASTER_ASSIGNMENT.md`.
+3. Read `02_CAPTURE_MATRIX.csv`.
+4. Read the relevant scene note under `scenes/`.
+5. Restore the named demo/profile state from `Smart Connections - screenshot fixture.md` using the reference source under `reference/Smart Connections Demo/`.
+6. Capture untouched raw evidence.
+7. Produce derivatives only after raw/provenance gates pass.
+8. Sort resulting images into `usable/` or `archive/` and update the flatten manifest.
+
+## Archive Policy
+
+Archived material is retained for provenance and QA comparison.
+
+Archive entries include:
+
+- old verification and fixture run notes
+- old capture-run records from `outputs/`
+- old QA/review notes and contact-sheet CSVs
+- superseded image manifests
+- diagnostics, contact sheets, duplicate raws, and weak candidate images
+- old tool zip artifacts
+
+Do not treat archived files as publishable without a new review.

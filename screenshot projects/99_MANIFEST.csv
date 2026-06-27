@@ -1,25 +1,33 @@
-﻿Relative Path,Purpose,Bytes
-00_README.md,See file contents,3570
-01_COMPUTER_USE_MASTER_ASSIGNMENT.md,See file contents,15236
-02_CAPTURE_MATRIX.csv,See file contents,15845
-03_FINAL_ASSET_MAP.csv,See file contents,6601
-04_TRUTH_GATES_AND_QA.csv,See file contents,2099
-05_RUTHLESS_REVIEW_AND_ITERATION.md,See file contents,2060
-capture_runs/01_AG1_current_note_related_notes.md,See file contents,2173
-capture_runs/02_AG1_result_to_note_link.md,See file contents,2190
-capture_runs/03_AG1_footer_connections.md,See file contents,2179
-capture_runs/04_AG3_inline_connections.md,See file contents,2176
-capture_runs/05_AG3_bases_relevance_score.md,See file contents,2183
-capture_runs/06_AG3_bases_related_links.md,See file contents,2169
-capture_runs/TEMPLATE.md,See file contents,2091
-outputs/editable/.gitkeep,See file contents,0
-outputs/final/ag1/.gitkeep,See file contents,0
-outputs/final/ag3/.gitkeep,See file contents,0
-outputs/source/raw/ag1/.gitkeep,See file contents,0
-outputs/source/raw/ag3/.gitkeep,See file contents,0
-prompts/01_MASTER_COMPUTER_USE_PROMPT.md,See file contents,2126
-prompts/02_AG1_SCENE_PROMPT.md,See file contents,1267
-prompts/03_AG3_SCENE_PROMPT.md,See file contents,1377
-scenes/Smart Connections scene - 03 footer connections at note end.md,See file contents,7315
-scenes/Smart Connections scene - 07 Bases related links column.md,See file contents,7203
-scenes/existing-scene-variant-addenda.md,See file contents,1737
+"Relative Path","Purpose","Bytes or Count","Notes"
+"00_README.md","Current project README and cleanup state","6040","Updated after 100X shot-list addition"
+"01_COMPUTER_USE_MASTER_ASSIGNMENT.md","Original AG1/AG3 operator assignment","15236","Keep as legacy capture spec"
+"02_CAPTURE_MATRIX.csv","Original 24-shot official capture matrix","15845","Legacy launch matrix; paths are target specs"
+"02_100X_SHOT_MATRIX.csv","Complete 40-image 100X AG1/AG3 candidate matrix","45045","Current managed PMax shot matrix"
+"02_CAPTURE_MATRIX_100X_PROMOTED_ADDENDUM.csv","Earlier promoted experimental/support capture matrix","20484","Superseded by 02_100X_SHOT_MATRIX.csv unless explicitly reused"
+"03_PRIORITIZED_CAPTURE_ORDER.csv","Delegation order for 100X launch and scale captures","24071","Use with Computer Use operator"
+"03_FINAL_ASSET_MAP.csv","Original Google Ads slot map","6601","Legacy target filenames"
+"04_TRUTH_GATES_AND_QA.csv","Fatal gates and visual QA requirements","2099","Canonical QA reference"
+"05_RUTHLESS_REVIEW_AND_ITERATION.md","Architecture critique and accepted scene plan","2060","Keep"
+"06_100X_IMPROVED_SCREENSHOT_SHOT_LIST.md","Current 100X shot-list strategy","11570","Defines 20 candidates per asset group"
+"99_MANIFEST.csv","Current folder-level manifest","3603","This file"
+"screenshot-flatten-critical-manifest--2026-06-25T145420-0400.csv","Audit trail for flattened image sort","97025","Latest image decision manifest"
+"2026-06-27-100x-screenshots/","Dated raw capture set and run record from current Obsidian UI","8 raw PNGs + 1 run record","Internal QA only; official gates failed due Pro/Core mismatch, duplicate demo-source index contamination, and Re-import queue"
+"Plugins - screenshots SOP.md","Canonical screenshot production SOP","16029","Keep active"
+"Plugins - screenshot presentation guide.md","Derivative and composition guide","8190","Keep active"
+"Plugins - screenshot capture helpers.md","Helper utility guidance","3240","Keep active"
+"Plugins - screenshot capture run template.md","Reusable capture-run template","2112","Keep active"
+"Plugins - screenshot scene template.md","Reusable scene-note template","2301","Keep active"
+"Plugins - screenshot production backlog.md","Backlog and unresolved production work","2595","Keep active"
+"Smart Connections - screenshot campaign.md","Campaign brief and claims","11066","Keep active"
+"Smart Connections - screenshot scene manifest.md","Scene map and 100X matrix routing","6888","Keep active"
+"Smart Connections - screenshot fixture.md","Demo contract and result expectations","17916","Keep active; source notes live in reference"
+"Smart Connections - screenshot fixture v2.1 draft.md","Draft demo contract","7268","Spec only; source notes belong outside screenshot projects"
+"Screenshot Projects - schema and views.md","Record schema for screenshot project notes","19076","Keep active"
+"Screenshot Projects.base","Obsidian Bases view definition","10139","Keep active"
+"../reference/Smart Connections Demo/smart-connections-demo-v2/","Reference v2 demo source and snapshot states","82","Outside screenshot projects by design"
+"usable/","Reviewed usable image inventory","78","Image count; files are flattened at folder root"
+"archive/","Archived images and historical records","144","All files flattened at folder root"
+"capture_runs/","Prepared capture-run records and template","7","Active working notes"
+"scenes/","Scene notes","9","Active working notes"
+"prompts/","Reusable Computer Use prompts","9","Active prompt notes"
+"tools/","Local helper scripts","3","Keep scripts with matching zip artifact policy"

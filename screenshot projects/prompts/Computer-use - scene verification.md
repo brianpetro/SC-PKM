@@ -14,8 +14,9 @@ output_record_types:
   - capture_run
   - decision
 allowed_write_roots:
-  - screenshot projects/runs/verification
-  - screenshot projects/outputs
+  - screenshot projects/capture_runs
+  - screenshot projects/usable
+  - screenshot projects/archive
   - scene and manifest operational fields
 terminal_states:
   - capture-ready
@@ -28,7 +29,7 @@ terminal_states:
 ## use when
 
 - a scene is `draft` or requires revalidation
-- a passed fixture reset exists
+- a passed demo state reset exists
 - exact current UI labels or access behavior are not yet evidenced
 - the result contract must be tested before official capture
 
@@ -86,16 +87,16 @@ It may not produce or approve final publication assets.
 6. `screenshot projects/Plugins - screenshots SOP.md`
 7. this prompt note
 
-Confirm the fixture-reset record is `passed`.
+Confirm the demo-state reset record is `passed`.
 
-WHEN it is not `passed` THEN stop and set the next dispatch to fixture reset.
+WHEN it is not `passed` THEN stop and set the next dispatch to demo state reset.
 
 ## required output record
 
 Create:
 
 ```text
-screenshot projects/runs/verification/{run_id}.md
+screenshot projects/capture_runs/verification--{run_id}.md
 ```
 
 Use the current capture-run template plus:
@@ -155,7 +156,7 @@ Do not silently apply it.
 
 ### 1. Verify environment equivalence
 
-Compare the current environment with the passed fixture reset:
+Compare the current environment with the passed demo state reset:
 
 - vault
 - profile
@@ -167,7 +168,7 @@ Compare the current environment with the passed fixture reset:
 - ingestion include/exclude scope
 - functional settings
 
-WHEN a relevant value differs THEN stop and dispatch fixture reset or a new verification run.
+WHEN a relevant value differs THEN stop and dispatch demo state reset or a new verification run.
 
 ### 2. Create provenance evidence
 
@@ -303,7 +304,7 @@ next_prompt: "[[{{next_prompt}}]]"
 Use when feature behavior and ownership are confirmed, but the scene is not ready for official capture because:
 
 - result contract fails
-- fixture reset is insufficient
+- demo state reset is insufficient
 - required static/motion proof cannot yet be composed truthfully
 - a recoverable scene instruction remains incomplete
 

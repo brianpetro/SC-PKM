@@ -4,6 +4,8 @@ alignment:
   - "[[Plugins - screenshots SOP]]"
 fixture_id: smart-connections-demo-v2
 fixture_version: 2.0.0
+reference_demo_source: "reference/Smart Connections Demo/smart-connections-demo-v2"
+updated_on: 2026-06-26
 ---
 
 # Smart Connections - screenshot fixture
@@ -19,8 +21,9 @@ This fixture creates one coherent note cluster that can produce real, current Sm
 - Complete indexing before evaluating semantic results.
 - Never manually edit scores or result order.
 - Treat expected titles as a membership contract, not an exact ranking contract.
-- Clone or restore the named snapshot before every official capture run.
-- Store canonical scene notes, manifests, and image records in Smart Vault; keep demo content isolated in the dedicated fixture vault/profile.
+- Restore the named snapshot state from the reference demo source before every official capture run.
+- Store canonical scene notes, manifests, and image records in Smart Vault; keep demo notes and snapshot states out of `screenshot projects/`.
+- Keep demo content isolated to the dedicated demo profile and reference source under `reference/Smart Connections Demo/`.
 
 ## profile matrix
 
@@ -37,13 +40,30 @@ Do not create a Core screenshot by hiding Pro indicators from a Pro profile.
 
 ## result scoping policy
 
-- Prefer a namespaced fixture folder and clean profile over retrieval filters.
+- Prefer namespaced demo notes and a clean profile over retrieval filters.
 - Core scenes must not depend on Pro include/exclude or frontmatter filters.
 - Pro scenes may use a filter only when the filter itself is part of the verified scene or the campaign explicitly requires a scoped domain.
 - Record every active result filter in the capture run.
 - Never use a filter solely to hide a failed fixture result contract.
 
-## folder structure
+## reference demo source
+
+The current v2 demo source is stored outside the screenshot project area:
+
+```text
+reference/Smart Connections Demo/smart-connections-demo-v2/
+  README.md
+  checksums.sha256
+  profiles/
+  v2-base-unlinked/
+  v2-post-link/
+  v2-bases-unscored/
+  v2-bases-scored/
+```
+
+Do not place snapshot states or demo notes under `screenshot projects/`.
+
+## demo note structure
 
 ```text
 Smart Connections Demo/
@@ -76,7 +96,7 @@ Smart Connections Demo/
 |---|---|---|
 | `v2-base-unlinked` | anchor has an empty `### Related`; all notes indexed; no link has been inserted | 01, start of 02, 03, 04, 06 |
 | `v2-post-link` | anchor contains `- [[Avoiding Information Overload]]` under `### Related` | end of 02 and static re-capture |
-| `v2-bases-unscored` | Base exists, filters fixture candidate notes, excludes anchor, and has no Connections score column | start of 05 |
+| `v2-bases-unscored` | Base exists, filters demo candidate notes, excludes anchor, and has no Connections score column | start of 05 |
 | `v2-bases-scored` | fixed-reference Connections score column exists and is sorted descending | end of 05 and static re-capture |
 
 The post-action snapshots exist for deterministic static re-capture.
@@ -375,7 +395,7 @@ WHY: score ranges vary by embedding configuration and build.
 
 ## fixture validation checklist
 
-- [ ] all files exist under the namespaced fixture folder
+- [ ] all files exist in the restored namespaced demo note set
 - [ ] anchor is 250-500 words and contains no existing related-note links in `v2-base-unlinked`
 - [ ] related notes contain distinct prose rather than repeated seed sentences
 - [ ] negative controls exist

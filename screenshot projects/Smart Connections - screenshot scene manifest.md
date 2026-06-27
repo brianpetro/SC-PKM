@@ -17,13 +17,19 @@ It owns scene identity, dependencies, eligibility, and readiness status.
 
 Detailed access and recovery instructions live in the linked scene notes.
 
-Fixture content lives in [[Smart Connections - screenshot fixture]].
+Demo contract details live in [[Smart Connections - screenshot fixture]].
 
 ## status rule
 
 The instructions below are specification-complete, but a scene remains `draft` until its current UI path and fixture result contract are observed in the target Obsidian environment.
 
 Only a scene with a preserved test capture and all fatal truth gates passed may become `capture-ready`.
+
+## 100X candidate set
+
+The current managed PMax candidate plan lives in [[06_100X_IMPROVED_SCREENSHOT_SHOT_LIST]].
+
+Use `02_100X_SHOT_MATRIX.csv` as the complete 40-image import matrix and `03_PRIORITIZED_CAPTURE_ORDER.csv` when delegating launch or scale captures.
 
 ## scene manifest
 

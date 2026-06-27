@@ -82,7 +82,7 @@ WHY: presentation must never conceal a product-truth conflict.
 |---|---|
 | Asset class | The publication job: conversion, feature explanation, procedural instruction, QA evidence, or editorial/social. |
 | Campaign | An ordered selection of scenes and claims for one publication outcome. |
-| Scene | A content-agnostic definition of the UI relationship that must remain stable across fixtures and variants. |
+| Scene | A content-agnostic definition of the UI relationship that must remain stable across demo contracts and variants. |
 | Variant | A deliberate change that preserves the scene's outcome, such as desktop/mobile, source/block, or static/motion. |
 | Fixture | Versioned demo data, plugin profile, settings, and snapshots that make a scene reproducible. |
 | Capture run | One execution of one scene variant in a recorded environment. |
