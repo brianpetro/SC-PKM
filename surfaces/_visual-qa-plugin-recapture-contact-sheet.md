@@ -6,7 +6,8 @@ updated_on: 2026-06-30
 surface_type: "plugin"
 raw_screenshot_count: 27
 crop_count: 21
-campaign_asset_count: 12
+campaign_asset_count: 11
+support_derivative_count: 1
 ---
 # Plugin recapture contact sheet
 

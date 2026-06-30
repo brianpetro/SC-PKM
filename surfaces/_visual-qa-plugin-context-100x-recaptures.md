@@ -7,9 +7,10 @@ surface_type: "plugin"
 surface_count: 4
 raw_screenshot_count: 5
 crop_count: 5
-campaign_asset_count: 5
+campaign_asset_count: 4
 publication_candidate_count: 4
 support_only_count: 1
+support_derivative_count: 1
 ---
 # Smart Context and Connections 100X recaptures
 

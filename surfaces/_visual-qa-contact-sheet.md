@@ -37,7 +37,7 @@ A reviewer can open one workflow note, jump to native or plugin contact sheets, 
 - [[_visual-qa-native-ruthless-critique|Native screenshot ruthless critique]]: 22 keep, 14 crop candidate, 0 recapture.
 - [[_visual-qa-plugin-contact-sheet|Plugin surface contact sheet]]: 34 surfaces, 57 current screenshots, with legacy evidence in [[_visual-qa-plugin-raw-archive-manifest]].
 - [[_visual-qa-plugin-publication-candidates|Plugin publication-candidate contact sheet]]: 34 surfaces, 57 candidate screenshots.
-- [[_visual-qa-plugin-recapture-contact-sheet|Plugin recapture contact sheet]]: 27 raw captures, 21 crops, and 12 campaign assets from the 2026-06-30 pass.
+- [[_visual-qa-plugin-recapture-contact-sheet|Plugin recapture contact sheet]]: 27 raw captures, 21 crops, 11 campaign assets, and 1 support derivative from the 2026-06-30 pass.
 - [[_visual-qa-plugin-graph-context-campaign-assets|Plugin graph/context campaign assets]]: 4 promoted captioned assets.
 - [[_visual-qa-plugin-raw-archive-manifest|Plugin raw archive manifest]]: 250 archived and demoted screenshot references from plugin surface buckets.
 - [[_visual-qa-plugin-smart-graph-100x-recaptures|Smart Graph 100X recaptures]]: Focus cluster, Neighborhood, and Split right campaign assets.
