@@ -64,3 +64,32 @@ Blocking issues:
 - Rebuild or refresh the semantic index until results belong to the intended current note, block, or Base reference.
 - Confirm no filter error appears before any Base capture.
 - Capture separate landscape, square, and portrait compositions after the raw state passes gates.
+
+## Derivative crop set
+
+Generated 2026-06-27 from the four strongest dated raw candidates. These files are unannotated exports for QA review only; they inherit the raw gate failures above.
+
+| Format | Output size | Files |
+|---|---:|---|
+| Landscape | 1200 x 628 | crops/landscape/ag3-01-inline-block-popover__landscape_1200x628.png |
+| Landscape | 1200 x 628 | crops/landscape/ag3-03-bases-score-sorted__landscape_1200x628.png |
+| Landscape | 1200 x 628 | crops/landscape/ag1-04-footer-connections__landscape_1200x628.png |
+| Landscape | 1200 x 628 | crops/landscape/ag1-08-footer-expanded-results__landscape_1200x628.png |
+| Square | 1200 x 1200 | crops/square/ag3-01-inline-block-popover__square_1200x1200.png |
+| Square | 1200 x 1200 | crops/square/ag3-03-bases-score-sorted__square_1200x1200.png |
+| Square | 1200 x 1200 | crops/square/ag1-04-footer-connections__square_1200x1200.png |
+| Square | 1200 x 1200 | crops/square/ag1-08-footer-expanded-results__square_1200x1200.png |
+| Portrait | 960 x 1200 | crops/portrait/ag3-01-inline-block-popover__portrait_960x1200.png |
+| Portrait | 960 x 1200 | crops/portrait/ag3-03-bases-score-sorted__portrait_960x1200.png |
+| Portrait | 960 x 1200 | crops/portrait/ag1-04-footer-connections__portrait_960x1200.png |
+| Portrait | 960 x 1200 | crops/portrait/ag1-08-footer-expanded-results__portrait_960x1200.png |
+
+## QA contact sheets
+
+Contact sheets are annotated derivative review files. The green/yellow safe-area boxes mark the center 80% crop area. Every candidate is still gate-fail for official launch use.
+
+| Contact sheet | Dimensions | Notes |
+|---|---:|---|
+| contact_sheets/contact-sheet-landscape-qa-2026-06-27.png | 1424 x 1240 | Best readability: AG3-01 inline popover and AG3-03 Base score sort. |
+| contact_sheets/contact-sheet-square-qa-2026-06-27.png | 1184 x 1560 | Best readability: AG3-03 Base score sort. |
+| contact_sheets/contact-sheet-portrait-qa-2026-06-27.png | 1064 x 1600 | Best readability: AG3-03 Base score sort. |

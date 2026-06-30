@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"demo-note","type":"file","file":"surfaces/_fixtures/Native Surface Demo.md","x":-500,"y":-160,"width":340,"height":240},
+		{"id":"overview-note","type":"file","file":"reference/PKM/Personal Knowledge Management Overview.md","x":-80,"y":-180,"width":360,"height":260},
+		{"id":"target-note","type":"file","file":"surfaces/_fixtures/Native Surface Link Target.md","x":360,"y":-150,"width":340,"height":240},
+		{"id":"label","type":"text","text":"# PKM capture map\nCapture -> connect -> retrieve -> synthesize.\n\nUse this canvas to stage native Obsidian screenshots without private notes.","x":-110,"y":190,"width":440,"height":190}
+	],
+	"edges":[
+		{"id":"demo-to-overview","fromNode":"demo-note","fromSide":"right","toNode":"overview-note","toSide":"left"},
+		{"id":"overview-to-target","fromNode":"overview-note","fromSide":"right","toNode":"target-note","toSide":"left"}
+	]
+}

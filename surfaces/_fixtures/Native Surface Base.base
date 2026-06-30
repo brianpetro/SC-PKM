@@ -1,0 +1,19 @@
+filters:
+  and:
+    - file.folder == "reference/PKM"
+formulas:
+  Note Type: file.ext
+views:
+  - type: table
+    name: PKM reference notes
+    order:
+      - file.name
+      - formula.Note Type
+      - file.mtime
+    sort:
+      - property: file.name
+        direction: ASC
+    limit: 20
+    columnSize:
+      file.name: 280
+      formula.Note Type: 120

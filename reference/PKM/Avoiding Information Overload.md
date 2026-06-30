@@ -8,14 +8,14 @@ tags:
   - habits
   - review
 ---
-
 > [!summary]
 > Reduce overwhelm by filtering inputs, batching processing, and archiving noise.
-
 > [!When to use]
 > When inputs keep piling up and you feel behind, this note helps you filter, batch, and archive so your vault stays high-signal, even if your inbox is already big.
+Related: 
 
-### Diagnose overload sources and symptoms
+Ranked links:
+
 - You save 40 articles in a week. On Friday you cannot remember why any of them mattered, so they sit forever. The fix is to add a capture boundary plus a weekly processing slot tied to an output goal.
 - Your inbox grows faster than you process it.
 - You keep clipping content but rarely retrieve it later.
